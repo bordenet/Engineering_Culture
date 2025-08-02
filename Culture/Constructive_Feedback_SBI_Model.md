@@ -298,6 +298,22 @@ When giving feedback in writing (performance reviews, code review comments, proj
 - **[Thanks for the Feedback](https://www.goodreads.com/book/show/18114120-thanks-for-the-feedback)** by Douglas Stone - How to receive feedback effectively (useful for giving it too)
 - **[Weasel Words Guide](Weasel_Words.md)** - Eliminate vague language that undermines your feedback's impact
 
------
+---
+
+## 🧭 Navigation
+
+**🏠 [Engineering Culture](../README.md)** → **📂 [Culture](../README.md#culture)** → **📄 Constructive Feedback: SBI Model**
+
+**Quick Links:** [🔝 Back to Top](#-constructive-feedback-the-sbi-model) | [📚 Additional Reading](#additional-reading) | [💬 Feedback](https://github.com/bordenet/Engineering_Culture/issues/new)
+
+**Related in This Series:**
+- [Professional Writing Tips](./Professional_Writing_Tips.md) - *Clear communication foundations*
+- [Weasel Words](./Weasel_Words.md) - *Avoiding imprecise language in feedback*
+- [People-Process-Technology Triad](./People_-_Process_-_Technology_Triad.md) - *People-first organizational approach*
+
+**Related Topics:**
+- [Mechanisms: Building Self-Correcting Systems](../SDLC/Mechanisms:_Building_Self-Correcting_Systems.md) - *Systematic improvement frameworks*
+
+---
 
 *Have your own templates or hard-won lessons? I'd love to hear them. Drop a comment or [open an issue](https://github.com/bordenet/Engineering_Culture/issues/new) to share.*

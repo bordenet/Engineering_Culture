@@ -215,6 +215,21 @@ These authoritative sources provide essential frameworks for effective project p
 
 ---
 
-*Have your own templates or hard-won lessons? I'd love to hear them. Drop a comment or [open an issue](https://github.com/bordenet/Engineering_Culture/issues/new) to share.*
+## 🧭 Navigation
 
-*More engineering leadership insights will be forthcoming. Check back soon!* 
+**🏠 [Engineering Culture](../README.md)** → **📂 [SDLC](../README.md#sdlc)** → **📄 Project Planning Mechanisms: Documents**
+
+**Quick Links:** [🔝 Back to Top](#-sdlc-project-planning-mechanisms-a-practical-guide-to-documents) | [📚 Additional Reading](#additional-reading) | [💬 Feedback](https://github.com/bordenet/Engineering_Culture/issues/new)
+
+**Related in This Series:**
+- [Understanding What vs How](./Understanding_What_vs_How.md) - *Foundational concepts for document selection*
+- [The PR-FAQ Mechanism](./The_PR-FAQ.md) - *Deep dive into Amazon's working backwards approach*
+- [The One-Pager](./The_One-Pager.md) - *Quick decision-making documentation*
+
+**Related Topics:**
+- [Professional Writing Tips](../Culture/Professional_Writing_Tips.md) - *Writing techniques referenced in this guide*
+- [Mechanisms: Building Self-Correcting Systems](./Mechanisms:_Building_Self-Correcting_Systems.md) - *Framework behind effective documentation*
+
+---
+
+*Have your own templates or hard-won lessons? I'd love to hear them. Drop a comment or [open an issue](https://github.com/bordenet/Engineering_Culture/issues/new) to share.* 

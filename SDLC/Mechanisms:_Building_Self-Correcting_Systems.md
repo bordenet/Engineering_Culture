@@ -246,4 +246,21 @@ Start with one problem. Build one mechanism. Measure the results. The hardest pa
 
 ---
 
+## 🧭 Navigation
+
+**🏠 [Engineering Culture](../README.md)** → **📂 [SDLC](../README.md#sdlc)** → **📄 Mechanisms: Building Self-Correcting Systems**
+
+**Quick Links:** [🔝 Back to Top](#-mechanisms-building-self-correcting-systems) | [📚 Additional Reading](#additional-reading) | [💬 Feedback](https://github.com/bordenet/Engineering_Culture/issues/new)
+
+**Related in This Series:**
+- [Understanding What vs How](./Understanding_What_vs_How.md) - *Foundational thinking for system design*
+- [Project Planning Documents](./Project_Planning_Mechanisms:_Documents.md) - *Documentation as mechanism*
+- [The PR-FAQ Mechanism](./The_PR-FAQ.md) - *Amazon's systematic approach*
+
+**Related Topics:**
+- [People-Process-Technology Triad](../Culture/People_-_Process_-_Technology_Triad.md) - *Organizational framework for mechanisms*
+- [The Myth of Hypercare](../Culture/The_Myth_of_Hypercare.md) - *Building sustainable operations*
+
+---
+
 *Have your own templates or hard-won lessons? I'd love to hear them. Drop a comment or [open an issue](https://github.com/bordenet/Engineering_Culture/issues/new) to share.*

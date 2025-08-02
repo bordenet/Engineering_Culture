@@ -207,6 +207,21 @@ These authoritative sources provide deeper insights into the PR-FAQ methodology 
 
 ---
 
-*Have your own templates or hard-won lessons? I'd love to hear them. Drop a comment or [open an issue](https://github.com/bordenet/Engineering_Culture/issues/new) to share.*
+## 🧭 Navigation
 
-*More engineering leadership insights will be forthcoming. Check back soon!*
+**🏠 [Engineering Culture](../README.md)** → **📂 [SDLC](../README.md#sdlc)** → **📄 The PR-FAQ Mechanism**
+
+**Quick Links:** [🔝 Back to Top](#-project-planning-the-pr-faq-mechanism) | [📚 Additional Reading](#additional-reading) | [💬 Feedback](https://github.com/bordenet/Engineering_Culture/issues/new)
+
+**Related in This Series:**
+- [Project Planning Documents](./Project_Planning_Mechanisms:_Documents.md) - *Complete guide to planning documents*
+- [The One-Pager](./The_One-Pager.md) - *Quick decision-making documentation*
+- [Understanding What vs How](./Understanding_What_vs_How.md) - *Separating outcomes from implementation*
+
+**Related Topics:**
+- [Mechanisms: Building Self-Correcting Systems](./Mechanisms:_Building_Self-Correcting_Systems.md) - *Amazon's systematic approach to improvement*
+- [Professional Writing Tips](../Culture/Professional_Writing_Tips.md) - *Writing techniques for compelling narratives*
+
+---
+
+*Have your own templates or hard-won lessons? I'd love to hear them. Drop a comment or [open an issue](https://github.com/bordenet/Engineering_Culture/issues/new) to share.*

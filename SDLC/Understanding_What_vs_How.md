@@ -284,6 +284,23 @@ The engineering world is full of elegant solutions looking for problems. Don't b
 - **[The Lean Startup](http://theleanstartup.com/)** by Eric Ries - Build-measure-learn cycles that keep "how" aligned with "what"
 - **[Escaping the Build Trap](https://melissaperri.com/book)** by Melissa Perri - Product management principles that apply to engineering leadership
 
------
+---
+
+## 🧭 Navigation
+
+**🏠 [Engineering Culture](../README.md)** → **📂 [SDLC](../README.md#sdlc)** → **📄 Understanding What vs How**
+
+**Quick Links:** [🔝 Back to Top](#️-what-vs-how-the-critical-distinction-in-engineering-leadership) | [📚 Additional Reading](#additional-reading) | [💬 Feedback](https://github.com/bordenet/Engineering_Culture/issues/new)
+
+**Related in This Series:**
+- [Mechanisms: Building Self-Correcting Systems](./Mechanisms:_Building_Self-Correcting_Systems.md) - *Framework for systematic improvement*
+- [Project Planning Documents](./Project_Planning_Mechanisms:_Documents.md) - *Choosing the right documentation approach*
+- [The PR-FAQ Mechanism](./The_PR-FAQ.md) - *Amazon's "what before how" approach*
+
+**Related Topics:**
+- [People-Process-Technology Triad](../Culture/People_-_Process_-_Technology_Triad.md) - *Getting organizational priorities right*
+- [Professional Writing Tips](../Culture/Professional_Writing_Tips.md) - *Clear communication of what vs how*
+
+---
 
 *Have your own templates or hard-won lessons? I'd love to hear them. Drop a comment or [open an issue](https://github.com/bordenet/Engineering_Culture/issues/new) to share.*
