@@ -220,6 +220,23 @@ The magic happens when all three work together: great people designing effective
 - **[The Lean Startup by Eric Ries](http://theleanstartup.com/)** - Framework for building organizations that can adapt and learn quickly
 - **[Thinking in Systems by Donella Meadows](https://www.chelseagreen.com/product/thinking-in-systems/)** - Essential systems thinking principles for organizational design
 
------
+---
+
+## 🧭 Navigation
+
+**🏠 [Engineering Culture](../README.md)** → **📂 [Culture](../README.md#culture)** → **📄 People-Process-Technology Triad**
+
+**Quick Links:** [🔝 Back to Top](#️-the-people-process-technology-triad-getting-the-order-right) | [📚 Additional Reading](#additional-reading) | [💬 Feedback](https://github.com/bordenet/Engineering_Culture/issues/new)
+
+**Related in This Series:**
+- [Understanding Conway's Law](./Understanding_Conways_Law.md) - *How structure shapes systems*
+- [The Myth of Hypercare](./The_Myth_of_Hypercare.md) - *Operational excellence fundamentals*
+- [Professional Writing Tips](./Professional_Writing_Tips.md) - *Communication as foundation*
+
+**Related Topics:**
+- [Mechanisms: Building Self-Correcting Systems](../SDLC/Mechanisms:_Building_Self-Correcting_Systems.md) - *Framework for organizational improvement*
+- [Understanding What vs How](../SDLC/Understanding_What_vs_How.md) - *Separating outcomes from implementation*
+
+---
 
 *Have your own templates or hard-won lessons? I'd love to hear them. Drop a comment or [open an issue](https://github.com/bordenet/Engineering_Culture/issues/new) to share.*

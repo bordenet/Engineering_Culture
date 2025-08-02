@@ -94,6 +94,22 @@ The core principle is simple: **say what you mean, and mean what you say**. By e
 - **[The Clean Coder by Robert Martin](https://www.oreilly.com/library/view/the-clean-coder/9780137081073/)** - Professional communication standards for software developers
 - **[Crucial Conversations by Kerry Patterson](https://cruciallearning.com/crucial-conversations-book/)** - Tools for talking when stakes are high in engineering environments
 
------
+---
+
+## 🧭 Navigation
+
+**🏠 [Engineering Culture](../README.md)** → **📂 [Culture](../README.md#culture)** → **📄 Clear Communication: Avoiding Weasel Words**
+
+**Quick Links:** [🔝 Back to Top](#️-clear-communication-a-guide-to-avoiding-weasel-words-and-clichés) | [📚 Additional Reading](#additional-reading) | [💬 Feedback](https://github.com/bordenet/Engineering_Culture/issues/new)
+
+**Related in This Series:**
+- [Professional Writing Tips](./Professional_Writing_Tips.md) - *Comprehensive writing framework*
+- [Constructive Feedback: SBI Model](./Constructive_Feedback_SBI_Model.md) - *Specific, actionable communication*
+
+**Related Topics:**
+- [Project Planning Documents](../SDLC/Project_Planning_Mechanisms:_Documents.md) - *Clear documentation principles*
+- [Understanding What vs How](../SDLC/Understanding_What_vs_How.md) - *Precise thinking and communication*
+
+---
 
 *Have your own templates or hard-won lessons? I'd love to hear them. Drop a comment or [open an issue](https://github.com/bordenet/Engineering_Culture/issues/new) to share.*

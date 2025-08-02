@@ -410,6 +410,22 @@ Conway's Law isn't a constraint to fight—it's a principle to leverage. By desi
 - **[Team Topologies by Matthew Skelton and Manuel Pais](https://teamtopologies.com/)** - Comprehensive framework for organizing teams around Conway's Law principles
 - **[The Inverse Conway Maneuver](https://www.thoughtworks.com/radar/techniques/inverse-conway-maneuver)** - ThoughtWorks' perspective on designing team structures to support desired architectures
 
------
+---
+
+## 🧭 Navigation
+
+**🏠 [Engineering Culture](../README.md)** → **📂 [Culture](../README.md#culture)** → **📄 Understanding Conway's Law**
+
+**Quick Links:** [🔝 Back to Top](#️-understanding-conways-law-why-team-structure-determines-system-architecture) | [📚 Additional Reading](#additional-reading) | [💬 Feedback](https://github.com/bordenet/Engineering_Culture/issues/new)
+
+**Related in This Series:**
+- [People-Process-Technology Triad](./People_-_Process_-_Technology_Triad.md) - *Organizational design fundamentals*
+- [The Myth of Hypercare](./The_Myth_of_Hypercare.md) - *Operational structure considerations*
+
+**Related Topics:**
+- [SOA & Microservices](../EngFundamentals/SOA_and_Microservices.md) - *Architecture patterns shaped by teams*
+- [Mechanisms: Building Self-Correcting Systems](../SDLC/Mechanisms:_Building_Self-Correcting_Systems.md) - *Systematic organizational improvement*
+
+---
 
 *Have your own templates or hard-won lessons? I'd love to hear them. Drop a comment or [open an issue](https://github.com/bordenet/Engineering_Culture/issues/new) to share.*

@@ -250,6 +250,22 @@ The goal isn't perfect monitoring—it's building observability that makes engin
 - **[Golden Signals](https://sre.google/sre-book/monitoring-distributed-systems/#xref_monitoring_golden-signals)** - The four key metrics every service should monitor
 - **[Data Visualization Best Practices](https://www.datylon.com/blog/bad-data-visualization-examples)** - Common visualization mistakes and how to avoid them
 
------
+---
+
+## 🧭 Navigation
+
+**🏠 [Engineering Culture](../README.md)** → **📂 [Engineering Fundamentals](../README.md#engineering-fundamentals)** → **📄 How to Construct a Useful Dashboard**
+
+**Quick Links:** [🔝 Back to Top](#-how-to-construct-a-useful-dashboard) | [📚 Additional Reading](#additional-reading) | [💬 Feedback](https://github.com/bordenet/Engineering_Culture/issues/new)
+
+**Related in This Series:**
+- [What Dashboards Are Good For](./What_Dashboards_are_Good_For.md) - *Understanding dashboard purpose and limitations*
+- [The Road to an SLA](./The_Road_to_an_SLA.md) - *Using metrics for customer commitments*
+- [SOA & Microservices](./SOA_and_Microservices.md) - *Monitoring distributed systems*
+
+**Related Topics:**
+- [Mechanisms: Building Self-Correcting Systems](../SDLC/Mechanisms:_Building_Self-Correcting_Systems.md) - *Using data for systematic improvement*
+
+---
 
 *Have your own templates or hard-won lessons? I'd love to hear them. Drop a comment or [open an issue](https://github.com/bordenet/Engineering_Culture/issues/new) to share.*

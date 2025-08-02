@@ -321,4 +321,21 @@ Your future self—and your colleagues—will thank you for the investment.
 
 -----
 
+## 🧭 Navigation
+
+**🏠 [Engineering Culture](../README.md)** → **📂 [Culture](../README.md#culture)** → **📄 Professional Writing for Engineers**
+
+**Quick Links:** [🔝 Back to Top](#️-professional-writing-for-engineers-beyond-code-comments) | [📚 Additional Reading](#additional-reading) | [💬 Feedback](https://github.com/bordenet/Engineering_Culture/issues/new)
+
+**Related in This Series:**
+- [Constructive Feedback: SBI Model](./Constructive_Feedback_SBI_Model.md) - *Structured communication for feedback*
+- [Weasel Words](./Weasel_Words.md) - *Clear, precise language guidelines*
+- [People-Process-Technology Triad](./People_-_Process_-_Technology_Triad.md) - *Communication as foundation*
+
+**Related Topics:**
+- [Project Planning Documents](../SDLC/Project_Planning_Mechanisms:_Documents.md) - *Applying writing skills to technical docs*
+- [Understanding What vs How](../SDLC/Understanding_What_vs_How.md) - *Clear thinking for clear writing*
+
+---
+
 *Have your own templates or hard-won lessons? I'd love to hear them. Drop a comment or [open an issue](https://github.com/bordenet/Engineering_Culture/issues/new) to share.*

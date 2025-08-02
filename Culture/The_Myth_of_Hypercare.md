@@ -214,6 +214,22 @@ The goal isn't to eliminate the extra attention that new systems require—it's 
 - **[Accelerate by Nicole Forsgren, Jez Humble, and Gene Kim](https://itrevolution.com/book/accelerate/)** - Research-backed insights on what makes high-performing engineering teams
 - **[The Phoenix Project by Gene Kim](https://itrevolution.com/book/the-phoenix-project/)** - Business novel illustrating the transformation from reactive to proactive operations
 
------
+---
+
+## 🧭 Navigation
+
+**🏠 [Engineering Culture](../README.md)** → **📂 [Culture](../README.md#culture)** → **📄 The Myth of Hypercare**
+
+**Quick Links:** [🔝 Back to Top](#-the-myth-of-hypercare-why-this-industry-term-undermines-operational-excellence) | [📚 Additional Reading](#additional-reading) | [💬 Feedback](https://github.com/bordenet/Engineering_Culture/issues/new)
+
+**Related in This Series:**
+- [People-Process-Technology Triad](./People_-_Process_-_Technology_Triad.md) - *Getting organizational priorities right*
+- [Understanding Conway's Law](./Understanding_Conways_Law.md) - *How structure affects operations*
+
+**Related Topics:**
+- [Mechanisms: Building Self-Correcting Systems](../SDLC/Mechanisms:_Building_Self-Correcting_Systems.md) - *Framework for operational excellence*
+- [What Dashboards Are Good For](../EngFundamentals/What_Dashboards_are_Good_For.md) - *Operational visibility fundamentals*
+
+---
 
 *Have your own templates or hard-won lessons? I'd love to hear them. Drop a comment or [open an issue](https://github.com/bordenet/Engineering_Culture/issues/new) to share.*
