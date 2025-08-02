@@ -302,6 +302,18 @@ Professional writing isn't about perfect grammar or literary style—it's about 
 
 The engineers who master professional writing find their ideas getting implemented, their proposals getting approved, and their careers advancing faster than peers with similar technical skills but weaker communication abilities.
 
+### Important Cultural Caveat
+
+**Some organizational cultures will find the narrative approach more effective than others.** In environments where people have grown intellectually lazy and gravitated toward nebulous PowerPoint decks, you may encounter significant attention span deficits. When colleagues lack the patience or focus to read even a well-crafted one-pager, you're dealing with much deeper organizational problems that need to be addressed before even ideal documents can make a meaningful impact.
+
+These cultural challenges often manifest as:
+- Preference for bullet points over structured arguments
+- Resistance to reading anything longer than a few sentences
+- Immediate requests to "just put it in slides"
+- Decision-making based on presentation style rather than content quality
+
+In such environments, you may need to gradually introduce better communication practices while simultaneously working on the underlying cultural issues around intellectual rigor and attention to detail.
+
 **Start now**: Pick one type of document you write regularly and apply one technique from this guide. Measure the response. Iterate and improve.
 
 Your future self—and your colleagues—will thank you for the investment.
