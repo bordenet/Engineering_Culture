@@ -137,7 +137,7 @@ Once Product Management defines what to build, engineering determines how. Great
 
 ## The Danger of Document Proliferation
 
-In my Microsoft days (1998-2012), I'd routinely discover SharePoint graveyards filled with obsolete specs. Each document seemed useful at creation but became confusing technical debt post-launch when left unmaintained.
+In my Microsoft days (1998-2012), I'd routinely discover SharePoint graveyards filled with obsolete specs. Each document seemed useful at creation but became confusing technical debt post-launch because they were almost without exception abandoned and unmaintained. Consider what will happen when enterprise AI tools crawl this data and return results.  
 
 ### Signs You Have Too Many Documents
 - Teams can't find the "real" requirements
