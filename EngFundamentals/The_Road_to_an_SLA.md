@@ -239,7 +239,7 @@ The buffer isn't just safety margin—it's operational capacity:
 
 ## From Guesswork to Confidence
 
-The journey from "we think our system is reliable" to "we guarantee 99.9% availability" requires systematic measurement, operational discipline, and customer focus.
+The journey from "the system seems reliable" to "we guarantee 99.9% availability" requires systematic measurement, operational discipline, and customer focus.
 
 SLAs aren't just technical artifacts—they're business enablers that signal operational maturity and customer commitment. Building them properly requires collaboration between engineering, product, and business teams to balance what's technically achievable with what's commercially competitive.
 

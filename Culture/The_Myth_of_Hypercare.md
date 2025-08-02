@@ -203,6 +203,17 @@ The goal isn't to eliminate the extra attention that new systems require—it's 
 
 **Related Reading**: Understanding the [People-Process-Technology](People_-_Process_-_Technology_Triad.md) framework helps ensure your organization can support sustainable operational practices. The [SBI feedback model](Constructive_Feedback_SBI_Model.md) provides tools for conducting effective operational retrospectives that improve team performance.
 
+## Additional Reading
+
+### Operational Excellence Foundations
+- **[Google SRE Book: Embracing Risk](https://sre.google/sre-book/embracing-risk/)** - How to balance reliability with feature velocity through systematic risk management
+- **[Release It! by Michael Nygard](https://pragprog.com/titles/mnee2/release-it-second-edition/)** - Essential patterns for building resilient, production-ready systems
+- **[The DevOps Handbook by Gene Kim](https://itrevolution.com/book/the-devops-handbook/)** - Comprehensive guide to building high-performing technology organizations
+
+### Operational Culture
+- **[Accelerate by Nicole Forsgren, Jez Humble, and Gene Kim](https://itrevolution.com/book/accelerate/)** - Research-backed insights on what makes high-performing engineering teams
+- **[The Phoenix Project by Gene Kim](https://itrevolution.com/book/the-phoenix-project/)** - Business novel illustrating the transformation from reactive to proactive operations
+
 -----
 
 *Have your own templates or hard-won lessons? I'd love to hear them. Drop a comment or [open an issue](https://github.com/bordenet/Engineering_Culture/issues/new) to share.*

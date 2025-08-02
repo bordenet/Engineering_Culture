@@ -232,8 +232,18 @@ Start with one problem. Build one mechanism. Measure the results. The hardest pa
 
 **Observability tip**: Most effective mechanisms require measurement to validate their impact. See [What Dashboards Are Good For](../EngFundamentals/What_Dashboards_are_Good_For.md) for building monitoring that supports continuous improvement.
 
+## Additional Reading
+
+### Continuous Improvement Foundations
+- **[The Toyota Way by Jeffrey Liker](https://www.lean.org/the-lean-library/the-toyota-way/)** - Original framework for continuous improvement and systematic problem-solving
+- **[The Lean Startup by Eric Ries](http://theleanstartup.com/)** - Build-measure-learn cycles applied to product development
+- **[The Goal by Eliyahu Goldratt](https://www.toc-goldratt.com/en/product/The-Goal-A-Process-of-Ongoing-Improvement)** - Theory of constraints and systematic bottleneck identification
+
+### Engineering Process Excellence
+- **[Accelerate by Nicole Forsgren, Jez Humble, and Gene Kim](https://itrevolution.com/book/accelerate/)** - Research-backed insights on high-performing technology organizations
+- **[The DevOps Handbook by Gene Kim](https://itrevolution.com/book/the-devops-handbook/)** - Practical guide to building improvement mechanisms in technology organizations
+- **[Google SRE Book: Monitoring Distributed Systems](https://sre.google/sre-book/monitoring-distributed-systems/)** - Essential framework for building measurable, improvable systems
+
 ---
 
 *Have your own templates or hard-won lessons? I'd love to hear them. Drop a comment or [open an issue](https://github.com/bordenet/Engineering_Culture/issues/new) to share.*
-
-*More engineering leadership insights will be forthcoming. Check back soon!*

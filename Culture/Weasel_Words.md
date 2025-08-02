@@ -81,7 +81,18 @@ Source: https://www.factoftheday1.com/p/may-5-use-active-voice
 
 I've found that developing a habit of increasingly precise communication is one of the most powerful ways to improve your effectiveness and your team's effectiveness. In my experience, it helps facilitate a culture of ownership, transparency, and data-driven decision-making.
 
-The core principle is simple: **say what you mean, and mean what you say**. By eliminating these anti-patterns, we can ensure our conversations are productive, our documents are clear, and our projects are built on a solid foundation of shared understanding.
+The core principle is simple: **say what you mean, and mean what you say**. By eliminating these anti-patterns, teams can ensure their conversations are productive, their documents are clear, and their projects are built on a solid foundation of shared understanding.
+
+## Additional Reading
+
+### Communication Excellence
+- **[Made to Stick by Chip Heath and Dan Heath](https://heathbrothers.com/books/made-to-stick/)** - Why some ideas survive and others die, with practical frameworks for clear communication
+- **[The Pyramid Principle by Barbara Minto](https://www.barbaraminto.com/)** - Classic framework for logical thinking and clear writing in business contexts
+- **[On Writing Well by William Zinsser](https://www.harpercollins.com/products/on-writing-well-william-zinsser)** - Timeless principles of clear, effective writing
+
+### Engineering Communication
+- **[The Clean Coder by Robert Martin](https://www.oreilly.com/library/view/the-clean-coder/9780137081073/)** - Professional communication standards for software developers
+- **[Crucial Conversations by Kerry Patterson](https://cruciallearning.com/crucial-conversations-book/)** - Tools for talking when stakes are high in engineering environments
 
 -----
 

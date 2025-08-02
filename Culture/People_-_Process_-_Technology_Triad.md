@@ -208,6 +208,18 @@ Organizations that flip this order—starting with cool technology, imposing rig
 
 The magic happens when all three work together: great people designing effective processes that leverage appropriate technology to create outsized business impact. That's the real competitive advantage.
 
+## Additional Reading
+
+### Organizational Design Foundations
+- **[The Five Dysfunctions of a Team by Patrick Lencioni](https://www.tablegroup.com/books/dysfunctions/)** - Essential framework for understanding team dynamics and trust-building
+- **[Team of Teams by General Stanley McChrystal](https://www.mcchrystalgroup.com/insights/teamofteams/)** - How traditional hierarchies fail in complex environments and what to do instead
+- **[Accelerate by Nicole Forsgren, Jez Humble, and Gene Kim](https://itrevolution.com/book/accelerate/)** - Research-backed insights on organizational capabilities that drive performance
+
+### Process and Technology Integration
+- **[The DevOps Handbook by Gene Kim](https://itrevolution.com/book/the-devops-handbook/)** - Comprehensive guide to aligning people, process, and technology for high performance
+- **[The Lean Startup by Eric Ries](http://theleanstartup.com/)** - Framework for building organizations that can adapt and learn quickly
+- **[Thinking in Systems by Donella Meadows](https://www.chelseagreen.com/product/thinking-in-systems/)** - Essential systems thinking principles for organizational design
+
 -----
 
 *Have your own templates or hard-won lessons? I'd love to hear them. Drop a comment or [open an issue](https://github.com/bordenet/Engineering_Culture/issues/new) to share.*

@@ -199,6 +199,22 @@ Documentation should accelerate development, not impede it. Every document must 
 
 In the end, working software matters more than comprehensive documentation. But the right documentation, at the right time, makes working software possible.
 
+## Additional Reading
+
+These authoritative sources provide essential frameworks for effective project planning and documentation:
+
+- **"The Mythical Man-Month"** by Frederick P. Brooks Jr. - Timeless insights on software project management and communication, particularly relevant for understanding why clear documentation prevents project failures and how adding people to late projects makes them later.
+
+- **"Documentation for Software Engineers"** by Kathy Sierra and Bert Bates - Comprehensive guide to creating documentation that actually helps teams ship better software, with practical frameworks for knowing what to document and when.
+
+- **"Making Things Happen"** by Scott Berkun - Essential reading on project management for technology teams, offering proven strategies for planning, executing, and documenting complex software projects.
+
+- **"The Design of Everyday Things"** by Don Norman - Foundational text on user-centered design thinking that informs how to write requirements documents that focus on user outcomes rather than technical features.
+
+- **"Lean Enterprise"** by Jez Humble, Joanne Molesky, and Barry O'Reilly - Modern approach to scaling product development that emphasizes lightweight documentation practices and continuous validation of assumptions.
+
+- **"Team Topologies"** by Matthew Skelton and Manuel Pais - Critical reading for understanding how team structure affects documentation needs, helping determine the right level of formal specification for different organizational contexts.
+
 ---
 
 *Have your own templates or hard-won lessons? I'd love to hear them. Drop a comment or [open an issue](https://github.com/bordenet/Engineering_Culture/issues/new) to share.*

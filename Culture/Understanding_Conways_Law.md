@@ -399,6 +399,17 @@ Conway's Law isn't a constraint to fight—it's a principle to leverage. By desi
 
 **Related Reading**: Understanding [SOA and microservices patterns](../EngFundamentals/SOA_and_Microservices.md) helps inform architectural decisions that influence team structure. Building effective [mechanisms for organizational improvement](../SDLC/Mechanisms:_Building_Self-Correcting_Systems.md) ensures your team structures continue to serve their architectural purposes over time.
 
+## Additional Reading
+
+### Foundational Sources
+- **[Melvin Conway's Original Paper (1968)](http://www.melconway.com/Home/Committees_Paper.html)** - "How Do Committees Invent?" The original articulation of Conway's Law
+- **[Martin Fowler: Conway's Law](https://martinfowler.com/bliki/ConwaysLaw.html)** - Essential modern perspective on organizational design and system architecture
+- **[Ruth Malan: Conway's Law](https://ruthmalan.com/Journal/2014/2014JournalJune.htm#Conways_Law)** - Deep dive into the implications for software architecture
+
+### Practical Applications
+- **[Team Topologies by Matthew Skelton and Manuel Pais](https://teamtopologies.com/)** - Comprehensive framework for organizing teams around Conway's Law principles
+- **[The Inverse Conway Maneuver](https://www.thoughtworks.com/radar/techniques/inverse-conway-maneuver)** - ThoughtWorks' perspective on designing team structures to support desired architectures
+
 -----
 
 *Have your own templates or hard-won lessons? I'd love to hear them. Drop a comment or [open an issue](https://github.com/bordenet/Engineering_Culture/issues/new) to share.*

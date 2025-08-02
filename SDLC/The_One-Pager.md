@@ -127,8 +127,16 @@ The most valuable outcome of a One-Pager process is often the decision *not* to 
 
 By embracing the discipline of the One-Pager, you can foster a culture of clear thinking, strategic alignment, and efficient execution.
 
+## Additional Reading
+
+### Communication and Clarity
+- **[Made to Stick by Chip Heath and Dan Heath](https://heathbrothers.com/books/made-to-stick/)** - Why some ideas are understood and remembered while others are forgotten
+- **[The Pyramid Principle by Barbara Minto](https://www.barbaraminto.com/)** - Structured thinking and clear communication for complex business ideas
+
+### Strategic Planning
+- **[Good Strategy Bad Strategy by Richard Rumelt](https://www.goodreads.com/book/show/11721966-good-strategy-bad-strategy)** - How to distinguish between real strategy and wishful thinking
+- **[The Lean Startup by Eric Ries](http://theleanstartup.com/)** - Build-measure-learn approach to validating ideas quickly
+
 -----
 
 *Have your own templates or hard-won lessons? I'd love to hear them. Drop a comment or [open an issue](https://github.com/bordenet/Engineering_Culture/issues/new) to share.*
-
-*More engineering leadership insights will be forthcoming. Check back soon!*

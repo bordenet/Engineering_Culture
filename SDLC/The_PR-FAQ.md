@@ -189,6 +189,22 @@ Skip them when the path forward is clear and the stakes are low.
 
 The hardest part isn't writing the document—it's having the courage to kill projects when the PR-FAQ reveals they're not worth pursuing. That's also where the greatest value lies: failing fast and cheap on paper rather than slow and expensive in production.
 
+## Additional Reading
+
+These authoritative sources provide deeper insights into the PR-FAQ methodology and working backwards philosophy:
+
+- **"Working Backwards: Insights, Stories, and Secrets from Inside Amazon"** by Colin Bryar and Bill Carr - The definitive guide written by Amazon insiders who helped develop the PR-FAQ process, offering detailed frameworks and real examples from inside the company.
+
+- **"The Everything Store: Jeff Bezos and the Age of Amazon"** by Brad Stone - Essential context on Amazon's customer-obsessed culture that gave birth to working backwards, showing how radical customer focus shapes product development.
+
+- **"Good Strategy Bad Strategy"** by Richard Rumelt - Foundational reading on strategic thinking that complements PR-FAQ methodology, particularly valuable for understanding how to identify and articulate compelling customer problems.
+
+- **"The Lean Startup"** by Eric Ries - Provides the theoretical foundation for hypothesis-driven product development that underlies the PR-FAQ's emphasis on validating assumptions before building.
+
+- **"Inspired: How to Create Tech Products Customers Love"** by Marty Cagan - Industry-standard guide to product management that reinforces customer-centric development principles and offers complementary frameworks for product discovery.
+
+- **"The Mom Test"** by Rob Fitzpatrick - Practical guide to customer validation techniques that pairs perfectly with PR-FAQ development, helping teams understand whether their press release assumptions reflect real customer needs.
+
 ---
 
 *Have your own templates or hard-won lessons? I'd love to hear them. Drop a comment or [open an issue](https://github.com/bordenet/Engineering_Culture/issues/new) to share.*
