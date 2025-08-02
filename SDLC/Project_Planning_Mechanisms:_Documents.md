@@ -34,7 +34,7 @@ Before diving into specifics, here's your quick reference for the most common pl
 |--------------|---------|--------|---------------------|-------------|
 | [**PR-FAQ**](./The_PR-FAQ.md) | Define customer value through future press release | Product Manager | "Would customers care?" | New products, major features |
 | [**One-Pager**](./The_One-Pager.md) | Capture ideas quickly, drive decisions | Anyone | "Is this worth pursuing?" | Early exploration, decision points |
-| **PRD** | Specify what to build and why | Product Manager | "What problem are we solving?" | Feature development |
+| **Product Requirements Document (PRD)** | Specify what to build and why | Product Manager | "What problem are we solving?" | Feature development |
 | **Technical Design** | Detail how to build it | Engineering | "How will we implement this?" | Complex features, architecture changes |
 | **Functional Spec** | Bridge product vision to engineering | Engineering/TPM | "What exactly should it do?" | When PRD needs technical translation |
 
@@ -49,7 +49,7 @@ Before exploring each document type, remember these principles:
 
 ## [PR-FAQ](./The_PR-FAQ.md): Start with the End in Mind
 
-The [Press Release + FAQ format pioneered at Amazon](https://www.linkedin.com/pulse/amazon-prfaq-process-example-ian-mcallister/) forces you to think backwards from customer success. 
+The Press Release + Frequently Asked Questions (PR-FAQ) format forces you to think backwards from customer success. 
 
 ### When to Use It
 - Launching entirely new products or capabilities
@@ -137,7 +137,7 @@ Once Product Management defines what to build, engineering determines how. Great
 
 ## The Danger of Document Proliferation
 
-In my Microsoft days (1998-2012), I'd routinely discover SharePoint graveyards filled with obsolete specs. Each document seemed useful at creation but constituted confusing/obsolete technical debt post-launch and left unmaintained.
+In my Microsoft days (1998-2012), I'd routinely discover SharePoint graveyards filled with obsolete specs. Each document seemed useful at creation but became confusing technical debt post-launch when left unmaintained.
 
 ### Signs You Have Too Many Documents
 - Teams can't find the "real" requirements
