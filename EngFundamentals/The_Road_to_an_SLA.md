@@ -219,22 +219,27 @@ The buffer isn't just safety margin—it's operational capacity:
 
 ### Pitfall 1: Vanity Metrics as SLIs
 **Problem**: Measuring system metrics that don't reflect user experience
+
 **Solution**: Focus on customer-visible outcomes, not internal system health
 
 ### Pitfall 2: Unrealistic Initial SLAs
 **Problem**: Promising availability levels beyond current operational capability
+
 **Solution**: Start conservative, improve iteratively with operational maturity
 
 ### Pitfall 3: No Buffer Between SLOs and SLAs
 **Problem**: Internal targets match external commitments, leaving no room for error
+
 **Solution**: Always maintain meaningful buffer for operational flexibility
 
 ### Pitfall 4: SLAs Without Operational Discipline
 **Problem**: Making commitments without the processes to maintain them
+
 **Solution**: Build the operational foundation before making external promises
 
 ### Pitfall 5: Static SLAs That Never Evolve
 **Problem**: Set-and-forget approach that doesn't reflect improving capabilities
+
 **Solution**: Regular review cycles that adjust commitments as systems mature
 
 ## From Guesswork to Confidence
