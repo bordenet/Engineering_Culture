@@ -52,7 +52,7 @@ I've learned that when I catch myself using weasel words, it's usually a signal 
 | Cliché | Replace with… |
 | :--- | :--- |
 | It is what it is | This is nonsensical. Backspace over this and figure out what you really intend to say. |
-| This is above my pay grade | Act like an owner. |
+| This is above my pay grade | Behave like an owner. |
 | It’s all good | Take a moment to accept you might actually not be okay with the status quo. |
 | Let’s agree to disagree | Use this only if you wish to stifle debate ASAP and close the door on further communication. Do so at your own peril. |
 | Studies have shown… | If you want to cite studies, please be specific to spell out exactly which study and a concise summary of the findings. Otherwise it is as good as saying “because I say so”, it shuts down the conversation. |
