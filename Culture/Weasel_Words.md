@@ -6,7 +6,7 @@ Effective engineering relies on precision, not just in our code, but in our comm
 
 This guide is a call to action to eliminate imprecise language from our vocabulary.
 
-This post will help you identify and replace common communication anti-patterns with clear, direct, and evidence-based language. Let's build a culture where ideas are judged on their merits, not on the cleverness of their phrasing.
+This post will help you identify and replace common communication anti-patterns with clear, direct, and evidence-based language. Build a culture where ideas are judged on their merits, not on the cleverness of their phrasing!
 
 <div style="display: flex; align-items: flex-start; gap: 20px;">
 
