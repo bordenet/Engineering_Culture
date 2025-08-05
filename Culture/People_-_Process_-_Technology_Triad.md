@@ -10,7 +10,7 @@ This isn't just another management framework—it's a fundamental principle for 
 
 Too many organizations treat people, process, and technology as independent variables to optimize. The reality? They're interconnected systems where the sequence of investment determines your long-term success or failure.
 
-Get the order wrong, and you'll build beautiful architectures with miserable teams. Get it right, and you'll build adaptive systems with engaged people who solve problems you didn't even know you had.
+Get the order wrong, and you'll build beautiful architectures with miserable teams. Get it right, and you'll build adaptive systems with engaged people who solve problems you didn't even know you had. Regardless, this triad still adds value as a device for thinking about problems, prioritizing, and roadmapping. 
 
 ## Table of Contents
 
