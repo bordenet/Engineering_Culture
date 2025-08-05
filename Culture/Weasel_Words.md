@@ -43,7 +43,7 @@ I've learned that when I catch myself using weasel words, it's usually a signal 
 | Might bring clarity | State the desired outcome. Don’t be wishy-washy and indirect. Use active voice. |
 | Should result in benefits | This is passive voice and uncertain hedging. Start over. |
 | Arguably the best | According to who? This borders on being a logical fallacy. |
-| Some people say | Who, when, and from what context did relevant observations originate. |
+| Some people say | Who, when, and from what context did relevant observations originate? |
 
 ## The Problem with Thought-Terminating Clichés
 
