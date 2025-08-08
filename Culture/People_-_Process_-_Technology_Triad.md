@@ -22,7 +22,7 @@ Get the order wrong, and you'll build beautiful architectures with miserable tea
 - [Practical Implementation Guide](#practical-implementation-guide)
 - [Measuring Success](#measuring-success)
 
-## The Foundation: People First
+## 1. The Foundation: People First
 
 **People are not resources—they're the source of all value creation in your organization.**
 
@@ -41,7 +41,7 @@ Great people don't just do great work—they make everyone around them better. T
 
 This is why the "First Team" concept matters: your immediate team's success should always take priority over individual optimization. When people genuinely care about their colleagues' success, the entire organization accelerates.
 
-## The Enabler: Process Second
+## 2. The Enabler: Process Second
 
 **Process serves people, not the other way around.**
 
@@ -72,7 +72,7 @@ Process must evolve or die. What works for a 10-person startup fails at 100 peop
 
 For deeper insights on building self-improving processes, see [Mechanisms: Building Self-Correcting Systems](../SDLC/Mechanisms:_Building_Self-Correcting_Systems.md).
 
-## The Amplifier: Technology Third
+## 3. The Amplifier: Technology Third
 
 **Technology should multiply human and process capability, not drive it.**
 
