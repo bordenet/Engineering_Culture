@@ -21,7 +21,7 @@ But here's the thing: **most projects don't need a PR-FAQ**. This post will help
 
 ## What is a PR-FAQ?
 
-A PR-FAQ is exactly what it sounds like: a press release for a product that doesn't exist yet, followed by an FAQ addressing likely questions from customers and stakeholders. While the format seems simple, the discipline required to write an effective PR-FAQ has can save teams from countless expensive missteps.
+A PR-FAQ is exactly what it sounds like: a fictitious press release for a product that doesn't exist yet, followed by an FAQ addressing likely questions from immediate team members and stakeholders. While the format seems simple, the discipline required to write an effective PR-FAQ has can save teams from countless expensive missteps.
 
 The magic? By forcing you to articulate customer value in plain English, it exposes fuzzy thinking before you've invested months in development.
 
