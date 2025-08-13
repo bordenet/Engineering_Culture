@@ -2,7 +2,8 @@
 > _a.k.a. Amazon's "Working Backwards" Approach to Product Development_. Some things are worth copying.
 
 > [!NOTE]
-> Read more about [mechanisms](./Mechanisms:_Building_Self-Correcting_Systems.md)
+> * Read more about [mechanisms](./Mechanisms:_Building_Self-Correcting_Systems.md)
+> * Try my [pr-faq-valdator](https://github.com/bordenet/pr-faq-validator) tool
 
 After years of watching teams build the wrong thing perfectly, I've become an advocate for selective use of the Press Release-FAQ methodology. Originally developed at Amazon but now adopted across the industry, this technique forces teams to define success from the customer's perspective before writing a [Product Requirements Doc](./Project_Planning_Mechanisms%3A_Documents.md#prd-the-what-and-why) or a single line of code.
 
