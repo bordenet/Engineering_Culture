@@ -248,7 +248,8 @@ I shared a vanpool with an S3 development manager in 2013. His perspective: "We 
 ## Additional Reading
 
 ### Essential Perspectives
-- **[You Are Not Google](https://blog.bradfieldcs.com/you-are-not-google-84912cf44afb)** - Brilliant analysis of why copying Google's architecture patterns often fails. Required reading before adopting any distributed systems approach.
+- **[cognitive-load](https://github.com/zakirullin/cognitive-load?tab=readme-ov-file#too-many-shallow-microservices)** - Succinct coverage of shallow microservices pitfalls
+- **[You Are Not Google](https://blog.bradfieldcs.com/you-are-not-google-84912cf44afb)** - Analysis of why copying Google's architecture patterns often fails. Required reading before adopting any distributed systems approach.
 - **[Microservices vs. Monoliths: Why Startups Should Think Twice](https://thiagocaserta.substack.com/p/microservices-vs-monoliths-why-startups)** - Data-driven perspective on why most startups get microservices wrong and what to do instead.
 - **[Why Microservices Were a Bad Idea for My Startup](https://pintea.net/2021/05/11/why-microservices-were-a-bad-idea-for-my-startup/)** - Honest retrospective from a founder who learned the hard way about premature microservices adoption.
 
