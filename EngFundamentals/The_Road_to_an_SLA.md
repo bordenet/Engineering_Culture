@@ -1,4 +1,4 @@
-# 🎯 The Road to an SLA: From Metrics to Customer Commitments
+# The Road to an SLA: From Metrics to Customer Commitments
 
 *How to build Service Level Agreements that protect your business while enabling growth*
 

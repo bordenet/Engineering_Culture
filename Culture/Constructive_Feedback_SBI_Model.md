@@ -1,4 +1,4 @@
-# 🎯 Constructive Feedback: The SBI Model
+# Constructive Feedback: The SBI Model
 
 *How to give feedback that develops people instead of triggering their defenses*
 

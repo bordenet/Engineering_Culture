@@ -1,4 +1,4 @@
-# ✍️ Professional Writing for Engineers: Beyond Code Comments
+# Professional Writing for Engineers: Beyond Code Comments
 
 *How clear writing becomes your most scalable skill and differentiates great engineers from good ones*
 

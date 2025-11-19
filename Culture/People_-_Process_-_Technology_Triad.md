@@ -1,4 +1,4 @@
-# ⚖️ The People-Process-Technology Triad: Getting the Order Right
+# The People-Process-Technology Triad: Getting the Order Right
 
 *Why successful engineering organizations prioritize people first, process second, and technology third*
 

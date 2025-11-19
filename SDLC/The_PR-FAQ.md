@@ -1,4 +1,4 @@
-# 📰 Project Planning: The PR-FAQ Mechanism
+# Project Planning: The PR-FAQ Mechanism
 > _a.k.a. Amazon's "Working Backwards" Approach to Product Development_. Some things are worth copying.
 
 > [!NOTE]
