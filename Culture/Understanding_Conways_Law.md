@@ -1,10 +1,10 @@
-# 🏗️ Understanding Conway's Law: Why Team Structure Determines System Architecture
+# Understanding Conway's Law: Why Team Structure Determines System Architecture
 
 *How organizational design shapes the systems you build—and what to do about it*
 
 > *"Organizations which design systems are constrained to produce designs which are copies of the communication structures of these organizations."* – Melvin Conway, 1967
 
-Conway's Law isn't just an interesting observation—it's a fundamental force that shapes every software system ever built. Most engineering leaders discover this principle too late, when they're debugging communication problems in their architecture and realize they're actually debugging communication problems in their organization.
+Conway's Law isn't just an interesting observation—it's a fundamental force that shapes every software system ever built. In my experience, most engineering leaders discover this principle too late, when they're debugging communication problems in their architecture and realize they're actually debugging communication problems in their organization.
 
 This post explores how to use Conway's Law proactively to design both systems and teams that support your business goals rather than undermine them. Much of this dates back to pre-LLM coding assistant days. There's a massive opportunity for LLMs to change how we work together, provided engineers are aware of the historic patterns and pain points.
 
