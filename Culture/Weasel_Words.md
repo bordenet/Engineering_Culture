@@ -1,6 +1,6 @@
-# 🗣️ Clear Communication: A Guide to Avoiding Weasel Words and Clichés
+# Clear Communication: A Guide to Avoiding Weasel Words and Clichés
 
-*Miscommunication is often the simplest way to derail a project, I've learned that precise language isn't just nice to have—it's essential for engineering effectiveness.*
+*Miscommunication is often the simplest way to derail a project. I've learned that precise language isn't just nice to have—it's essential for engineering effectiveness.*
 
 Effective engineering relies on precision, not just in our code, but in our communication. I've seen ambiguous language, vague assertions, and conversational shortcuts erode trust and slow down progress more times than I can count. This post shares what I've learned about identifying and avoiding these communication pitfalls.
 

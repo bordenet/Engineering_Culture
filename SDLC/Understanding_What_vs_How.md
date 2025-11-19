@@ -1,4 +1,4 @@
-# 🎯 What vs. How: The Critical Distinction in Engineering Leadership
+# What vs. How: The Critical Distinction in Engineering Leadership
 
 *Why confusing outcomes with implementation kills projects before they start*
 
@@ -10,7 +10,7 @@ After 26+ years of watching teams succeed and fail, I've learned that the most s
 
 ## Why This Distinction Matters
 
-Most engineering disasters start the same way: someone presents a solution (the "how") disguised as a problem statement (the "what"). The team rallies around the proposed solution, builds it beautifully, and then discovers it doesn't actually solve the real problem.
+In my observation, most engineering disasters start the same way: someone presents a solution (the "how") disguised as a problem statement (the "what"). The team rallies around the proposed solution, builds it beautifully, and then discovers it doesn't actually solve the real problem.
 
 **The stakes are real**: Misaligning what and how can cost months of development time, destroy team morale, and sometimes kill entire products. Get it right, and you build systems that adapt to changing requirements and deliver genuine value.
 

@@ -1,4 +1,4 @@
-# 📄 Distilling Clarity: The One-Pager
+# Distilling Clarity: The One-Pager
 
 > *a.k.a. The Ultimate Tool for Alignment and Brevity*
 

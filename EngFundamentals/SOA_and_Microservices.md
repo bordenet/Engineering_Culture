@@ -1,8 +1,8 @@
-# 🏗️ SOA & Microservices: Clearing the Confusion
+# SOA & Microservices: Clearing the Confusion
 
 *Why understanding Service-Oriented Architecture is prerequisite to getting microservices right*
 
-Lots of folks in our industry claim to be experts in microservices architecture. In most cases, the term makes me wince because something fundamental has been lost in the natural progression from SOA principles. **If you don't understand SOA deeply-- technically and culturally, you might be getting microservices all wrong.**
+Lots of folks in our industry claim to be experts in microservices architecture. In most cases, the term makes me wince because something fundamental has been lost in the natural progression from SOA principles. **In my experience, if you don't understand SOA deeply-- technically and culturally, you're likely getting microservices wrong.**
 
 This isn't about being pedantic—it's about avoiding the expensive mistakes I've watched teams make when they jump straight to "microservices" without grasping the foundational concepts that make distributed systems actually work.
 
