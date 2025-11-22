@@ -2,22 +2,22 @@
 
 *How clear writing becomes your most scalable skill and differentiates great engineers from good ones*
 
-The engineers who advance fastest aren't always the most technically brilliant—they're the ones who communicate complex ideas clearly. Writing skill becomes increasingly important as technical leadership responsibility grows.
+The engineers who advance fastest aren't always the most technically brilliant - they're the ones who communicate complex ideas clearly. Writing skill becomes increasingly important as technical leadership responsibility grows.
 
-Professional writing isn't just nice-to-have for engineers—it's a force multiplier. Whether you're documenting architecture decisions, proposing new initiatives, or giving feedback to colleagues, your ability to communicate clearly in writing directly impacts your career trajectory and your team's success.
+Professional writing isn't just nice-to-have for engineers - it's a force multiplier. Whether you're documenting architecture decisions, proposing new initiatives, or giving feedback to colleagues, your ability to communicate clearly in writing directly impacts your career trajectory and your team's success.
 
 This isn't about becoming a novelist. It's about developing the specific writing skills that make engineering teams more effective, decisions more informed, and careers more successful.
 
 ## Why Writing Matters More Than You Think
 
 ### The Introvert's Superpower
-Great writing levels the playing field. In meetings, the loudest voice often wins. In writing, the clearest thinking wins. This is why many introverted engineers find their written proposals carry more weight than their verbal contributions—the ideas get judged on their merits, not on delivery style.
+Great writing levels the playing field. In meetings, the loudest voice often wins. In writing, the clearest thinking wins. This is why many introverted engineers find their written proposals carry more weight than their verbal contributions - the ideas get judged on their merits, not on delivery style.
 
 ### The Scale Factor
 Code impacts systems. Writing impacts people. A well-written design document influences dozens of engineers. A clear post-mortem prevents future outages across the organization. A compelling project proposal secures resources for your team's most important work.
 
 ### The Amazon Lesson
-Amazon's culture of written narratives over PowerPoint presentations isn't arbitrary—it forces clarity of thinking. You cannot hide fuzzy logic behind impressive slides when you have to write complete sentences that connect your ideas logically.
+Amazon's culture of written narratives over PowerPoint presentations isn't arbitrary - it forces clarity of thinking. You cannot hide fuzzy logic behind impressive slides when you have to write complete sentences that connect your ideas logically.
 
 As Jeff Bezos noted: "PowerPoint-style presentations somehow give permission to gloss over ideas, flatten out any sense of relative importance, and ignore the interconnectedness of ideas."
 
@@ -34,7 +34,7 @@ As Jeff Bezos noted: "PowerPoint-style presentations somehow give permission to 
 
 ## The Engineering Writing Framework
 
-Effective professional writing follows a systematic approach, just like good code architecture. Here's the framework I've developed over decades of writing and reviewing engineering documents:
+Effective professional writing follows a systematic approach, just like good code architecture. This framework applies to all engineering documents:
 
 ### The Four Phases
 
@@ -43,7 +43,7 @@ Effective professional writing follows a systematic approach, just like good cod
 3. **Write with Precision**: How will you express your thoughts clearly?
 4. **Revise Ruthlessly**: How will you make every word count?
 
-Each phase serves a specific purpose and builds on the previous one. Skip a phase, and your writing becomes less effective—just like skipping design phases in software development.
+Each phase serves a specific purpose and builds on the previous one. Skip a phase, and your writing becomes less effective - just like skipping design phases in software development.
 
 ## Phase 1: Clarify Your Intent
 
@@ -298,7 +298,7 @@ These images have been shared across social media since ~2018, demonstrating the
 
 ## The Bottom Line
 
-Professional writing isn't about perfect grammar or literary style—it's about achieving your goals through clear communication. Every email, design document, and project proposal is an opportunity to practice this skill.
+Professional writing isn't about perfect grammar or literary style - it's about achieving your goals through clear communication. Every email, design document, and project proposal is an opportunity to practice this skill.
 
 The engineers who master professional writing find their ideas getting implemented, their proposals getting approved, and their careers advancing faster than peers with similar technical skills but weaker communication abilities.
 
@@ -316,7 +316,7 @@ In such environments, you may need to gradually introduce better communication p
 
 **Start now**: Pick one type of document you write regularly and apply one technique from this guide. Measure the response. Iterate and improve.
 
-Your future self—and your colleagues—will thank you for the investment.
+Your future self - and your colleagues - will thank you for the investment.
 
 ## Additional Reading
 

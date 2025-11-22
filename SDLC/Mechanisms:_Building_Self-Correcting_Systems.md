@@ -2,11 +2,11 @@
 
 The difference between high-performing and struggling teams often comes down to one thing: mechanisms. These are systematic processes that prevent problems from recurring rather than relying on individual heroics.
 
-This post shares a framework I've used to transform chaotic engineering processes into predictable, improving systems. Whether you're debugging production issues or shipping new features, these principles apply.
+This framework transforms chaotic engineering processes into predictable, improving systems. Whether you're debugging production issues or shipping new features, these principles apply.
 
 Framework successfully leveraged at Amazon and refined through adaptation and application across multiple organizations thereafter.
 
-Mechanisms represent the "Process" component of the [People-Process-Technology triad](../Culture/People_-_Process_-_Technology_Triad.md)—they're how you systematically enable people to do their best work.
+Mechanisms represent the "Process" component of the [People-Process-Technology triad](../Culture/People_-_Process_-_Technology_Triad.md) - they're how you systematically enable people to do their best work.
 
 ## Table of Contents
 
@@ -41,7 +41,7 @@ Source: [tipoftheday.com](http://tipoftheday.com) Amazon employees have a genera
 
 ## Why Mechanisms Matter: The Behavioral Shift
 
-The real power of mechanisms isn't just in the processes—it's in how they transform team behavior. Here's what I've seen happen repeatedly:
+The real power of mechanisms isn't just in the processes. It's in how they transform team behavior. When implemented well, mechanisms create predictable transformations:
 
 <details>
 <summary><strong>Click to see the transformation mechanisms enable →</strong></summary>
@@ -55,11 +55,11 @@ The real power of mechanisms isn't just in the processes—it's in how they tran
 
 </details>
 
-This isn't theoretical—I've watched these transformations happen at companies from startups to Fortune 100s. The shift from "trying harder" to systematic improvement is profound.
+These transformations happen at companies from startups to Fortune 100s. The shift from "trying harder" to systematic improvement is profound.
 
 ## The Anatomy of Effective Mechanisms
 
-Every successful mechanism I've built or observed shares these components:
+Every successful mechanism shares these components:
 
 ```
 Inputs → [Process + Tools + Adoption + Inspection] → Outputs
@@ -129,7 +129,7 @@ We had a chatbot prototype showing promise in demos but struggling with real cus
 
 ## The COE (Correction of Error) Framework
 
-One of the most powerful mechanisms I've encountered is Amazon's COE process. It transforms failures into systematic improvements:
+One of the most powerful mechanisms is Amazon's COE (Correction of Error) process. It transforms failures into systematic improvements:
 
 ### How COE Works
 
@@ -160,7 +160,7 @@ One of the most powerful mechanisms I've encountered is Amazon's COE process. It
 
 Start small with a problem that's been frustrating your team. Here's a template:
 
-**Important**: Before designing any mechanism, be clear about [what vs. how](Understanding_What_vs_How.md)—define the outcome you want before choosing the process to achieve it.
+**Important**: Before designing any mechanism, be clear about [what vs. how](Understanding_What_vs_How.md) - define the outcome you want before choosing the process to achieve it.
 
 ### 1. Pick Your Problem
 Choose something specific and measurable:
@@ -180,7 +180,7 @@ What does "fixed" look like?
 - **Adjustment**: How do you incorporate learnings?
 
 ### 4. Start Simple
-Your first version won't be perfect. That's the point—mechanisms improve through iteration.
+Your first version won't be perfect. That's the point - mechanisms improve through iteration.
 
 ## Common Pitfalls and How to Avoid Them
 
@@ -221,14 +221,14 @@ The best mechanisms become "how we do things here" rather than extra work.
 
 ## From Chaos to Clarity
 
-I've seen mechanisms transform:
+Mechanisms transform:
 - A team drowning in production issues into teams that prevent them
 - A 3-month waterfall feature cycle into a 2-week continuous delivery machine
 - A culture of blame into a proud culture of humble, grounded continuous improvement
 
 The beauty of mechanisms is their compounding effect. Each iteration makes the team smarter and the next iteration easier. Problems that initially seemed intractable become solvable when you apply systematic thinking and rigorous measurement.
 
-Start with one problem. Build one mechanism. Measure the results. The hardest part isn't designing the perfect system—it's starting with an imperfect one and improving it every week.
+Start with one problem. Build one mechanism. Measure the results. The hardest part isn't designing the perfect system - it's starting with an imperfect one and improving it every week.
 
 **Documentation tip**: When documenting your mechanisms for others to understand and adopt, use the [professional writing techniques](../Culture/Professional_Writing_Tips.md) that make complex processes clear and actionable.
 

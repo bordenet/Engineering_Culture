@@ -31,7 +31,7 @@ This definition reveals several assumptions:
 
 Here's the fundamental issue: **If you need "hypercare" to properly support your customers, your operational standards are already too low.**
 
-When teams ship features, they should ship with complete observability from day one. The idea that you need to try "extra hard" to be eyeballs-on-glass after launch misses the point entirely—you should already be operating at a high standard of customer care.
+When teams ship features, they should ship with complete observability from day one. The idea that you need to try "extra hard" to be eyeballs-on-glass after launch misses the point entirely - you should already be operating at a high standard of customer care.
 
 ### The Observability-First Imperative
 
@@ -41,7 +41,7 @@ Every feature should launch with:
 - **Operational runbooks**: Clear procedures for handling common scenarios
 - **Error budgets**: Quantified reliability targets with automated responses
 
-**The absurd reality**: Teams often plan elaborate "hypercare" procedures while shipping code with minimal instrumentation. This is backwards thinking—fix the instrumentation, not the support model.
+**The absurd reality**: Teams often plan elaborate "hypercare" procedures while shipping code with minimal instrumentation. This is backwards thinking - fix the instrumentation, not the support model.
 
 ### When War Rooms Make Sense (And When They Don't)
 
@@ -62,7 +62,7 @@ The worst "hypercare" implementations involve delegating responsibility to teams
 - **No customer context**: They can't make intelligent trade-off decisions
 - **No escalation authority**: They can't make changes that matter
 
-**This isn't support—it's security theater.** You're creating the illusion of enhanced care while actually reducing your ability to respond effectively to real issues.
+**This isn't support - it's security theater.** You're creating the illusion of enhanced care while actually reducing your ability to respond effectively to real issues.
 
 ## The Problems with Hypercare Thinking
 
@@ -108,7 +108,7 @@ When teams plan for "hypercare," they're planning for failure. This creates:
 
 ## The Ownership Alternative
 
-Instead of "hypercare," successful engineering teams embrace **operational ownership**—consistent responsibility for system reliability throughout its lifecycle.
+Instead of "hypercare," successful engineering teams embrace **operational ownership** - consistent responsibility for system reliability throughout its lifecycle.
 
 ### Principles of Operational Ownership
 
@@ -131,7 +131,7 @@ Operational approaches must be maintainable long-term without burning out teams.
 Successful operations start with comprehensive observability:
 
 **Essential Monitoring Components:**
-- **Application metrics**: Response times, error rates, throughput—see [What Dashboards Are Good For](../EngFundamentals/What_Dashboards_are_Good_For.md) for building effective monitoring
+- **Application metrics**: Response times, error rates, throughput - see [What Dashboards Are Good For](../EngFundamentals/What_Dashboards_are_Good_For.md) for building effective monitoring
 - **Infrastructure metrics**: Resource utilization, capacity trends, performance indicators
 - **Business metrics**: Customer impact, transaction success rates, service availability
 
@@ -144,7 +144,7 @@ Successful operations start with comprehensive observability:
 
 **Incident Management:**
 - **Clear procedures**: Everyone knows their role when problems occur
-- **Blameless culture**: Focus on system improvements rather than individual failures—see [Mechanisms: Building Self-Correcting Systems](../SDLC/Mechanisms:_Building_Self-Correcting_Systems.md) for systematic improvement approaches
+- **Blameless culture**: Focus on system improvements rather than individual failures - see [Mechanisms: Building Self-Correcting Systems](../SDLC/Mechanisms:_Building_Self-Correcting_Systems.md) for systematic improvement approaches
 - **Learning loops**: Every incident produces actionable improvements
 
 **On-Call Practices:**
@@ -235,7 +235,7 @@ The fundamental shift is from viewing launches as discrete events requiring spec
 
 "Hypercare" represents a fundamental misunderstanding of how successful engineering organizations operate. Instead of planning for intensive post-launch support, successful teams plan for sustainable, long-term operational excellence.
 
-The goal isn't to eliminate the extra attention that new systems require—it's to build that attention into sustainable operational practices that serve the system throughout its lifecycle.
+The goal isn't to eliminate the extra attention that new systems require - it's to build that attention into sustainable operational practices that serve the system throughout its lifecycle.
 
 ![Hypercare concept visualization](./img/5a8b1951-d13a-4ba7-8bc0-b0cd5bfe56be.png)
 

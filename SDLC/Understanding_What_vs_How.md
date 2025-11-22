@@ -4,7 +4,7 @@
 
 Engineering projects often fail not because of technical incompetence, but because teams jump straight to implementation without understanding the problem they're solving.
 
-The "What vs. How" distinction isn't just product management theory—it's a fundamental engineering leadership skill that determines whether your team builds the right thing, builds it efficiently, and can adapt when circumstances change.
+The "What vs. How" distinction isn't just product management theory - it's a fundamental engineering leadership skill that determines whether your team builds the right thing, builds it efficiently, and can adapt when circumstances change.
 
 The most successful engineering leaders master this distinction early and use it to guide their teams toward better outcomes. Understanding when to focus on "what" versus "how" prevents wasted effort and misaligned solutions.
 
@@ -41,7 +41,7 @@ In my observation, most engineering disasters start the same way: someone presen
 **Not:**
 > "Build a single sign-on system using OAuth 2.0 and integrate it with our [microservices architecture](../EngFundamentals/SOA_and_Microservices.md)."
 
-The second example is a "how" disguised as a "what"—it prescribes the solution before we've fully understood the problem.
+The second example is a "how" disguised as a "what" - it prescribes the solution before we've fully understood the problem.
 
 ### Engineering-Specific Examples
 
@@ -119,7 +119,7 @@ We love learning new technologies. When Kubernetes, GraphQL, or the latest frame
 **Result**: Projects that exist primarily to explore technology rather than solve business problems.
 
 ### The Complexity Bias
-Complex solutions feel more professional and intellectually satisfying than simple ones. This leads to over-engineering—building sophisticated systems to solve problems that could be fixed with configuration changes.
+Complex solutions feel more professional and intellectually satisfying than simple ones. This leads to over-engineering - building sophisticated systems to solve problems that could be fixed with configuration changes.
 
 ### The Certainty Illusion
 "How" feels concrete and actionable. "What" can feel vague and political. Teams gravitate toward discussing implementation details because it feels like progress, even when they're building the wrong thing.
@@ -158,7 +158,7 @@ Implement your chosen solution and measure against your original success criteri
 
 ## Common Anti-Patterns
 
-I've seen these patterns kill projects repeatedly:
+These patterns kill projects repeatedly:
 
 ### Anti-Pattern 1: The Solution in Search of a Problem
 **Symptom**: "We should use GraphQL for our new API"  
@@ -258,11 +258,11 @@ As an engineering leader, your job is to:
 3. **Create space for iteration** between what and how as you learn
 4. **Model the behavior** by always leading with problem statements
 
-The most successful engineering organizations I've worked with have leaders who are equally comfortable challenging vague problem statements and pushing back on over-engineered solutions.
+The most successful engineering organizations have leaders who are equally comfortable challenging vague problem statements and pushing back on over-engineered solutions.
 
 ## The Bottom Line
 
-Separating what from how isn't academic—it's the difference between building systems that matter and building impressive solutions to problems that don't exist.
+Separating what from how isn't academic - it's the difference between building systems that matter and building impressive solutions to problems that don't exist.
 
 **Master the "what" first**: Clear problem definitions, measurable outcomes, validated user needs. Without this foundation, even perfect execution leads to beautiful failures.
 

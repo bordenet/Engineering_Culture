@@ -7,7 +7,7 @@
 
 Building effective dashboards is both art and science. The worst thing engineering teams can do is wait for someone else to solve their observability problems. This guide provides a systematic approach to creating dashboards that support operational excellence rather than just looking impressive.
 
-Successful dashboards follow predictable patterns. This isn't about perfection—it's about building useful visibility into system behavior that enables better engineering decisions.
+Successful dashboards follow predictable patterns. This isn't about perfection - it's about building useful visibility into system behavior that enables better engineering decisions.
 
 ## Table of Contents
 
@@ -49,7 +49,7 @@ Understanding why you're building a dashboard shapes how you design it:
 
 ## The Five-Phase Dashboard Evolution
 
-Effective dashboards evolve through predictable stages. Don't try to build the perfect dashboard immediately—focus on progression.
+Effective dashboards evolve through predictable stages. Don't try to build the perfect dashboard immediately - focus on progression.
 
 ### Phase 1: Collect Data
 
@@ -197,7 +197,7 @@ Effective dashboards evolve through predictable stages. Don't try to build the p
 
 ## From Visualization to Action
 
-The ultimate goal isn't beautiful dashboards—it's operational excellence:
+The ultimate goal isn't beautiful dashboards - it's operational excellence:
 
 ### Building Operational Discipline
 - **Regular dashboard reviews**: Make monitoring review part of team routines
@@ -218,7 +218,7 @@ The ultimate goal isn't beautiful dashboards—it's operational excellence:
 
 ### Start Simple, Iterate Frequently
 - Begin with basic golden signals before adding complex metrics
-- Don't wait for perfect dashboards—build something useful and improve it
+- Don't wait for perfect dashboards - build something useful and improve it
 - Expect multiple iterations before achieving truly useful monitoring
 
 ### Focus on Actionability
@@ -236,7 +236,7 @@ The ultimate goal isn't beautiful dashboards—it's operational excellence:
 - Monitor alert quality (false positive rate, time to resolution)
 - Gather feedback from team members on dashboard usefulness
 
-The goal isn't perfect monitoring—it's building observability that makes engineering teams more effective at delivering reliable systems. Good dashboards enable faster problem detection, quicker resolution, and better understanding of system behavior over time.
+The goal isn't perfect monitoring - it's building observability that makes engineering teams more effective at delivering reliable systems. Good dashboards enable faster problem detection, quicker resolution, and better understanding of system behavior over time.
 
 ## Additional Reading
 

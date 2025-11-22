@@ -1,6 +1,6 @@
 # Clear Communication: A Guide to Avoiding Weasel Words and Clichés
 
-*Miscommunication is often the simplest way to derail a project. Precise language isn't just nice to have—it's essential for engineering effectiveness.*
+*Miscommunication is often the simplest way to derail a project. Precise language isn't just nice to have - it's essential for engineering effectiveness.*
 
 Ambiguous language causes everything from minor delays to complete project failures. This post covers how to identify and eliminate weasel words from engineering communication.
 

@@ -4,7 +4,7 @@
 
 Successful engineering transformations require balanced attention to three interconnected elements: People, Process, and Technology. Organizations that optimize only one or two dimensions create systemic dysfunction.
 
-This isn't just another management framework—it's a fundamental principle for building sustainable engineering organizations that can adapt, scale, and thrive in changing markets.
+This isn't just another management framework - it's a fundamental principle for building sustainable engineering organizations that can adapt, scale, and thrive in changing markets.
 
 ## Why This Framework Exists
 
@@ -24,7 +24,7 @@ Get the order wrong, and you'll build beautiful architectures with miserable tea
 
 ## 1. The Foundation: People First
 
-**People are not resources—they're the source of all value creation in your organization.**
+**People are not resources - they're the source of all value creation in your organization.**
 
 Everything else you build serves to amplify human capability, not replace it. The most sophisticated systems fail without engaged, capable people. The most elegant processes become bureaucratic overhead without people who understand their purpose.
 
@@ -37,7 +37,7 @@ Everything else you build serves to amplify human capability, not replace it. Th
 
 ### The Multiplication Effect
 
-Great people don't just do great work—they make everyone around them better. They ask questions that expose assumptions, share knowledge that elevates the team, and take ownership of problems beyond their job description.
+Great people don't just do great work - they make everyone around them better. They ask questions that expose assumptions, share knowledge that elevates the team, and take ownership of problems beyond their job description.
 
 This is why the "First Team" concept matters: your immediate team's success should always take priority over individual optimization. When people genuinely care about their colleagues' success, the entire organization accelerates.
 
@@ -45,7 +45,7 @@ This is why the "First Team" concept matters: your immediate team's success shou
 
 **Process serves people, not the other way around.**
 
-The best processes are invisible to those who use them—they reduce friction, provide clarity, and enable better decisions. The worst processes become ends in themselves, consuming energy without creating value.
+The best processes are invisible to those who use them - they reduce friction, provide clarity, and enable better decisions. The worst processes become ends in themselves, consuming energy without creating value.
 
 ### Process as Force Multiplier
 
@@ -124,7 +124,7 @@ Each element strengthens the others:
 ### Anti-Pattern 2: Process Theater  
 **Symptom**: Elaborate ceremonies that consume time without creating value  
 **Problem**: Process exists to satisfy compliance rather than serve people  
-**Fix**: Regularly audit processes—eliminate anything that doesn't directly help people succeed
+**Fix**: Regularly audit processes - eliminate anything that doesn't directly help people succeed
 
 ### Anti-Pattern 3: People as Replaceable Parts
 **Symptom**: "We need more resources" rather than "we need to develop our team"  
@@ -173,7 +173,7 @@ Each element strengthens the others:
 
 1. **Audit current tools**: What's helping vs. hindering your people and processes?
 2. **Prioritize developer experience**: Tools should make work easier, not harder
-3. **Invest in observability**: You can't improve what you can't measure—see [What Dashboards Are Good For](../EngFundamentals/What_Dashboards_are_Good_For.md) and [How to Construct a Useful Dashboard](../EngFundamentals/How_to_Construct_a_Useful_Dashboard.md) for building effective monitoring that supports your processes
+3. **Invest in observability**: You can't improve what you can't measure - see [What Dashboards Are Good For](../EngFundamentals/What_Dashboards_are_Good_For.md) and [How to Construct a Useful Dashboard](../EngFundamentals/How_to_Construct_a_Useful_Dashboard.md) for building effective monitoring that supports your processes
 4. **Plan for scale**: Choose technologies your team can grow with
 
 ## Measuring Success
@@ -191,20 +191,20 @@ Each element strengthens the others:
 - **Recovery time** (how quickly problems get resolved)
 
 ### Technology Metrics
-- **System reliability** (uptime, error rates, performance)—see [The Road to an SLA](../EngFundamentals/The_Road_to_an_SLA.md) for turning reliability metrics into customer commitments
+- **System reliability** (uptime, error rates, performance) - see [The Road to an SLA](../EngFundamentals/The_Road_to_an_SLA.md) for turning reliability metrics into customer commitments
 - **Developer productivity** (deployment frequency, code review time)
 - **Technical debt trends** (increasing or decreasing over time)
 - **Innovation capacity** (time spent on new capabilities vs. maintenance)
 
 ### The Ultimate Test
 
-The best measure of success is resilience: How well does your organization adapt when circumstances change? Teams that get the People-Process-Technology triad right don't just execute well—they evolve and improve continuously.
+The best measure of success is resilience: How well does your organization adapt when circumstances change? Teams that get the People-Process-Technology triad right don't just execute well - they evolve and improve continuously.
 
 ## The Bottom Line
 
-The People-Process-Technology framework isn't about prioritizing one over the others—it's about getting the sequence right. Invest in people first, enable them with effective processes, and amplify their capability with appropriate technology.
+The People-Process-Technology framework isn't about prioritizing one over the others - it's about getting the sequence right. Invest in people first, enable them with effective processes, and amplify their capability with appropriate technology.
 
-Organizations that flip this order—starting with cool technology, imposing rigid processes, and treating people as interchangeable resources—might achieve short-term wins but struggle with long-term sustainability.
+Organizations that flip this order - starting with cool technology, imposing rigid processes, and treating people as interchangeable resources - might achieve short-term wins but struggle with long-term sustainability.
 
 The magic happens when all three work together: great people designing effective processes that leverage appropriate technology to create outsized business impact. That's the real competitive advantage.
 

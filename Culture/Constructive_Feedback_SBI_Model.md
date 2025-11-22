@@ -90,7 +90,7 @@ From Kim Scott's *Radical Candor*:
 
 > "Situation, behavior, impact. The Center for Creative Leadership developed this technique to help leaders be more precise and therefore less arrogant when giving feedback. This simple technique reminds you to describe three things: 1) the situation you saw, 2) the behavior, and 3) the impact you observed. This helps you avoid making judgments about the person's intelligence, common sense, innate goodness, or other personal attributes."
 
-The framework prevents [amygdala hijacking](https://www.healthline.com/health/stress/amygdala-hijack)—when the brain's threat detection system overwhelms rational processing. By focusing on observable facts rather than character judgments, SBI keeps conversations in the rational processing zone where learning can happen.
+The framework prevents [amygdala hijacking](https://www.healthline.com/health/stress/amygdala-hijack) - when the brain's threat detection system overwhelms rational processing. By focusing on observable facts rather than character judgments, SBI keeps conversations in the rational processing zone where learning can happen.
 
 ![](./img/e8e17829-2387-4c10-a958-291a8c4ccf2e.png)
 
@@ -174,7 +174,7 @@ The framework prevents [amygdala hijacking](https://www.healthline.com/health/st
 ### Corrective Feedback Example
 
 **Full SBI Statement:**
-"In this morning's sprint planning meeting, when Sarah was explaining the database performance issue, I noticed you interrupted her twice and started typing on your laptop while she was still talking. When she asked if you had questions, you said 'it's fine' without looking up from your screen. This made Sarah visibly frustrated—she stopped mid-explanation and looked confused about whether to continue. The team couldn't get clarity on the performance requirements, and we had to table the story for next sprint. I'm concerned this pattern might be making it harder for the team to collaborate effectively."
+"In this morning's sprint planning meeting, when Sarah was explaining the database performance issue, I noticed you interrupted her twice and started typing on your laptop while she was still talking. When she asked if you had questions, you said 'it's fine' without looking up from your screen. This made Sarah visibly frustrated - she stopped mid-explanation and looked confused about whether to continue. The team couldn't get clarity on the performance requirements, and we had to table the story for next sprint. I'm concerned this pattern might be making it harder for the team to collaborate effectively."
 
 <details>
 <summary>Breaking Down the Example</summary>
@@ -260,14 +260,14 @@ This builds the muscle memory before you need it for difficult conversations.
 
 ## The Bottom Line
 
-Effective feedback isn't about being nice or being tough—it's about being clear, specific, and helpful. The SBI model provides a framework that:
+Effective feedback isn't about being nice or being tough - it's about being clear, specific, and helpful. The SBI model provides a framework that:
 
 - **Respects people** by focusing on behaviors rather than character
 - **Enables growth** by connecting actions to consequences  
 - **Builds trust** through objective observation rather than subjective judgment
 - **Improves performance** by giving people actionable information they can use
 
-Remember: the goal isn't perfect feedback—it's better feedback. Start using SBI in low-stakes situations, focus on one behavior at a time, and remember that your intent to help someone grow matters as much as your technique.
+Remember: the goal isn't perfect feedback - it's better feedback. Start using SBI in low-stakes situations, focus on one behavior at a time, and remember that your intent to help someone grow matters as much as your technique.
 
 Great teams are built on great feedback. When people feel safe to receive honest observations about their work, they can make the adjustments that turn good performance into exceptional results.
 
@@ -282,7 +282,7 @@ Great teams are built on great feedback. When people feel safe to receive honest
 - [ ] **Situation**: Specific context (when, where, who)
 - [ ] **Behavior**: Observable actions only (no interpretations)
 - [ ] **Impact**: Clear consequences (on you, others, business)
-- [ ] Don't label with "S-B-I"—let it flow naturally
+- [ ] Don't label with "S-B-I" - let it flow naturally
 
 ### After the Conversation
 - [ ] Give them space to process

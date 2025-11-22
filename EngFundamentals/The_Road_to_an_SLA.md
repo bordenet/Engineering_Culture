@@ -4,7 +4,7 @@
 
 Building your first Service Level Agreement (SLA) is a milestone that signals business maturity. When customers start asking "What guarantee can you give me about availability?" you've moved beyond the startup phase into serious business territory.
 
-This post walks through the systematic approach to building SLAs that are both achievable for engineering teams and meaningful for customers. The key insight: SLAs aren't arbitrary numbers—they're the culmination of disciplined measurement and operational excellence.
+This post walks through the systematic approach to building SLAs that are both achievable for engineering teams and meaningful for customers. The key insight: SLAs aren't arbitrary numbers - they're the culmination of disciplined measurement and operational excellence.
 
 > [!NOTE]
 > **Essential Reading**: [Google SRE Book - Service Level Objectives](https://sre.google/sre-book/service-level-objectives/) provides the foundational concepts this post builds upon.
@@ -26,7 +26,7 @@ Successful businesses with sophisticated customers will eventually face this con
 
 > "We're considering your platform for critical business operations. What availability guarantees can you provide, and what compensation can we expect if you fail to meet them?"
 
-If you can't answer with confidence backed by data, you're not ready for enterprise customers. This isn't just about technical capability—it's about business credibility.
+If you can't answer with confidence backed by data, you're not ready for enterprise customers. This isn't just about technical capability - it's about business credibility.
 
 ### The Cost of Getting It Wrong
 
@@ -188,7 +188,7 @@ The gap between internal objectives and external commitments provides operationa
 
 ### Using the Buffer Productively
 
-The buffer isn't just safety margin—it's operational capacity:
+The buffer isn't just safety margin - it's operational capacity:
 - **Planned experiments**: Chaos engineering, load testing
 - **Deployment flexibility**: Blue-green deployments, canary releases
 - **Innovation time**: Technical debt reduction, performance optimization
@@ -197,7 +197,7 @@ The buffer isn't just safety margin—it's operational capacity:
 
 ### Phase 1: Foundation (Months 1-2)
 1. **Implement comprehensive SLI collection** across critical services
-2. **Build initial dashboards** showing key metrics trends—see [What Dashboards Are Good For](What_Dashboards_are_Good_For.md) for guidance
+2. **Build initial dashboards** showing key metrics trends - see [What Dashboards Are Good For](What_Dashboards_are_Good_For.md) for guidance
 3. **Establish baseline understanding** of current performance
 
 ### Phase 2: Internal Targets (Months 3-4)
@@ -246,9 +246,9 @@ The buffer isn't just safety margin—it's operational capacity:
 
 The journey from "the system seems reliable" to "we guarantee 99.9% availability" requires systematic measurement, operational discipline, and customer focus.
 
-SLAs aren't just technical artifacts—they're business enablers that signal operational maturity and customer commitment. Building them properly requires collaboration between engineering, product, and business teams to balance what's technically achievable with what's commercially competitive.
+SLAs aren't just technical artifacts - they're business enablers that signal operational maturity and customer commitment. Building them properly requires collaboration between engineering, product, and business teams to balance what's technically achievable with what's commercially competitive.
 
-Start with measurement, build operational confidence through SLOs, then make commitments through SLAs that you can consistently meet. The goal isn't perfect availability—it's predictable, measurable reliability that enables business growth.
+Start with measurement, build operational confidence through SLOs, then make commitments through SLAs that you can consistently meet. The goal isn't perfect availability - it's predictable, measurable reliability that enables business growth.
 
 **Related Reading**: Understanding the [People-Process-Technology](../Culture/People_-_Process_-_Technology_Triad.md) framework helps ensure your organization can support the operational discipline SLAs require. Building effective [mechanisms for continuous improvement](../SDLC/Mechanisms:_Building_Self-Correcting_Systems.md) enables the systematic approach SLA management demands.
 

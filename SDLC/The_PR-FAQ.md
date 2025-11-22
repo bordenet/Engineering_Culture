@@ -74,7 +74,7 @@ The press release should read like something TechCrunch would actually publish. 
 |:------------|:----------------|
 | **Heading** | Name the product in a way your target customers will understand |
 | **Sub-Heading** | Single sentence describing the market and primary benefit |
-| **Summary** | One paragraph that would make someone want to read more. Use plain language—no jargon! |
+| **Summary** | One paragraph that would make someone want to read more. Use plain language - no jargon! |
 | **Problem** | What customer pain point are you addressing? Make it relatable. |
 | **Solution** | How your product elegantly solves the problem |
 | **Company Quote** | Why your company is uniquely positioned to deliver this |
@@ -88,7 +88,7 @@ The press release should read like something TechCrunch would actually publish. 
 - **Write for your neighbor**, not your engineering team
 - **Focus on benefits**, not features
 - **Use concrete examples** rather than abstractions
-- **Avoid [weasel words](../Culture/Weasel_Words.md)** that obscure meaning—be specific about customer value
+- **Avoid [weasel words](../Culture/Weasel_Words.md)** that obscure meaning - be specific about customer value
 
 For comprehensive guidance on professional writing techniques, see [Professional Writing for Engineers](../Culture/Professional_Writing_Tips.md).
 
@@ -106,7 +106,7 @@ The FAQ section is where you address the hard questions and hidden assumptions. 
 | **Section** | **Purpose** |
 |:------------|:------------|
 | **External FAQ** | Questions customers would ask. Written as if it's public documentation. Include wireframes or mockups here if helpful. |
-| **Internal FAQ** | The "[rude Q&A](https://critter.blog/2022/10/20/the-rude-qa/)"—hard questions your team will ask about feasibility, resources, risks, and trade-offs. |
+| **Internal FAQ** | The "[rude Q&A](https://critter.blog/2022/10/20/the-rude-qa/)" - hard questions your team will ask about feasibility, resources, risks, and trade-offs. |
 
 ### Effective Internal FAQ Topics
 
@@ -148,13 +148,13 @@ The FAQ section is where you address the hard questions and hidden assumptions. 
 
 1. **Draft with core team** (PM, Tech Lead, Designer)
 2. **Get feedback from 3-5 stakeholders** before broad review
-3. **Hold a structured review meeting**—no slides allowed! (I loathe PowerPoint slides!)
+3. **Hold a structured review meeting** - no slides allowed! (I loathe PowerPoint slides!)
 4. **Iterate based on feedback** until excitement is genuine
 5. **Use throughout project** for onboarding and course correction
 
 ### Cultural Considerations
 
-Not every organization is ready for PR-FAQs. I've seen them fail spectacularly in cultures that lack the discipline to apply this degree of rigor. They work best when:
+Not every organization is ready for PR-FAQs. They fail spectacularly in cultures that lack the discipline to apply this degree of rigor. They work best when:
 - Leadership values customer focus over technical elegance
 - Teams have autonomy to say "no" to bad ideas
 - There's psychological safety to ask hard questions
@@ -162,7 +162,7 @@ Not every organization is ready for PR-FAQs. I've seen them fail spectacularly i
 
 ### Making the Investment Worth It
 
-Prior to the advent of LLMs, a good PR-FAQ often required 10+ hours to write well. I used to budget a full day for the iterative process. (Hey-- I'm an engineer, not a public relations expert!) LLMs changed the game-- it's become trivial to create a poor one with little value—the thinking is still the hard part.
+Prior to the advent of LLMs, a good PR-FAQ often required 10+ hours to write well. I used to budget a full day for the iterative process. (Hey-- I'm an engineer, not a public relations expert!) LLMs changed the game-- it's become trivial to create a poor one with little value - the thinking is still the hard part.
 - Using it to onboard every new team member
 - Reviewing it monthly to catch scope creep
 - Referencing it in architectural decisions
@@ -190,7 +190,7 @@ PR-FAQs are a powerful tool for ensuring you build the right thing. But like any
 
 Skip them when the path forward is clear and the stakes are low.
 
-The hardest part isn't writing the document—it's having the courage to kill projects when the PR-FAQ reveals they're not worth pursuing. That's also where the greatest value lies: failing fast and cheap on paper rather than slow and expensive in production.
+The hardest part isn't writing the document - it's having the courage to kill projects when the PR-FAQ reveals they're not worth pursuing. That's also where the greatest value lies: failing fast and cheap on paper rather than slow and expensive in production.
 
 ## Additional Reading
 

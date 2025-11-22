@@ -3,13 +3,13 @@
 > [!NOTE]
 > Read more about [mechanisms](./Mechanisms:_Building_Self-Correcting_Systems.md)
 
-In the age of AI, anyone can generate a PRD or technical spec in seconds. But understanding *which* document to create, *when* to use it, and *why* it matters—that's where experience counts.
+In the age of AI, anyone can generate a PRD or technical spec in seconds. But understanding *which* document to create, *when* to use it, and *why* it matters - that's where experience counts.
 
 The right planning document at the right time can be the difference between project success and expensive failure. The key is matching document type to project complexity and organizational context.
 
 This guide shares what actually works, helping teams avoid the document factories that plague enterprise software while maintaining the rigor needed to ship successfully.
 
-Understanding [what vs. how](Understanding_What_vs_How.md) is foundational to choosing the right document—each serves different purposes in separating outcomes from implementation.
+Understanding [what vs. how](Understanding_What_vs_How.md) is foundational to choosing the right document - each serves different purposes in separating outcomes from implementation.
 
 For guidance on writing any of these documents effectively, see [Professional Writing for Engineers](../Culture/Professional_Writing_Tips.md).
 
@@ -65,7 +65,7 @@ The Press Release + Frequently Asked Questions (PR-FAQ) format forces you to thi
 
 The press release should read like something customers would actually want to share. If you're straining to make it exciting, you might be building the wrong thing.
 
-The FAQ section addresses internal concerns—feasibility, risks, dependencies—not customer questions. Common mistakes include:
+The FAQ section addresses internal concerns - feasibility, risks, dependencies - not customer questions. Common mistakes include:
 - Using FAQ as a requirements dump
 - Writing implementation details
 - Creating wish lists without constraints
@@ -92,7 +92,7 @@ The most underutilized document in software development, one-pagers excel at:
 **Recommendation**: Clear next step
 ```
 
-Anyone can write these—engineers spotting technical debt, designers seeing UX friction, analysts finding data insights. The low effort encourages documentation over perfection.
+Anyone can write these - engineers spotting technical debt, designers seeing UX friction, analysts finding data insights. The low effort encourages documentation over perfection.
 
 ## PRD: The What and Why
 --> [Product Requirements Assistant](https://github.com/bordenet/product-requirements-assistant) <--

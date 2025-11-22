@@ -2,7 +2,7 @@
 
 *Understanding the proper role of observability dashboards in engineering operations*
 
-Dashboards are incredibly valuable when used correctly—and surprisingly useless when misapplied. Understanding what dashboards can and cannot do prevents wasted effort and monitoring fatigue.
+Dashboards are incredibly valuable when used correctly - and surprisingly useless when misapplied. Understanding what dashboards can and cannot do prevents wasted effort and monitoring fatigue.
 
 This post explores the real strengths and limitations of dashboards, helping engineering teams build monitoring strategies that actually improve system reliability rather than just creating pretty visualizations.
 
@@ -18,7 +18,7 @@ This post explores the real strengths and limitations of dashboards, helping eng
 <details>
 <summary>A Real-World Example</summary>
 
-In 2016, I joined an operationally challenged startup handling live video transcoding for nationally televised broadcasts. When systems failed, customer impact was immediate and highly visible. The company had zero useful metrics—just crash dumps and poorly structured logs sent to a subpar vendor.
+In 2016, I joined an operationally challenged startup handling live video transcoding for nationally televised broadcasts. When systems failed, customer impact was immediate and highly visible. The company had zero useful metrics - just crash dumps and poorly structured logs sent to a subpar vendor.
 
 After investing in proper observability infrastructure, including a prominent dashboard display system, the team built high-quality, trustworthy dashboards. However, production availability remained at ~92% month-over-month due to services silently failing and staying down for hours.
 
@@ -33,8 +33,8 @@ Understanding what dashboards cannot do is crucial for building effective monito
 | **Dashboards Will NEVER** | **What This Means** |
 |:---------------------------|:--------------------|
 | **Alert when systems begin to degrade** | Dashboards display information but don't actively notify anyone when thresholds are crossed |
-| **Alert when consumption drops unexpectedly** | If your service receives zero requests during business hours, that's likely a critical issue—but dashboards won't tell you |
-| **Alert when resources are exhausted** | Memory limits, disk space, connection pools filling up—all require active monitoring, not passive visualization |
+| **Alert when consumption drops unexpectedly** | If your service receives zero requests during business hours, that's likely a critical issue - but dashboards won't tell you |
+| **Alert when resources are exhausted** | Memory limits, disk space, connection pools filling up - all require active monitoring, not passive visualization |
 | **Be monitored 24/7 by human eyes** | No one stares at dashboards continuously; expecting humans to watch for problems doesn't scale |
 | **Take corrective action** | Dashboards show you the fire but don't call the fire department |
 
@@ -72,7 +72,7 @@ Despite their limitations, dashboards serve critical functions in engineering op
 Dashboards aren't the only passive monitoring approach that teams mistakenly rely on:
 
 ### Chat Notifications
-Chat webhooks and bot notifications suffer from the same fundamental problem—they require humans to be actively monitoring communication channels during business hours. This doesn't scale and creates a false sense of monitoring coverage.
+Chat webhooks and bot notifications suffer from the same fundamental problem - they require humans to be actively monitoring communication channels during business hours. This doesn't scale and creates a false sense of monitoring coverage.
 
 ### Log Monitoring
 Manual log analysis and log-tailing are equally passive. While logs contain valuable diagnostic information, expecting engineers to continuously monitor log streams is unrealistic and ineffective.
@@ -82,7 +82,7 @@ Email-based monitoring notifications often go unread or get lost in busy inboxes
 
 ## Why Engineering Teams Still Need Dashboards
 
-This isn't a contradiction—dashboards remain essential despite their limitations:
+This isn't a contradiction - dashboards remain essential despite their limitations:
 
 ### Foundation for Automation
 Creating useful dashboards forces teams to:
@@ -99,7 +99,7 @@ Dashboards provide the data foundation for:
 ### Business Visibility
 Engineering dashboards enable:
 - **Executive reporting** that translates technical metrics into business impact
-- **SLA tracking** and availability reporting for leadership—see [The Road to an SLA](The_Road_to_an_SLA.md) for building customer commitments from operational data
+- **SLA tracking** and availability reporting for leadership - see [The Road to an SLA](The_Road_to_an_SLA.md) for building customer commitments from operational data
 - **Customer impact assessment** during and after incidents
 
 The key insight: dashboards are the first step toward operational excellence, not the final destination.
@@ -144,7 +144,7 @@ Effective dashboard implementation follows a progression:
 
 Dashboards serve as the foundation for operational excellence, but they're not the complete solution. Teams that understand this distinction build monitoring systems that actually improve reliability rather than just creating impressive visualizations.
 
-The goal isn't perfect dashboards—it's building monitoring systems that enable teams to identify problems before customers do, respond quickly when issues occur, and continuously improve system reliability over time.
+The goal isn't perfect dashboards - it's building monitoring systems that enable teams to identify problems before customers do, respond quickly when issues occur, and continuously improve system reliability over time.
 
 **Start with dashboards, but don't stop there.** Use them to build the understanding and data foundation needed for automated monitoring, alerting, and eventually, self-healing systems.
 
