@@ -2,9 +2,9 @@
 
 *Why understanding Service-Oriented Architecture is prerequisite to getting microservices right*
 
-Lots of folks in our industry claim to be experts in microservices architecture. In most cases, the term makes me wince because something fundamental has been lost in the natural progression from SOA principles. **In my experience, if you don't understand SOA deeply-- technically and culturally, you're likely getting microservices wrong.**
+Microservices adoption often skips foundational SOA principles, leading to distributed monoliths that are harder to maintain than the systems they replaced. Understanding SOA deeply—both technically and culturally—provides essential foundation for microservices success.
 
-This isn't about being pedantic—it's about avoiding the expensive mistakes I've watched teams make when they jump straight to "microservices" without grasping the foundational concepts that make distributed systems actually work.
+The cost of skipping these foundations is high: teams end up with the complexity of distributed systems without the benefits of service-oriented architecture.
 
 ## Why This Matters Beyond Technology
 
@@ -58,8 +58,6 @@ The goal: Distill overall problem complexity into a composition of simpler, focu
 `Anyone who doesn't do this will be fired.`
 
 `Thank you; have a nice day!`
-
-If you’re familiar with Bezos’s unique personality, those last two lines are priceless. (He presumably intended for folks to take the termination bit literally, and he very likely included the last line for humor. Unless you’re a customer, I assure you he doesn’t care about how your day goes.)
 
 <https://konghq.com/blog/enterprise/api-mandate>
 
@@ -239,7 +237,7 @@ The "land of confusion" exists because teams adopt the technology without unders
 
 Launched in 2006, S3 ("simple storage service") is one of the planet's [first global-scale, public APIs](https://press.aboutamazon.com/2006/3/amazon-web-services-launches). AWS has since added functionality, but reading through the [API spec](https://docs.aws.amazon.com/pdfs/AmazonS3/latest/API/s3-api.pdf#API_Operations_Amazon_Simple_Storage_Service) reveals something important: it's still fundamentally get/set operations kept as simple as possible.
 
-I shared a vanpool with an S3 development manager in 2013. His perspective: "We could have made it more sophisticated, but simple scales." Consider this when designing your next service—you're probably not building the next S3.
+S3's design philosophy prioritizes simplicity over sophistication—a principle that has enabled global scale for nearly two decades. As one S3 development manager noted: "We could have made it more sophisticated, but simple scales." Consider this when designing your next service—you're probably not building the next S3.
 
 </details>
 
