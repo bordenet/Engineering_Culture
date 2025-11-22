@@ -1,2 +1,17 @@
 .DS_Store
 git_reset.log
+
+
+#Ignore vscode AI rules
+.github/instructions/codacy.instructions.md
+
+# Analysis and assessment documents
+ASSESSMENT_*.md
+ANALYSIS_*.md
+ACTION_PLAN_*.md
+PHASE_*.md
+QUICK_START.md
+NAVIGATION_MAP.md
+*_assessment.md
+*_analysis.md
+*_action_plan.md

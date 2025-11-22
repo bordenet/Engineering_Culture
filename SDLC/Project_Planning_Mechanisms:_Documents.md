@@ -5,7 +5,7 @@
 
 In the age of AI, anyone can generate a PRD or technical spec in seconds. But understanding *which* document to create, *when* to use it, and *why* it matters—that's where experience counts.
 
-After 26 years building software at companies from Microsoft to early-stage startups, I've seen planning documents save projects and sink them. The difference? Knowing their purpose and boundaries.
+The right planning document at the right time can be the difference between project success and expensive failure. The key is matching document type to project complexity and organizational context.
 
 This guide shares what actually works, helping teams avoid the document factories that plague enterprise software while maintaining the rigor needed to ship successfully.
 

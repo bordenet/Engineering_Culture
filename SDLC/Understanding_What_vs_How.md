@@ -2,11 +2,11 @@
 
 *Why confusing outcomes with implementation kills projects before they start*
 
-I've watched countless engineering projects fail not because of technical incompetence, but because teams never clearly separated **what** they were trying to achieve from **how** they planned to achieve it. This confusion leads to over-engineered solutions, missed deadlines, and products that solve the wrong problems elegantly.
+Engineering projects often fail not because of technical incompetence, but because teams jump straight to implementation without understanding the problem they're solving.
 
 The "What vs. How" distinction isn't just product management theory—it's a fundamental engineering leadership skill that determines whether your team builds the right thing, builds it efficiently, and can adapt when circumstances change.
 
-After 26+ years of watching teams succeed and fail, I've learned that the most successful engineering leaders master this distinction early and use it to guide every major decision.
+The most successful engineering leaders master this distinction early and use it to guide their teams toward better outcomes. Understanding when to focus on "what" versus "how" prevents wasted effort and misaligned solutions.
 
 ## Why This Distinction Matters
 

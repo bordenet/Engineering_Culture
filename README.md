@@ -1,5 +1,5 @@
 # Engineering Culture Blog Posts
-*Accumulated observations from 26+ years in the software industry*
+*Engineering leadership insights covering culture, SDLC, and technical fundamentals*
 
 ---
 
@@ -13,6 +13,8 @@ These insights emerged from decades of building software systems and leading eng
 - **Technical debt and architectural decisions** still compound over time, regardless of who writes the initial code
 
 **The AI Evolution**: As these tools become ubiquitous, some practices will evolve significantly—documentation quality may improve, code reviews might focus more on architecture than syntax, and pair programming could include AI partners. However, the core principles of building sustainable engineering cultures will likely become *more* important, not less, as AI amplifies both good and bad organizational patterns.
+
+**Acknowledgments**: These insights were developed through collaboration with world-class teams and industry titans at Amazon, world-class mentors and fellow leaders at iStreamPlanet, and ample trial-and-error with willing collaborators.
 
 
 ## Culture

@@ -2,7 +2,7 @@
 
 *How clear writing becomes your most scalable skill and differentiates great engineers from good ones*
 
-In 26+ years of engineering leadership, I've noticed something: the engineers who advance fastest aren't always the most technically brilliant. They're the ones who can articulate complex ideas clearly, influence without authority, and scale their impact beyond what they can personally code.
+The engineers who advance fastest aren't always the most technically brilliant—they're the ones who communicate complex ideas clearly. Writing skill becomes increasingly important as technical leadership responsibility grows.
 
 Professional writing isn't just nice-to-have for engineers—it's a force multiplier. Whether you're documenting architecture decisions, proposing new initiatives, or giving feedback to colleagues, your ability to communicate clearly in writing directly impacts your career trajectory and your team's success.
 

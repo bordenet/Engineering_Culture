@@ -5,7 +5,9 @@
 > * Read more about [mechanisms](./Mechanisms:_Building_Self-Correcting_Systems.md)
 > * Try my [pr-faq-valdator](https://github.com/bordenet/pr-faq-validator) tool
 
-After years of watching teams build the wrong thing perfectly, I've become an advocate for selective use of the Press Release-FAQ methodology. Originally developed at Amazon but now adopted across the industry, this technique forces teams to define success from the customer's perspective before writing a [Product Requirements Doc](./Project_Planning_Mechanisms%3A_Documents.md#prd-the-what-and-why) or a single line of code.
+Amazon's PR-FAQ (Press Release / Frequently Asked Questions) mechanism is one of the most powerful tools for ensuring you're solving the right problem before investing in solutions. Originally developed at Amazon but now adopted across the industry, this technique forces teams to define success from the customer's perspective before writing a [Product Requirements Doc](./Project_Planning_Mechanisms%3A_Documents.md#prd-the-what-and-why) or a single line of code.
+
+Framework successfully leveraged at Amazon and refined through adaptation and application across multiple organizations thereafter.
 
 But here's the thing: **most projects don't need a PR-FAQ**. This post will help you understand when to use this powerful but deceptively heavy-duty tool, and how to do it effectively.
 

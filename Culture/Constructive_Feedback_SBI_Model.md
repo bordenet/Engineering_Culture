@@ -4,7 +4,7 @@
 
 Most feedback fails because it comes across as judgment rather than observation. We say "you're not communicating well" instead of describing what we actually saw and how it affected the situation. The result? Defensive responses, hurt feelings, and missed opportunities for growth.
 
-After years of watching well-intentioned feedback conversations go sideways, I've learned that the structure of your feedback matters as much as the content. The **Situation-Behavior-Impact (SBI) model** provides that structure—turning subjective opinions into objective observations that people can actually use.
+The most effective feedback follows a simple pattern: Situation-Behavior-Impact (SBI). This framework transforms difficult conversations into productive dialogue by turning subjective opinions into objective observations that people can actually use.
 
 This isn't just another HR technique. It's a practical framework for having the hard conversations that make teams better while preserving the [psychological safety](People_-_Process_-_Technology_Triad.md#phase-2-people-first-investments) that enables growth.
 

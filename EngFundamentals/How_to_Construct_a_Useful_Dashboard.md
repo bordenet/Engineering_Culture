@@ -7,7 +7,7 @@
 
 Building effective dashboards is both art and science. The worst thing engineering teams can do is wait for someone else to solve their observability problems. This guide provides a systematic approach to creating dashboards that support operational excellence rather than just looking impressive.
 
-After years of building and iterating on monitoring systems, I've learned that successful dashboards follow predictable patterns. This isn't about perfection—it's about building useful visibility into system behavior that enables better engineering decisions.
+Successful dashboards follow predictable patterns. This isn't about perfection—it's about building useful visibility into system behavior that enables better engineering decisions.
 
 ## Table of Contents
 

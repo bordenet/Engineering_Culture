@@ -1,8 +1,10 @@
 # 🔄 Mechanisms: Building Self-Correcting Systems
 
-After years of watching teams struggle with the same problems repeatedly, I've learned that sustainable improvement requires more than good intentions. It requires **mechanisms**—self-correcting systems that turn inputs into measurable outputs through continuous iteration.
+The difference between high-performing and struggling teams often comes down to one thing: mechanisms. These are systematic processes that prevent problems from recurring rather than relying on individual heroics.
 
 This post shares a framework I've used to transform chaotic engineering processes into predictable, improving systems. Whether you're debugging production issues or shipping new features, these principles apply.
+
+Framework successfully leveraged at Amazon and refined through adaptation and application across multiple organizations thereafter.
 
 Mechanisms represent the "Process" component of the [People-Process-Technology triad](../Culture/People_-_Process_-_Technology_Triad.md)—they're how you systematically enable people to do their best work.
 

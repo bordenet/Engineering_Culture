@@ -2,7 +2,7 @@
 
 *Understanding the proper role of observability dashboards in engineering operations*
 
-Most engineering teams treat dashboards as the solution to their observability problems. Install a monitoring tool, create some charts, put them on a big screen—problem solved, right? After years of building and iterating on monitoring systems, I've learned that dashboards are incredibly valuable when used correctly, but they're often misunderstood and misapplied.
+Dashboards are incredibly valuable when used correctly—and surprisingly useless when misapplied. Understanding what dashboards can and cannot do prevents wasted effort and monitoring fatigue.
 
 This post explores the real strengths and limitations of dashboards, helping engineering teams build monitoring strategies that actually improve system reliability rather than just creating pretty visualizations.
 

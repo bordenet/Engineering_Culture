@@ -1,8 +1,8 @@
 # Clear Communication: A Guide to Avoiding Weasel Words and Clichés
 
-*Miscommunication is often the simplest way to derail a project. I've learned that precise language isn't just nice to have—it's essential for engineering effectiveness.*
+*Miscommunication is often the simplest way to derail a project. Precise language isn't just nice to have—it's essential for engineering effectiveness.*
 
-Effective engineering relies on precision, not just in our code, but in our communication. I've seen ambiguous language, vague assertions, and conversational shortcuts erode trust and slow down progress more times than I can count. This post shares what I've learned about identifying and avoiding these communication pitfalls.
+Ambiguous language causes everything from minor delays to complete project failures. This post covers how to identify and eliminate weasel words from engineering communication.
 
 This guide is a call to action to eliminate imprecise language from our vocabulary.
 
@@ -32,7 +32,7 @@ This post will help you identify and replace common communication anti-patterns 
 
 A [weasel word](https://en.wikipedia.org/wiki/Weasel_word) is defined as “a word and phrase aimed at creating an impression that something specific and meaningful has been said when in fact only a vague, ambiguous, or irrelevant claim has been communicated.” These words suck the meaning out of a sentence, leaving the reader to guess at the intended message, and the term dates back to at least Ovid’s [_Metamorphoses_](https://en.wikipedia.org/wiki/Metamorphoses).
 
-I've learned that when I catch myself using weasel words, it's usually a signal that I need to dig deeper, find the data, and state my point with clarity.
+When you catch yourself using weasel words, it's usually a signal to dig deeper, find the data, and state your point with clarity.
 
 | Weasel Word Example | Replace with… |
 | :--- | :--- |
@@ -59,7 +59,7 @@ I've learned that when I catch myself using weasel words, it's usually a signal 
 
 ## The Power of Active Voice
 
-I've found that using **passive voice** or making indirect allusions undermines your position and forces your audience to work harder to understand you. It opens the door to ambiguity and can even feel like an attempt to shirk ownership.
+Using **passive voice** is one of the most common ways to dodge accountability. It opens the door to ambiguity and can even feel like an attempt to shirk ownership.
 
 [**Active Voice**](https://en.wikipedia.org/wiki/Active_voice), in contrast, is direct, clear, and action-oriented. It assigns responsibility and makes your statements stronger.
 
@@ -79,7 +79,7 @@ Source: https://www.factoftheday1.com/p/may-5-use-active-voice
 
 ## Putting It All Together
 
-I've found that developing a habit of increasingly precise communication is one of the most powerful ways to improve your effectiveness and your team's effectiveness. In my experience, it helps facilitate a culture of ownership, transparency, and data-driven decision-making.
+Developing a habit of increasingly precise communication requires conscious effort, but the payoff is substantial. It helps facilitate a culture of ownership, transparency, and data-driven decision-making.
 
 The core principle is simple: **say what you mean, and mean what you say**. By eliminating these anti-patterns, teams can ensure their conversations are productive, their documents are clear, and their projects are built on a solid foundation of shared understanding.
 
