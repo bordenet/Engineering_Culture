@@ -2,7 +2,7 @@
 
 *How organizational design shapes the systems you build - and what to do about it*
 
-> *"Organizations which design systems are constrained to produce designs which are copies of the communication structures of these organizations."* – Melvin Conway, 1967
+> *"Organizations which design systems are constrained to produce designs which are copies of the communication structures of these organizations."* - Melvin Conway, 1967
 
 Conway's Law isn't just an interesting observation. It's a fundamental force that shapes every software system ever built. Most engineering leaders discover this principle too late, when they're debugging communication problems in their architecture and realize they're actually debugging communication problems in their organization.
 
