@@ -3,6 +3,7 @@
 
 > [!NOTE]
 > * Read more about [mechanisms](./Mechanisms:_Building_Self-Correcting_Systems.md)
+> * Generate PR-FAQs with [pr-faq-assistant](https://bordenet.github.io/pr-faq-assistant/) ([repo](https://github.com/bordenet/pr-faq-assistant))
 > * Validate your PR-FAQ with the [pr-faq-validator](https://github.com/bordenet/pr-faq-validator) tool
 
 Amazon's PR-FAQ (Press Release / Frequently Asked Questions) mechanism forces teams to define success from the customer's perspective before writing a single line of code. By articulating customer value in plain, journalistic English, it exposes weak thinking before you've invested months in development.
