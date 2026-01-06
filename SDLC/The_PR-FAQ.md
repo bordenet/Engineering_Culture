@@ -262,9 +262,12 @@ Use this checklist to self-evaluate before sharing your PR-FAQ. This mirrors wha
 
 **Scoring Guide:**
 - **80-100:** Publication-ready
-- **60-79:** Good foundation, needs targeted improvements  
+- **60-79:** Good foundation, needs targeted improvements
 - **40-59:** Gaps to address
 - **Below 40:** Major rework needed
+
+> [!TIP]
+> The [pr-faq-assistant](https://bordenet.github.io/pr-faq-assistant/) targets a **70+ score** as a solid starting point for iteration. Don't aim for perfection on the first draft—get to 70+, then refine.
 
 ## Crafting Effective FAQs
 
