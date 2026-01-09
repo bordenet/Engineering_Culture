@@ -8,7 +8,7 @@
 
 Amazon's PR-FAQ (Press Release / Frequently Asked Questions) mechanism forces teams to define success from the customer's perspective before writing a single line of code. By articulating customer value in plain, journalistic English, it exposes weak thinking before you've invested months in development.
 
-**But here's the thing: most projects don't need a PR-FAQ.** This guide covers when to use this tool and how to write one that scores well.
+**But here's the thing: most projects don't need a PR-FAQ.** This guide covers when to use this tool and how to write a high-value one.
 
 ## Table of Contents
 
