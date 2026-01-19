@@ -2,11 +2,11 @@
 
 *I've built observability programs at four companies with four different starting points: zero metrics, useless metrics, expensive tools without a holistic strategy or plan, and teams that already get it. The approach is the same; the pace differs.*
 
-Many teams build dashboards that don't help them understand how their services operate—and they don't find out until an incident.
+Many teams build dashboards that don't help them understand how their services operate—and they don't find out until they're reacting to a production incident.
 
-This guide is for teams who already ship services and have some monitoring in place, even if it's bad. If you're starting from zero, read [What Dashboards are Good For](What_Dashboards_are_Good_For.md) first.
+This guide is for teams who already ship services and have some monitoring in place, even if it's not great. If you're starting from zero, read [What Dashboards are Good For](What_Dashboards_are_Good_For.md) first.
 
-Here, the focus is on what actually works when you're building dashboards from scratch or fixing ones that don't help. It's not about perfection; it's about visibility that enables better decisions and, eventually, reliable alerting.
+Here, the focus is on what actually works when you're building dashboards from scratch or fixing ones that don't help. It's not about perfection; it's about visibility that enables better decisions, service runbooks, and, eventually, reliable alerting.
 
 ## Table of Contents
 
