@@ -52,7 +52,7 @@ A PR-FAQ is a fictitious press release for a product that doesn't exist yet, fol
 - Small iterations on existing products
 - When the team already has strong alignment
 
-**A simple test:** If writing the press release feels forced or artificial, you probably don't need one.
+**A simple test:** If writing the press release feels forced or artificial, process-wise, you probably don't need one.
 
 ## The Working Backwards Philosophy
 
@@ -175,7 +175,7 @@ Most PR-FAQ customer quotes are useless. They say things like "This product is g
 
 ### Words to Avoid
 
-Marketing fluff undermines credibility. These words signal that you're selling rather than informing:
+Marketing fluff undermines credibility. These words signal that you're selling rather than informing. For a deeper dive on this topic, see [Weasel Words: The Silent Credibility Killer](../Culture/Weasel_Words.md).
 
 | **🚫 Avoid** | **✅ Replace With** |
 |--------------|---------------------|
@@ -426,6 +426,8 @@ Apex DevTools builds AI tools that eliminate engineering toil. Founded in 2024 b
 
 ## Common Mistakes and How to Avoid Them
 
+These anti-patterns appear repeatedly in PR-FAQ drafts. Many stem from the same root cause: vague language that sounds professional but says nothing. See [Weasel Words](../Culture/Weasel_Words.md) for why this matters.
+
 ### Mistake 1: Writing a Feature List
 **Problem:** "Our product has X, Y, and Z capabilities..."  
 **Fix:** Focus on customer outcomes: "Customers can now accomplish..."
@@ -513,12 +515,12 @@ The hardest part isn't writing. It's killing projects when the PR-FAQ reveals th
 
 ## Additional Reading
 
-- **"Working Backwards"** by Colin Bryar and Bill Carr: The definitive guide from Amazon insiders
-- **"The Everything Store"** by Brad Stone: Context on Amazon's customer-obsessed culture
-- **"Good Strategy Bad Strategy"** by Richard Rumelt: Strategic thinking foundations
-- **"The Lean Startup"** by Eric Ries: Hypothesis-driven product development
-- **"Inspired"** by Marty Cagan: Industry-standard product management guide
-- **"The Mom Test"** by Rob Fitzpatrick: Customer validation techniques
+- **["Working Backwards"](https://www.goodreads.com/book/show/53138083-working-backwards)** by Colin Bryar and Bill Carr: The definitive guide from Amazon insiders
+- **["The Everything Store"](https://www.goodreads.com/book/show/17660462-the-everything-store)** by Brad Stone: Context on Amazon's customer-obsessed culture
+- **["Good Strategy Bad Strategy"](https://www.goodreads.com/book/show/11721966-good-strategy-bad-strategy)** by Richard Rumelt: Strategic thinking foundations
+- **["The Lean Startup"](https://www.goodreads.com/book/show/10127019-the-lean-startup)** by Eric Ries: Hypothesis-driven product development
+- **["Inspired"](https://www.goodreads.com/book/show/35249663-inspired)** by Marty Cagan: Industry-standard product management guide
+- **["The Mom Test"](https://www.goodreads.com/book/show/52283963-the-mom-test)** by Rob Fitzpatrick: Customer validation techniques
 
 ---
 
