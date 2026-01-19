@@ -296,11 +296,40 @@ The FAQ section addresses hard questions and hidden assumptions. Often more valu
 
 ## Complete Annotated Example
 
-Below is a complete PR-FAQ example with annotations explaining why each element works.
+Below is a complete PR-FAQ example with annotations explaining why each element works. First, read the PR-FAQ as a reader would see it, then walk through the dissection.
+
+<details>
+<summary><strong>📄 Read the full PR-FAQ first (click to expand)</strong></summary>
 
 ---
 
-### Example PR-FAQ: FlowSync Agent
+## Apex DevTools Launches FlowSync Agent, Automating GitHub-to-Linear Sync and Cutting Sprint Delays by 40%
+
+*Engineering teams reclaim 15+ hours weekly as AI eliminates manual status updates across GitHub, Jira, and Linear*
+
+**SAN FRANCISCO, February 1, 2026** — Apex DevTools today announced the general availability of FlowSync Agent, an AI-powered tool that automatically syncs work status across GitHub, Jira, Linear, Slack, and Microsoft Teams. Early adopters report 40% faster sprint delivery and 15+ hours per week reclaimed from manual status updates and backlog grooming.
+
+Engineering teams lose an estimated 15 hours per developer per week to "status sync tax": updating Jira tickets when PRs merge, grooming stale backlogs, and chasing teammates for updates in standups. A 2025 LinearB study found that 73% of engineering managers consider their backlog "partially or mostly inaccurate," contributing to a 25% sprint completion miss rate industry-wide.
+
+FlowSync Agent connects to GitHub, Jira, Linear, Slack, and Microsoft Teams. When a PR is opened, it automatically creates or links the corresponding issue. When code merges, tickets advance to the next status. Meeting transcripts and Slack/Teams threads generate new issues tagged to the right epic. Engineers review suggestions via daily digest or real-time notifications. The agent learns from approvals and rejections, improving accuracy over time.
+
+"Before FlowSync, our Monday standups were 45 minutes of 'what's the status of X?' that engineers hated," said Marcus Chen, VP of Engineering at Ledger Systems, a 180-person fintech. "Now issues auto-advance when PRs merge, and standups are 15 minutes of actual planning. Our sprint completion rate went from 65% to 91%, and cycle time dropped from 12 days to 7."
+
+"We were hemorrhaging 200+ engineering hours per sprint to status updates and backlog grooming," said Priya Sharma, Head of Platform at Capsule Health, a Series C healthtech startup. "FlowSync Agent cut that to under 40 hours. More importantly, when our SOC 2 auditor asked for evidence that requirements were tracked, we had a complete paper trail from Slack thread to merged PR."
+
+"Engineers should be shipping code, not updating Jira tickets," said David Reimer, CEO of Apex DevTools. "We built FlowSync Agent because we lived this problem ourselves. Your issue tracker should reflect reality automatically, not because someone remembered to click a button."
+
+FlowSync Agent is available today for teams using GitHub with Linear or Jira, with GitLab support planned for Q2 2026. Pricing starts at $25 per seat per month. Teams can connect their workspace and see the first auto-synced issues within 15 minutes at www.apexdevtools.io/flowsync.
+
+**About Apex DevTools**
+
+Apex DevTools builds AI tools that eliminate engineering toil. Founded in 2024 by former GitHub and Linear engineers, the company is backed by Craft Ventures and Boldstart. Over 400 engineering teams use Apex products, including teams at Vercel, Plaid, and Notion. For more information, visit www.apexdevtools.io.
+
+---
+
+</details>
+
+### Annotated Breakdown: FlowSync Agent
 
 **HEADLINE**
 
