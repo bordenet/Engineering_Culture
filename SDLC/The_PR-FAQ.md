@@ -6,7 +6,7 @@
 > * Generate PR-FAQs with [pr-faq-assistant](https://bordenet.github.io/pr-faq-assistant/) ([repo](https://github.com/bordenet/pr-faq-assistant))
 > * Validate your PR-FAQ with the [pr-faq-validator](https://github.com/bordenet/pr-faq-validator) tool
 
-Amazon's PR-FAQ (Press Release / Frequently Asked Questions) mechanism forces teams to define success from the customer's perspective—before anyone builds anything. By articulating customer value in plain, journalistic English, it exposes weak thinking before you've invested months in development.
+Amazon's PR-FAQ (Press Release / Frequently Asked Questions) mechanism forces teams to define success from the customer's perspective, before anyone builds anything. By articulating customer value in plain, journalistic English, it exposes weak thinking before you've invested months in development.
 
 **But here's the thing: most projects don't need a PR-FAQ.** This guide covers when to use this tool and how to write a high-value one.
 
@@ -267,7 +267,7 @@ Use this checklist to self-evaluate before sharing your PR-FAQ. This mirrors wha
 - **Below 40:** Major rework needed
 
 > [!TIP]
-> The [pr-faq-assistant](https://bordenet.github.io/pr-faq-assistant/) targets a **70+ score** as a solid starting point for iteration. Don't aim for perfection on the first draft—get to 70+, then refine.
+> The [pr-faq-assistant](https://bordenet.github.io/pr-faq-assistant/) targets a **70+ score** as a solid starting point for iteration. Don't aim for perfection on the first draft. Get to 70+, then refine.
 
 ## Crafting Effective FAQs
 
@@ -278,7 +278,7 @@ The FAQ section addresses hard questions and hidden assumptions. Often more valu
 | **Section** | **Purpose** |
 |:------------|:------------|
 | **External FAQ** | Questions customers would ask. Written as if it's public documentation. Include wireframes or mockups here if helpful. |
-| **Internal FAQ** | The "[rude Q&A](https://critter.blog/2022/10/20/the-rude-qa/)" — hard questions about feasibility, resources, risks, and trade-offs. |
+| **Internal FAQ** | The "[rude Q&A](https://critter.blog/2022/10/20/the-rude-qa/)": hard questions about feasibility, resources, risks, and trade-offs. |
 
 ### Essential Internal FAQ Topics
 
@@ -404,7 +404,7 @@ Below is a complete PR-FAQ example with annotations explaining why each element 
 
 ### Mistake 3: Missing the 5 Ws
 **Problem:** Jumping into features without establishing context  
-**Fix:** Use the checklist—ensure WHO, WHAT, WHEN, WHERE, WHY are answered in first 2 paragraphs
+**Fix:** Use the checklist. Ensure WHO, WHAT, WHEN, WHERE, WHY are answered in first 2 paragraphs
 
 ### Mistake 4: Marketing Fluff
 **Problem:** "Revolutionary AI-powered game-changing platform..."  
@@ -433,7 +433,7 @@ Below is a complete PR-FAQ example with annotations explaining why each element 
 1. **Draft with core team** (PM, Tech Lead, Designer)
 2. **Self-evaluate** against the [quality checklist](#pr-faq-quality-checklist)
 3. **Get feedback from 3-5 stakeholders** before broad review
-4. **Hold a structured review meeting** — no slides allowed
+4. **Hold a structured review meeting** (no slides allowed)
 5. **Iterate based on feedback** until excitement is genuine
 6. **Use throughout project** for onboarding and course correction
 
@@ -447,7 +447,7 @@ PR-FAQs work best when:
 
 ### Getting Value from the Investment
 
-A good PR-FAQ requires real thinking time—the writing is the easy part. Get value from it by:
+A good PR-FAQ requires real thinking time. The writing is the easy part. Get value from it by:
 - Using it to onboard every new team member
 - Reviewing it monthly to catch scope creep
 - Referencing it in architectural decisions
@@ -456,37 +456,37 @@ A good PR-FAQ requires real thinking time—the writing is the easy part. Get va
 ## Templates and Resources
 
 ### Validate Your PR-FAQ
-- **[pr-faq-validator](https://github.com/bordenet/pr-faq-validator)** — CLI tool that scores your PR-FAQ against journalistic standards
+- **[pr-faq-validator](https://github.com/bordenet/pr-faq-validator)**: CLI tool that scores your PR-FAQ against journalistic standards
 
 ### Real-World Examples
-- **[SVPG's Example PR-FAQ](https://www.svpg.com/example-prfaq/)** — Clean, simple format
-- **[Amazon Prime Pantry PR-FAQ](https://canvas.upenn.edu/courses/1529286/assignments/8420547)** — More detailed example
+- **[SVPG's Example PR-FAQ](https://www.svpg.com/example-prfaq/)**: Clean, simple format
+- **[Amazon Prime Pantry PR-FAQ](https://canvas.upenn.edu/courses/1529286/assignments/8420547)**: More detailed example
 
 ### Books and Articles
-- **[Working Backwards Book](https://www.workingbackwards.com/)** — The definitive guide by Amazon insiders
-- **[Medium: PR-FAQs for Product Managers](https://medium.com/agileinsider/press-releases-for-product-managers-everything-you-need-to-know-942485961e31)** — Opinionated take
-- **[Product Strategy: Amazon PR-FAQ Guide](https://productstrategy.co/working-backwards-the-amazon-prfaq-for-product-innovation/)** — Practical tips
-- **[Coda Template](https://coda.io/@colin-bryar/working-backwards-how-write-an-amazon-pr-faq)** — Interactive template
+- **[Working Backwards Book](https://www.workingbackwards.com/)**: The definitive guide by Amazon insiders
+- **[Medium: PR-FAQs for Product Managers](https://medium.com/agileinsider/press-releases-for-product-managers-everything-you-need-to-know-942485961e31)**: Opinionated take
+- **[Product Strategy: Amazon PR-FAQ Guide](https://productstrategy.co/working-backwards-the-amazon-prfaq-for-product-innovation/)**: Practical tips
+- **[Coda Template](https://coda.io/@colin-bryar/working-backwards-how-write-an-amazon-pr-faq)**: Interactive template
 
 ## The Bottom Line
 
 PR-FAQs force you to think through customer value before building. Remember:
 
-1. **Follow journalistic conventions** — dateline, 5 Ws, newsworthy hook
-2. **Be specific with metrics** — especially in customer quotes
-3. **Avoid marketing fluff** — credibility over hype
-4. **Use the checklist** — catch gaps before review
+1. **Follow journalistic conventions**: dateline, 5 Ws, newsworthy hook
+2. **Be specific with metrics**: especially in customer quotes
+3. **Avoid marketing fluff**: credibility over hype
+4. **Use the checklist**: catch gaps before review
 
-The hardest part isn't writing—it's killing projects when the PR-FAQ reveals they're not worth pursuing. That's also where the value lies: failing fast on paper rather than slow in production.
+The hardest part isn't writing. It's killing projects when the PR-FAQ reveals they're not worth pursuing. That's also where the value lies: failing fast on paper rather than slow in production.
 
 ## Additional Reading
 
-- **"Working Backwards"** by Colin Bryar and Bill Carr — The definitive guide from Amazon insiders
-- **"The Everything Store"** by Brad Stone — Context on Amazon's customer-obsessed culture
-- **"Good Strategy Bad Strategy"** by Richard Rumelt — Strategic thinking foundations
-- **"The Lean Startup"** by Eric Ries — Hypothesis-driven product development
-- **"Inspired"** by Marty Cagan — Industry-standard product management guide
-- **"The Mom Test"** by Rob Fitzpatrick — Customer validation techniques
+- **"Working Backwards"** by Colin Bryar and Bill Carr: The definitive guide from Amazon insiders
+- **"The Everything Store"** by Brad Stone: Context on Amazon's customer-obsessed culture
+- **"Good Strategy Bad Strategy"** by Richard Rumelt: Strategic thinking foundations
+- **"The Lean Startup"** by Eric Ries: Hypothesis-driven product development
+- **"Inspired"** by Marty Cagan: Industry-standard product management guide
+- **"The Mom Test"** by Rob Fitzpatrick: Customer validation techniques
 
 ---
 
@@ -497,15 +497,15 @@ The hardest part isn't writing—it's killing projects when the PR-FAQ reveals t
 **Quick Links:** [🔝 Back to Top](#project-planning-the-pr-faq-mechanism) | [📋 Quality Checklist](#pr-faq-quality-checklist) | [📝 Example](#complete-annotated-example)
 
 **Related in This Series:**
-- [Project Planning Documents](./Project_Planning_Mechanisms:_Documents.md) — *Complete guide to planning documents*
-- [The One-Pager](./The_One-Pager.md) — *Quick decision-making documentation*
-- [Understanding What vs How](./Understanding_What_vs_How.md) — *Separating outcomes from implementation*
+- [Project Planning Documents](./Project_Planning_Mechanisms:_Documents.md) - *Complete guide to planning documents*
+- [The One-Pager](./The_One-Pager.md) - *Quick decision-making documentation*
+- [Understanding What vs How](./Understanding_What_vs_How.md) - *Separating outcomes from implementation*
 
 **Related Topics:**
-- [Mechanisms: Building Self-Correcting Systems](./Mechanisms:_Building_Self-Correcting_Systems.md) — *Amazon's systematic approach*
-- [Professional Writing Tips](../Culture/Professional_Writing_Tips.md) — *Writing techniques*
-- [Weasel Words](../Culture/Weasel_Words.md) — *Words that obscure meaning*
-- [Building an AI-First Engineering Culture](../AIEngineering/Building_an_AI-First_Engineering_Culture.md) — *See pr-faq-assistant and pr-faq-validator tools*
+- [Mechanisms: Building Self-Correcting Systems](./Mechanisms:_Building_Self-Correcting_Systems.md) - *Amazon's systematic approach*
+- [Professional Writing Tips](../Culture/Professional_Writing_Tips.md) - *Writing techniques*
+- [Weasel Words](../Culture/Weasel_Words.md) - *Words that obscure meaning*
+- [Building an AI-First Engineering Culture](../AIEngineering/Building_an_AI-First_Engineering_Culture.md) - *See pr-faq-assistant and pr-faq-validator tools*
 
 ---
 

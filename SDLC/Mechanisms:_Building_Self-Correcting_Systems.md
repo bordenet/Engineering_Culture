@@ -4,7 +4,7 @@ High-performing teams have mechanisms. Struggling teams have good intentions. Me
 
 This framework transforms chaotic engineering processes into predictable, improving systems. Whether you're debugging production issues or shipping new features, these principles apply.
 
-This is Amazon's internal framework for building self-correcting systems. It scales from startups to Fortune 100s—I've applied it successfully at three startups since leaving Amazon.
+This is Amazon's internal framework for building self-correcting systems. It scales from startups to Fortune 100s. I've applied it successfully at three startups since leaving Amazon.
 
 Mechanisms represent the "Process" component of the [People-Process-Technology triad](../Culture/People_-_Process_-_Technology_Triad.md) - they're how you systematically enable people to do their best work.
 

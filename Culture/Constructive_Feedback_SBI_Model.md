@@ -3,7 +3,7 @@
 *How to give feedback that develops people instead of triggering their defenses*
 
 > [!NOTE]
-> This guide covers **giving** feedback. The other half—**receiving** feedback well—is equally important. See [Thanks for the Feedback](https://www.goodreads.com/book/show/18114120-thanks-for-the-feedback) by Douglas Stone for the essential companion skill.
+> This guide covers **giving** feedback. The other half, **receiving** feedback well, is equally important. See [Thanks for the Feedback](https://www.goodreads.com/book/show/18114120-thanks-for-the-feedback) by Douglas Stone for the essential companion skill.
 
 Most feedback fails because it comes across as judgment rather than observation. We say "you're not communicating well" instead of describing what we actually saw and how it affected the situation. The result? Defensive responses, hurt feelings, and missed opportunities for growth.
 
@@ -81,7 +81,7 @@ Make your motivation clear to prevent misinterpretation:
 **For recognition**: "I want to make sure you know the positive impact you're having"
 
 > [!WARNING]
-> **The Genuine Intent Test**: Be genuinely interested in helping the other person grow—or don't give the feedback at all. If you're venting frustration, scoring points, or documenting for HR, SBI becomes a weapon disguised as a framework. Check your motives first. If they're not clean, you might need help before they do.
+> **The Genuine Intent Test**: Be genuinely interested in helping the other person grow, or don't give the feedback at all. If you're venting frustration, scoring points, or documenting for HR, SBI becomes a weapon disguised as a framework. Check your motives first. If they're not clean, you might need help before they do.
 
 ### Choose the Right Moment
 - **Private setting** for corrective feedback

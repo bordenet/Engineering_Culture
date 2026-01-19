@@ -2,7 +2,7 @@
 
 *I've built observability programs at four companies with four different starting points: zero metrics, useless metrics, expensive tools without a holistic strategy or plan, and teams that already get it. The approach is the same; the pace differs.*
 
-Many teams build dashboards that don't help them understand how their services operate—and they don't find out until they're reacting to a production incident.
+Many teams build dashboards that don't help them understand how their services operate. They don't find out until they're reacting to a production incident.
 
 This guide is for teams who already ship services and have some monitoring in place, even if it's not great. If you're starting from zero, read [What Dashboards are Good For](What_Dashboards_are_Good_For.md) first.
 
@@ -31,7 +31,7 @@ Effective dashboards evolve through predictable stages. Don't try to build the p
 
 **Key principle**: Every metric should either help you understand user experience or system health. If it doesn't serve one of these purposes, consider removing it.
 
-> **Expect to see what was always broken**: At iStreamPlanet, we extracted publishing functionality from our monolithic C++ transcoder into a new distributed service in AWS, with data flowing over gRPC from the private cloud. We instrumented the new service properly from day one. Because it sat at the tail end of the live video pipeline, it immediately surfaced every upstream problem—issues the old monolith had been silently swallowing. Good metrics don't create problems; they reveal the ones you didn't know you had.
+> **Expect to see what was always broken**: At iStreamPlanet, we extracted publishing functionality from our monolithic C++ transcoder into a new distributed service in AWS, with data flowing over gRPC from the private cloud. We instrumented the new service properly from day one. Because it sat at the tail end of the live video pipeline, it immediately surfaced every upstream problem, issues the old monolith had been silently swallowing. Good metrics don't create problems; they reveal the ones you didn't know you had.
 
 **Common mistakes**:
 - Collecting too many vanity metrics that don't indicate problems
@@ -73,7 +73,7 @@ Effective dashboards evolve through predictable stages. Don't try to build the p
 - **Include threshold lines** showing warning and error levels
 - **Link to related dashboards** and documentation
 
-> **Stop using averages**: At Telepathy, teams had dashboards full of averages—which meant the worst problems were invisible. Your average can look fine while 1% of your users are on fire. We replaced every latency metric with p95 and p99. The problems we'd been missing became obvious overnight.
+> **Stop using averages**: At Telepathy, teams had dashboards full of averages, which meant the worst problems were invisible. Your average can look fine while 1% of your users are on fire. We replaced every latency metric with p95 and p99. The problems we'd been missing became obvious overnight.
 
 ### Phase 3: Study Data and Establish Thresholds
 
@@ -94,7 +94,7 @@ Effective dashboards evolve through predictable stages. Don't try to build the p
 - Account for daily and weekly usage patterns
 - Consider seasonal variations in traffic or usage
 
-> **The coordination problem**: At Stash, every team was told to define their own SLOs—and that those SLOs would be their "report card." So they went off and did it alone. Some had decent dashboards, hacked together over time; others had basically nothing. Even the teams doing okay had patchwork coverage. Legacy services had it worst. The platform was swiss cheese for observability—gaps everywhere, no end-to-end view, and teams incentivized to set targets they could hit rather than targets that mattered. We formed an Operational Excellence community and built all our dashboards via git-based JSON. That was the unlock: teams could directly borrow from each other, customize, and iterate. We strongly encouraged stealing. When one team figured something out, everyone benefited.
+> **The coordination problem**: At Stash, every team was told to define their own SLOs, and that those SLOs would be their "report card." So they went off and did it alone. Some had decent dashboards, hacked together over time; others had basically nothing. Even the teams doing okay had patchwork coverage. Legacy services had it worst. The platform was swiss cheese for observability: gaps everywhere, no end-to-end view, and teams incentivized to set targets they could hit rather than targets that mattered. We formed an Operational Excellence community and built all our dashboards via git-based JSON. That was the unlock: teams could directly borrow from each other, customize, and iterate. We strongly encouraged stealing. When one team figured something out, everyone benefited.
 
 ### Phase 4: Test Alerting Logic
 
@@ -111,7 +111,7 @@ Effective dashboards evolve through predictable stages. Don't try to build the p
 - **Not sensitive enough**: Missing actual problems until customer impact is severe
 - **Wrong metrics**: Alerting on symptoms rather than root causes
 
-> **Expect to be flooded**: At two of my former companies, we were already years into designing ourselves into the same corner: treating Kafka as an RPC mechanism under the banner of "elastic architecture." The moment we started measuring the latency—which was obscene at daily peak traffic—alarms poured in, revealing problems long suspected but never understood. Every alert had to be triaged, debugged, documented, and tuned. Only the most critical ones got armed with PagerDuty. The flood was exhausting, but it gave us vital signals about the shortcomings of our architecture. Phase 4 is triage, not perfection.
+> **Expect to be flooded**: At two of my former companies, we were already years into designing ourselves into the same corner: treating Kafka as an RPC mechanism under the banner of "elastic architecture." The moment we started measuring the latency (which was obscene at daily peak traffic) alarms poured in, revealing problems long suspected but never understood. Every alert had to be triaged, debugged, documented, and tuned. Only the most critical ones got armed with PagerDuty. The flood was exhausting, but it gave us vital signals about the shortcomings of our architecture. Phase 4 is triage, not perfection.
 
 ### Phase 5: Implement Production Alerting
 

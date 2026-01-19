@@ -1,10 +1,10 @@
 # 📊 What Dashboards Are Good For (And What They're Not)
 
-In 2016, I joined iStreamPlanet—an operationally challenged startup handling live video transcoding for nationally televised broadcasts. They had done some phenomenal work to build their solution, but when systems failed, customer impact was immediate and highly visible. The company had zero useful metrics—just crash dumps and poorly structured, supremely unhelpful and duplicative logs sent to a subpar log store vendor.
+In 2016, I joined iStreamPlanet, an operationally challenged startup handling live video transcoding for nationally televised broadcasts. They had done some phenomenal work to build their solution, but when systems failed, customer impact was immediate and highly visible. The company had zero useful metrics: just crash dumps and poorly structured, supremely unhelpful and duplicative logs sent to a subpar log store vendor.
 
 We invested heavily in observability infrastructure, including a prominent dashboard display system. The team built high-quality, trustworthy dashboards. And yet production availability remained stuck at ~92% month-over-month. Services failed silently and stayed down for hours. The dashboards continued to look great in the early days, meaning they didn't help.
 
-The dashboards themselves didn't solve the reliability problems—but they provided the foundation needed to identify and fix the underlying issues. That distinction matters: dashboards are essential, but they're not sufficient.
+The dashboards themselves didn't solve the reliability problems. But they provided the foundation needed to identify and fix the underlying issues. That distinction matters: dashboards are essential, but they're not sufficient.
 
 ## Table of Contents
 
@@ -46,13 +46,13 @@ All four of my most recent engineering teams used Slack or Teams for alerts. At 
 
 Dashboards remain essential because building them forces you to engineer trustworthy metrics, develop SLIs, and understand system behavior well enough to set meaningful thresholds. That work becomes the foundation for automated alerting, self-healing systems, and capacity planning.
 
-For the systematic approach to building them—from collecting data through production alerting—see [How to Construct a Useful Dashboard](How_to_Construct_a_Useful_Dashboard.md).
+For the systematic approach to building them, from collecting data through production alerting, see [How to Construct a Useful Dashboard](How_to_Construct_a_Useful_Dashboard.md).
 
 ## The Path Forward
 
-Back to iStreamPlanet: once we had trustworthy dashboards, we could finally see the patterns. Services that looked healthy were actually bleeding. Latency spikes correlated with specific upstream behaviors. The ~92% availability wasn't random—it was predictable, and the dashboards showed us where to dig.
+Back to iStreamPlanet: once we had trustworthy dashboards, we could finally see the patterns. Services that looked healthy were actually bleeding. Latency spikes correlated with specific upstream behaviors. The ~92% availability wasn't random. It was predictable, and the dashboards showed us where to dig.
 
-We didn't fix availability by staring at dashboards harder. We fixed it by using dashboard data to build automated alerting, then runbooks, then eventually self-healing systems. The dashboards were the foundation—but the foundation isn't the house.
+We didn't fix availability by staring at dashboards harder. We fixed it by using dashboard data to build automated alerting, then runbooks, then eventually self-healing systems. The dashboards were the foundation. But the foundation isn't the house.
 
 **Start with dashboards, but don't stop there.** Use them to build the understanding and data foundation needed for automated monitoring, alerting, and eventually, systems that fix themselves.
 
