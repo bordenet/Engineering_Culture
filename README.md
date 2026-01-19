@@ -5,7 +5,9 @@
 
 ## About This Collection
 
-These insights emerged from decades of building software systems and leading engineering teams - most observations predating the era of LLM-powered development tools. While AI assistants are rapidly changing how we code, debug, and collaborate, the fundamental challenges of engineering culture remain remarkably consistent:
+I've spent 25 years watching the same problems kill projects. Not for lack of effort or talent—these are structural traps that catch smart teams. Vague requirements, unclear ownership, teams organized around the wrong boundaries. Different companies, different tech stacks—Microsoft, Amazon, live broadcast, fintech, AI—same patterns. This is what I've learned to look for.
+
+Most of these observations predate LLM-powered development tools. While AI assistants are rapidly changing how we code, debug, and collaborate, the fundamental challenges of engineering culture remain remarkably consistent:
 
 - **People still need to communicate effectively** across teams and with stakeholders
 - **Organizational design still shapes system architecture** (Conway's Law doesn't care about your AI tools)

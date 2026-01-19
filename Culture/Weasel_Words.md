@@ -1,22 +1,17 @@
 # Clear Communication: A Guide to Avoiding Weasel Words and Clichés
 
-*Miscommunication is often the simplest way to derail a project. Precise language isn't just nice to have - it's essential for engineering effectiveness.*
-
-Ambiguous language causes everything from minor delays to complete project failures. This post covers how to identify and eliminate weasel words from engineering communication.
-
-This guide is a call to action to eliminate imprecise language from our vocabulary.
-
-This post will help you identify and replace common communication anti-patterns with clear, direct, and evidence-based language. Build a culture where ideas are judged on their merits, not on the cleverness of their phrasing!
+*Vague language isn't just a writing problem—it's a symptom of missing rigor.*
 
 <div style="display: flex; align-items: flex-start; gap: 20px;">
 
 <div style="flex: 1;">
-  
+
 ## Table of Contents
 
-- [What are Weasel Words?](#what-are-weasel-words)  
-- [The Problem with Thought-Terminating Clichés](#the-problem-with-thought-terminating-clichés)  
-- [The Power of Active Voice](#the-power-of-active-voice)  
+- [Why This Matters: A Story from Live Broadcast](#why-this-matters-a-story-from-live-broadcast)
+- [What are Weasel Words?](#what-are-weasel-words)
+- [The Problem with Thought-Terminating Clichés](#the-problem-with-thought-terminating-clichés)
+- [The Power of Active Voice](#the-power-of-active-voice)
 - [Putting It All Together](#putting-it-all-together)
 
 </div>
@@ -27,47 +22,65 @@ This post will help you identify and replace common communication anti-patterns 
 
 </div>
 
-## What are Weasel Words?
+## Why This Matters: A Story from Live Broadcast
 
+Early in my post-Amazon career, I joined a startup to help accelerate their next growth phase. Within months, I noticed a pattern: proposals and calls-to-action would land, get head-nods, and go nowhere. I recall with chagrin two unhelpfully subjective words that leadership threw around on more than a few occasions: *"significant"* and *"profound."* Documents promised "significant improvements" and "profound impact"—but really, what did that even mean? 10%? 10x? Nobody asked. These intellectual shortcuts were killing the team's drive and setting us up to collectively underperform.
+
+This common pattern was hard to miss for a new-hire with fresh eyes. The flagship product's logs and operator-facing metrics were universally dismissed as "inaccurate" and "misleading"—so much so that the most successful operators ran our live transcoders on instinct and vibes rather than data. We built, tested, and maintained an ASP.NET site presenting metrics literally nobody on the team trusted. Curious as to how the product was working? Operators would watch and listen to the video coming out of the service. That's not sustainable at scale.
+
+Worse, when something went wrong, we'd hear "the source is good"—a claim that turned out to be wrong more than once. Operators weren't measuring packet loss or jitter—they were looking at video thumbnails and making dangerous assumptions or even outright guessing. And those guesses cost us and our customers dearly on numerous occasions. (Sorry, Hulu! Sorry, Fubo!!) This wasn't a dev environment—we were transcoding live broadcasts for major US networks. Not surprising then, that the first six or seven [COE's](../SDLC/Mechanisms:_Building_Self-Correcting_Systems.md#the-coe-correction-of-error-framework) I wrote with the team had "Data & Graphs" sections consisting of nothing but TODO-style placeholders with corresponding action items. We were building on quicksand, and the folks I spoke with who'd been there a while seemed not to notice anymore. They'd moved mountains to get the company through an acquisition, but our teams often felt as if we had stalled out.
+
+This was much deeper than word choice—it was fundamental engineering culture. The team hadn't demanded rigor from its members and thus hadn't invested in the groundwork to produce credible data. We couldn't write "reduced latency by 40%" because nobody was tracking latency. We couldn't commit to "3-day turnaround" because nobody had baselined the current state. Vague language breeds mediocrity; precise language demands precise measurement. Both were missing—and this was something I'd absorbed at Amazon and could now share.
+
+> [!NOTE]
+> Weasel words are often a leading indicator of a deeper problem: if your team can't write with precision, ask whether they have the data and metrics to *think* with precision.
+
+Only after building a quantitative, rigorous culture did things change—and not just the documents. The engineers themselves started responding more confidently and capably. Once people had real numbers, they stopped hiding behind vague adjectives and started owning their claims. And here's the key: when you bring objective data to the table, the *reader* gets to ascribe meaning. "Reduced P99 latency from 2350ms to 840ms" lets stakeholders judge significance for themselves.
+
+It took about two years. The COE "Data & Graphs" sections filled up with actual graphs. The operators who'd been watching video streams had dashboards they trusted. And instead of claims like "the source is good," operators were reading real metrics—packet loss, jitter, and signal health—across the entire pipeline from source through publishing.
+
+This guide will help you spot the anti-patterns—but remember: fixing the words without fixing the measurement culture is just cosmetic.
+
+## What are Weasel Words?
 
 A [weasel word](https://en.wikipedia.org/wiki/Weasel_word) is defined as “a word and phrase aimed at creating an impression that something specific and meaningful has been said when in fact only a vague, ambiguous, or irrelevant claim has been communicated.” These words suck the meaning out of a sentence, leaving the reader to guess at the intended message, and the term dates back to at least Ovid’s [_Metamorphoses_](https://en.wikipedia.org/wiki/Metamorphoses).
 
-When you catch yourself using weasel words, it's usually a signal to dig deeper, find the data, and state your point with clarity.
+When you catch yourself using weasel words, it's usually a signal to dig deeper, find the data, and state your point with auditable facts. I've seen every one of these derail a review or leave a room nodding at nothing. They drive me nuts.
 
 | Weasel Word Example | Replace with… |
 | :--- | :--- |
-| Significant impact/harm/improvement/etc | Real data. Subjective adjectives are unhelpful. |
-| A lot | Real data. Subjective adjectives are unhelpful. |
-| Too many | Real data along with pre-established expectations. |
-| Would help the solution | Provide specific expectations. |
-| Might bring clarity | State the desired outcome. Don’t be wishy-washy and indirect. Use active voice. |
-| Should result in benefits | This is passive voice and uncertain hedging. Start over. |
+| Significant impact/harm/improvement/etc | What's the number? 5%? 50%? If you don't know, find out. |
+| A lot | How many? Put a number on it. |
+| Too many | How many, and compared to what baseline? |
+| Would help the solution | What outcome, by when? |
+| Might bring clarity | Say what you actually want to happen. |
+| Should result in benefits | You're hedging. Say what *will* happen, or admit you don't know. |
 | Arguably the best | According to who? This borders on being a logical fallacy. |
 | Some people say | Who, when, and from what context did relevant observations originate? |
 
 ## The Problem with Thought-Terminating Clichés
 
-**[Thought-terminating clichés](https://en.wikipedia.org/wiki/Thought-terminating_cliché)** are phrases used to shut down conversation and critical thought. They are roadblocks to productive discussion.
+**[Thought-terminating clichés](https://en.wikipedia.org/wiki/Thought-terminating_cliché)** are phrases people reach for when they want to end a conversation without resolving it.
 
 | Cliché | Replace with… |
 | :--- | :--- |
 | It is what it is | This is nonsensical. Backspace over this and figure out what you really intend to say. |
-| This is above my pay grade | Behave like an owner. |
-| It’s all good | Take a moment to accept you might actually not be okay with the status quo. |
+| This is above my pay grade | Escalate it or own it. Shrugging isn't a strategy. |
+| It’s all good | Is it? Name what's actually bothering you. |
 | Let’s agree to disagree | Use this only if you wish to stifle debate ASAP and close the door on further communication. Do so at your own peril. |
-| Studies have shown… | If you want to cite studies, please be specific to spell out exactly which study and a concise summary of the findings. Otherwise it is as good as saying “because I say so”, it shuts down the conversation. |
+| Studies have shown… | Which study? Summarize the findings. Otherwise it's just "because I said so." |
 
 ## The Power of Active Voice
 
-Using **passive voice** is one of the most common ways to dodge accountability. It opens the door to ambiguity and can even feel like an attempt to shirk ownership.
+Passive voice is where accountability goes to hide.
 
-[**Active Voice**](https://en.wikipedia.org/wiki/Active_voice), in contrast, is direct, clear, and action-oriented. It assigns responsibility and makes your statements stronger.
+[**Active Voice**](https://en.wikipedia.org/wiki/Active_voice), in contrast, is direct and action-oriented. It assigns responsibility and makes your statements stronger.
 
 | Passive/Vague Snippet | Replace with… |
 | :--- | :--- |
 | It has been observed | Just state things directly. On \<date-time\>, \<specific occurrence\>… |
 | Some have said | Either say who/when with context or move on. |
-| Upper management is making us… | State what we’re doing together in the spirit of *disagree and commit* so that we can act like an aligned team. Don't ambiguously blame others; challenge the status quo directly with data. |
+| Upper management is making us… | Own it as "we decided," not "they made us." If you disagree, challenge with data, not blame. |
 
 <details>
 <summary><strong>Click for a visual →</strong></summary>
@@ -79,11 +92,13 @@ Source: https://www.factoftheday1.com/p/may-5-use-active-voice
 
 ## Putting It All Together
 
-Developing a habit of increasingly precise communication requires conscious effort, but the payoff is substantial. It helps facilitate a culture of ownership, transparency, and data-driven decision-making.
+If you can't state it precisely, you probably don't understand it well enough yet. That's not a failure—it's a signal to go find the data, do the analysis, or ask the hard question you've been avoiding.
 
-The core principle is simple: **say what you mean, and mean what you say**. By eliminating these anti-patterns, teams can ensure their conversations are productive, their documents are clear, and their projects are built on a solid foundation of shared understanding.
+The habit is simple: when you catch yourself reaching for a weasel word, stop and ask *"what do I actually mean?"* The answer is usually more interesting than the shortcut.
 
 ## Additional Reading
+
+These shaped how I think about this stuff:
 
 ### Communication Excellence
 - **[Made to Stick by Chip Heath and Dan Heath](https://heathbrothers.com/books/made-to-stick/)** - Why some ideas survive and others die, with practical frameworks for clear communication
