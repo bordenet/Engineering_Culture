@@ -101,13 +101,13 @@ The habit is simple: when you catch yourself reaching for a weasel word, stop an
 These shaped how I think about this stuff:
 
 ### Communication Excellence
-- **[Made to Stick by Chip Heath and Dan Heath](https://heathbrothers.com/books/made-to-stick/)** - Why some ideas survive and others die, with practical frameworks for clear communication
-- **[The Pyramid Principle by Barbara Minto](https://www.barbaraminto.com/)** - Classic framework for logical thinking and clear writing in business contexts
-- **[On Writing Well by William Zinsser](https://www.harpercollins.com/products/on-writing-well-william-zinsser)** - Timeless principles of clear, effective writing
+- **[Made to Stick by Chip Heath and Dan Heath](https://www.goodreads.com/book/show/69242.Made_to_Stick)** - Why some ideas survive and others die, with practical frameworks for clear communication
+- **[The Pyramid Principle by Barbara Minto](https://www.goodreads.com/book/show/33206.The_Minto_Pyramid_Principle?ref=nav_sb_ss_1_19)** - Classic framework for logical thinking and clear writing in business contexts
+- **[On Writing Well by William Zinsser](https://www.goodreads.com/book/show/53343.On_Writing_Well)** - Timeless principles of clear, effective writing
 
 ### Engineering Communication
-- **[The Clean Coder by Robert Martin](https://www.oreilly.com/library/view/the-clean-coder/9780137081073/)** - Professional communication standards for software developers
-- **[Crucial Conversations by Kerry Patterson](https://cruciallearning.com/crucial-conversations-book/)** - Tools for talking when stakes are high in engineering environments
+- **[The Clean Coder by Robert Martin](https://www.goodreads.com/book/show/10284614-the-clean-coder)** - Professional communication standards for software developers
+- **[Crucial Conversations by Kerry Patterson](https://www.goodreads.com/book/show/15014.Crucial_Conversations)** - Tools for talking when stakes are high in engineering environments
 
 ---
 
