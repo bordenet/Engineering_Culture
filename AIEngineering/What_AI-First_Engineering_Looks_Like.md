@@ -72,3 +72,7 @@ AI-First doesn't mean AI-always. Know when to reach for something else:
 ---
 
 **Next:** [Building an AI-First Engineering Culture](./Building_an_AI-First_Engineering_Culture.md)
+
+***
+
+*Licensed under [CC0 1.0](https://creativecommons.org/publicdomain/zero/1.0/). Reuse freely with attribution.*

@@ -2,7 +2,7 @@
 
 *How clear writing becomes your most scalable skill and differentiates great engineers from good ones*
 
-The engineers who advance fastest aren't always the most technically brilliant - they're the ones who communicate complex ideas clearly. Writing skill becomes increasingly important as technical leadership responsibility grows.
+Clear writing is leverage. One design document can align fifty engineers. One proposal can unlock a quarter's worth of resources. Writing skill becomes increasingly important as technical leadership responsibility grows.
 
 Professional writing isn't just nice-to-have for engineers - it's a force multiplier. Whether you're documenting architecture decisions, proposing new initiatives, or giving feedback to colleagues, your ability to communicate clearly in writing directly impacts your career trajectory and your team's success.
 
@@ -270,7 +270,7 @@ Great engineering writing often comes from companies with strong writing culture
 - **Google's SRE book**: Study their systematic approach to documenting practices
 
 ### The Compound Effect
-Writing skill compounds like interest. Each document you write teaches you something new. Each revision makes you more precise. Each piece of feedback improves your next effort.
+Each document you write teaches you something new. Each revision makes you more precise. Each piece of feedback improves your next effort.
 
 The engineers who invest in writing skills early in their careers find doors opening that remain closed to even brilliant engineers who can't communicate effectively.
 
@@ -352,3 +352,7 @@ Your future self - and your colleagues - will thank you for the investment.
 ---
 
 *Have your own templates or hard-won lessons? I'd love to hear them. Drop a comment or [open an issue](https://github.com/bordenet/Engineering_Culture/issues/new) to share.*
+
+***
+
+*Licensed under [CC0 1.0](https://creativecommons.org/publicdomain/zero/1.0/). Reuse freely with attribution.*

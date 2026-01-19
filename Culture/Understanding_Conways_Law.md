@@ -62,7 +62,7 @@ Service boundaries naturally form along team communication boundaries. High-trus
 How teams handle failures between their systems directly reflects how they handle communication failures between themselves.
 
 **Documentation Quality**
-Teams that communicate effectively in person often produce poor documentation. Teams forced to communicate asynchronously create comprehensive, clear documentation by necessity. _I really hope LLM coding agents will help solve this, where all AI-enabled teams, regardless of circumstance, generate crisp docs._ See [Building an AI-First Engineering Culture](../AIEngineering/Building_an_AI-First_Engineering_Culture.md) for how this is starting to play out in practice.
+Teams that communicate effectively in person often produce poor documentation. Teams forced to communicate asynchronously create comprehensive, clear documentation by necessity. _LLM coding agents are starting to change this. AI-enabled teams can generate crisp docs regardless of circumstance._ See [Building an AI-First Engineering Culture](../AIEngineering/Building_an_AI-First_Engineering_Culture.md) for how this is starting to play out in practice.
 
 ### The Feedback Loop
 
@@ -429,3 +429,7 @@ Conway's Law isn't a constraint to fight - it's a principle to leverage. By desi
 ---
 
 *Have your own templates or hard-won lessons? I'd love to hear them. Drop a comment or [open an issue](https://github.com/bordenet/Engineering_Culture/issues/new) to share.*
+
+***
+
+*Licensed under [CC0 1.0](https://creativecommons.org/publicdomain/zero/1.0/). Reuse freely with attribution.*

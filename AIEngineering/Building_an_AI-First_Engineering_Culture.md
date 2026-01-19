@@ -74,7 +74,7 @@ Five years ago, a leader who spent heavily on developer tools was often covering
 
 ## The Compounding Effect
 
-The thing nobody tells you about AI-First transformation: it compounds.
+AI-First transformation compounds.
 
 Each iteration makes the team smarter. The prompt library gets better. The shared knowledge grows. New hires onboard faster because there's infrastructure to support them. The gap between your team and teams that haven't made this shift widens every quarter.
 
@@ -105,3 +105,7 @@ I'm now applying these principles at my [current company](https://CallBox.com). 
 ---
 
 **Previous:** [What AI-First Engineering Looks Like](./What_AI-First_Engineering_Looks_Like.md)
+
+***
+
+*Licensed under [CC0 1.0](https://creativecommons.org/publicdomain/zero/1.0/). Reuse freely with attribution.*

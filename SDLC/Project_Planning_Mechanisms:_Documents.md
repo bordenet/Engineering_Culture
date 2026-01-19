@@ -3,7 +3,7 @@
 > [!NOTE]
 > Read more about [mechanisms](./Mechanisms:_Building_Self-Correcting_Systems.md)
 
-In the age of AI, anyone can generate a PRD or technical spec in seconds. But understanding *which* document to create, *when* to use it, and *why* it matters - that's where experience counts. For a broader look at how AI is changing engineering workflows, see the [AI Engineering series](../AIEngineering/README.md).
+Anyone can generate a PRD now. Knowing which document to create, when, and why—that's the harder problem. For a broader look at how AI is changing engineering workflows, see the [AI Engineering series](../AIEngineering/README.md).
 
 The right planning document at the right time can be the difference between project success and expensive failure. The key is matching document type to project complexity and organizational context.
 
@@ -232,4 +232,8 @@ These authoritative sources provide essential frameworks for effective project p
 
 ---
 
-*Have your own templates or hard-won lessons? I'd love to hear them. Drop a comment or [open an issue](https://github.com/bordenet/Engineering_Culture/issues/new) to share.* 
+*Have your own templates or hard-won lessons? I'd love to hear them. Drop a comment or [open an issue](https://github.com/bordenet/Engineering_Culture/issues/new) to share.*
+
+***
+
+*Licensed under [CC0 1.0](https://creativecommons.org/publicdomain/zero/1.0/). Reuse freely with attribution.*

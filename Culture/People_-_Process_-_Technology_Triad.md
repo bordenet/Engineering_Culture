@@ -4,7 +4,7 @@
 
 Successful engineering transformations require balanced attention to three interconnected elements: People, Process, and Technology. Organizations that optimize only one or two dimensions create systemic dysfunction.
 
-This isn't just another management framework - it's a fundamental principle for building sustainable engineering organizations that can adapt, scale, and thrive in changing markets.
+The triad gives you three lenses: people (who create value), process (how work flows), and technology (what amplifies their efforts and what you ultimately ship.)
 
 ## Why This Framework Exists
 
@@ -24,7 +24,7 @@ Get the order wrong, and you'll build beautiful architectures with miserable tea
 
 ## 1. The Foundation: People First
 
-**People are not resources - they're the source of all value creation in your organization.**
+**People create value. Everything else amplifies or constrains what they can do.**
 
 Everything else you build serves to amplify human capability, not replace it. The most sophisticated systems fail without engaged, capable people. The most elegant processes become bureaucratic overhead without people who understand their purpose.
 
@@ -242,3 +242,7 @@ The magic happens when all three work together: great people designing effective
 ---
 
 *Have your own templates or hard-won lessons? I'd love to hear them. Drop a comment or [open an issue](https://github.com/bordenet/Engineering_Culture/issues/new) to share.*
+
+***
+
+*Licensed under [CC0 1.0](https://creativecommons.org/publicdomain/zero/1.0/). Reuse freely with attribution.*

@@ -6,7 +6,7 @@
 > * Generate PR-FAQs with [pr-faq-assistant](https://bordenet.github.io/pr-faq-assistant/) ([repo](https://github.com/bordenet/pr-faq-assistant))
 > * Validate your PR-FAQ with the [pr-faq-validator](https://github.com/bordenet/pr-faq-validator) tool
 
-Amazon's PR-FAQ (Press Release / Frequently Asked Questions) mechanism forces teams to define success from the customer's perspective before writing a single line of code. By articulating customer value in plain, journalistic English, it exposes weak thinking before you've invested months in development.
+Amazon's PR-FAQ (Press Release / Frequently Asked Questions) mechanism forces teams to define success from the customer's perspective—before anyone builds anything. By articulating customer value in plain, journalistic English, it exposes weak thinking before you've invested months in development.
 
 **But here's the thing: most projects don't need a PR-FAQ.** This guide covers when to use this tool and how to write a high-value one.
 
@@ -510,3 +510,7 @@ The hardest part isn't writing—it's killing projects when the PR-FAQ reveals t
 ---
 
 *Have feedback? [Open an issue](https://github.com/bordenet/Engineering_Culture/issues/new).*
+
+***
+
+*Licensed under [CC0 1.0](https://creativecommons.org/publicdomain/zero/1.0/). Reuse freely with attribution.*

@@ -4,7 +4,7 @@
 
 Engineering projects often fail not because of technical incompetence, but because teams jump straight to implementation without understanding the problem they're solving.
 
-The "What vs. How" distinction isn't just product management theory - it's a fundamental engineering leadership skill that determines whether your team builds the right thing, builds it efficiently, and can adapt when circumstances change.
+This distinction determines whether your team builds the right thing, builds it efficiently, and adapts when circumstances change.
 
 The most successful engineering leaders master this distinction early and use it to guide their teams toward better outcomes. Understanding when to focus on "what" versus "how" prevents wasted effort and misaligned solutions.
 
@@ -304,3 +304,7 @@ The engineering world is full of elegant solutions looking for problems. Don't b
 ---
 
 *Have your own templates or hard-won lessons? I'd love to hear them. Drop a comment or [open an issue](https://github.com/bordenet/Engineering_Culture/issues/new) to share.*
+
+***
+
+*Licensed under [CC0 1.0](https://creativecommons.org/publicdomain/zero/1.0/). Reuse freely with attribution.*

@@ -1,10 +1,10 @@
 # 🔄 Mechanisms: Building Self-Correcting Systems
 
-The difference between high-performing and struggling teams often comes down to one thing: mechanisms. These are systematic processes that prevent problems from recurring rather than relying on individual heroics.
+High-performing teams have mechanisms. Struggling teams have good intentions. Mechanisms are systematic processes that prevent problems from recurring rather than relying on individual heroics.
 
 This framework transforms chaotic engineering processes into predictable, improving systems. Whether you're debugging production issues or shipping new features, these principles apply.
 
-Framework successfully leveraged at Amazon and refined through adaptation and application across multiple organizations thereafter.
+This is Amazon's internal framework for building self-correcting systems. It scales from startups to Fortune 100s—I've applied it successfully at three startups since leaving Amazon.
 
 Mechanisms represent the "Process" component of the [People-Process-Technology triad](../Culture/People_-_Process_-_Technology_Triad.md) - they're how you systematically enable people to do their best work.
 
@@ -267,3 +267,7 @@ Start with one problem. Build one mechanism. Measure the results. The hardest pa
 ---
 
 *Have your own templates or hard-won lessons? I'd love to hear them. Drop a comment or [open an issue](https://github.com/bordenet/Engineering_Culture/issues/new) to share.*
+
+***
+
+*Licensed under [CC0 1.0](https://creativecommons.org/publicdomain/zero/1.0/). Reuse freely with attribution.*

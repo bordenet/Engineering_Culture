@@ -4,7 +4,7 @@
 
 ---
 
-This series captures hard-won lessons from leading a team through one of the most disruptive technological shifts in recent memory. At Telepathy.ai in 2024, the LLM revolution rendered our 6+ year proprietary conversational AI backend obsolete in a matter of months. Where there had been 70 engineers, 12 remained. We couldn't compete by doing things the old way with fewer people. We had to change how we work.
+This series captures hard-won lessons from leading a team through the LLM revolution which upended and sunk my then-employer, Telepathy.ai, in 2024. The LLM revolution rendered our 6+ year proprietary conversational AI backend obsolete in a matter of months. Where there had been 70 engineers, 12 remained. We couldn't compete by doing things the old way with fewer people. We had to change how we work.
 
 These posts aren't theoretical frameworks or consultant playbooks. They're field notes from a transformation that happened under existential pressure, and principles I'm now applying at my current company.
 
@@ -51,4 +51,8 @@ How to build AI-First culture in your organization, from assessment through scal
 ---
 
 *Have questions or want to share your own AI transformation story? [Open an issue](https://github.com/bordenet/Engineering_Culture/issues/new) to start the conversation.*
+
+***
+
+*Licensed under [CC0 1.0](https://creativecommons.org/publicdomain/zero/1.0/). Reuse freely with attribution.*
 
