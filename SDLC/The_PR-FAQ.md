@@ -36,7 +36,7 @@ A PR-FAQ is a fictitious press release for a product that doesn't exist yet, fol
 > The PR-FAQ process is overkill for small-scale projects. Use sparingly.
 
 > [!WARNING]
-> The PR-FAQ is not a replacement for a [Product Requirements Document](./Project_Planning_Mechanisms%3A_Documents.md#prd-the-what-and-why). It validates *what* to build; the PRD specifies *how* to build it.
+> The PR-FAQ is not a replacement for a [Product Requirements Document](./Project_Planning_Mechanisms%3A_Documents.md#prd-the-what-and-why). The PR-FAQ validates *why* to build (with a touch of *what*: metrics, key dates). The PRD specifies *what* to build and *why* in detail.
 
 ## When to Use (and Not Use) PR-FAQs
 
