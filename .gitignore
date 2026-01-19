@@ -8,6 +8,7 @@ git_reset.log
 # Analysis and assessment documents
 ASSESSMENT_*.md
 ANALYSIS_*.md
+REPO_COMPARISON_ANALYSIS.md
 ACTION_PLAN_*.md
 PHASE_*.md
 QUICK_START.md
