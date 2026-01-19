@@ -6,7 +6,7 @@
 
 Conway's Law isn't just an interesting observation. It's a fundamental force that shapes every software system ever built. Most engineering leaders discover this principle too late, when they're debugging communication problems in their architecture and realize they're actually debugging communication problems in their organization.
 
-This post explores how to use Conway's Law proactively to design both systems and teams that support your business goals rather than undermine them. Much of this dates back to pre-LLM coding assistant days. There's a massive opportunity for LLMs to change how we work together, provided engineers are aware of the historic patterns and pain points.
+This post explores how to use Conway's Law proactively to design both systems and teams that support your business goals rather than undermine them. Much of this dates back to pre-LLM coding assistant days. There's a massive opportunity for LLMs to change how we work together, provided engineers are aware of the historic patterns and pain points. For a practical look at how AI is reshaping engineering team dynamics, see [What AI-First Engineering Looks Like](../AIEngineering/What_AI-First_Engineering_Looks_Like.md).
 
 ## Table of Contents
 
@@ -62,7 +62,7 @@ Service boundaries naturally form along team communication boundaries. High-trus
 How teams handle failures between their systems directly reflects how they handle communication failures between themselves.
 
 **Documentation Quality**
-Teams that communicate effectively in person often produce poor documentation. Teams forced to communicate asynchronously create comprehensive, clear documentation by necessity. _I really hope LLM coding agents will help solve this, where all AI-enabled teams, regardless of circumstance, generate crisp docs._
+Teams that communicate effectively in person often produce poor documentation. Teams forced to communicate asynchronously create comprehensive, clear documentation by necessity. _I really hope LLM coding agents will help solve this, where all AI-enabled teams, regardless of circumstance, generate crisp docs._ See [Building an AI-First Engineering Culture](../AIEngineering/Building_an_AI-First_Engineering_Culture.md) for how this is starting to play out in practice.
 
 ### The Feedback Loop
 

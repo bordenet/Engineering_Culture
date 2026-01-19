@@ -1,6 +1,6 @@
 # Clear Communication: A Guide to Avoiding Weasel Words and Clichés
 
-*Vague language isn't just a writing problem—it's a symptom of missing rigor.*
+*Vague language isn't just a writing problem, it's a symptom of missing rigor.*
 
 <div style="display: flex; align-items: flex-start; gap: 20px;">
 

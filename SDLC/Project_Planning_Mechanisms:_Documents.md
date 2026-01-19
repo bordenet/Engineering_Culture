@@ -3,7 +3,7 @@
 > [!NOTE]
 > Read more about [mechanisms](./Mechanisms:_Building_Self-Correcting_Systems.md)
 
-In the age of AI, anyone can generate a PRD or technical spec in seconds. But understanding *which* document to create, *when* to use it, and *why* it matters - that's where experience counts.
+In the age of AI, anyone can generate a PRD or technical spec in seconds. But understanding *which* document to create, *when* to use it, and *why* it matters - that's where experience counts. For a broader look at how AI is changing engineering workflows, see the [AI Engineering series](../AIEngineering/README.md).
 
 The right planning document at the right time can be the difference between project success and expensive failure. The key is matching document type to project complexity and organizational context.
 
