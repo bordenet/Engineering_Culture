@@ -262,6 +262,7 @@ Start with one problem. Build one mechanism. Measure the results. The hardest pa
 **Related Topics:**
 - [People-Process-Technology Triad](../Culture/People_-_Process_-_Technology_Triad.md) - *Organizational framework for mechanisms*
 - [The Myth of Hypercare](../Culture/The_Myth_of_Hypercare.md) - *Building sustainable operations*
+- [Building an AI-First Engineering Culture](../AIEngineering/Building_an_AI-First_Engineering_Culture.md) - *Mechanisms for AI adoption at scale*
 
 ---
 

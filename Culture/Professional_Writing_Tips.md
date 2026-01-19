@@ -347,6 +347,7 @@ Your future self - and your colleagues - will thank you for the investment.
 **Related Topics:**
 - [Project Planning Documents](../SDLC/Project_Planning_Mechanisms:_Documents.md) - *Applying writing skills to technical docs*
 - [Understanding What vs How](../SDLC/Understanding_What_vs_How.md) - *Clear thinking for clear writing*
+- [Building an AI-First Engineering Culture](../AIEngineering/Building_an_AI-First_Engineering_Culture.md) - *AI-assisted documentation in practice*
 
 ---
 

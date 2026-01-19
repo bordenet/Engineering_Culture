@@ -236,6 +236,8 @@ The magic happens when all three work together: great people designing effective
 **Related Topics:**
 - [Mechanisms: Building Self-Correcting Systems](../SDLC/Mechanisms:_Building_Self-Correcting_Systems.md) - *Framework for organizational improvement*
 - [Understanding What vs How](../SDLC/Understanding_What_vs_How.md) - *Separating outcomes from implementation*
+- [What AI-First Engineering Looks Like](../AIEngineering/What_AI-First_Engineering_Looks_Like.md) - *AI as technology amplifier in practice*
+- [Building an AI-First Engineering Culture](../AIEngineering/Building_an_AI-First_Engineering_Culture.md) - *Scaling AI adoption through mechanisms*
 
 ---
 

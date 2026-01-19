@@ -1,5 +1,5 @@
 # Engineering Culture Blog Posts
-*Engineering leadership insights covering culture, SDLC, and technical fundamentals*
+*Engineering leadership insights covering culture, SDLC, technical fundamentals, and AI-First practices*
 
 ---
 
@@ -7,10 +7,14 @@
 
 I've spent 25 years watching the same problems kill projects. Not for lack of effort or talent—these are structural traps that catch smart teams. Vague requirements, unclear ownership, teams organized around the wrong boundaries. Different companies, different tech stacks—Microsoft, Amazon, live broadcast, fintech, AI—same patterns. This is what I've learned to look for.
 
-AI is changing how we write code, review pull requests, and generate documentation, but it has not changed [Conway's Law](Culture/Understanding_Conways_Law.md), the cost of unclear ownership, or the way technical debt compounds over time. If anything, AI magnifies existing organizational patterns. A team with crisp, well-understood requirements ships faster with AI in the loop; a team with fuzzy requirements just produces fuzzy code more quickly.
+AI is changing how we write code, review pull requests, and generate documentation, but it has not changed [Conway's Law](Culture/Understanding_Conways_Law.md), the cost of unclear ownership, or the way technical debt compounds over time. If anything, AI magnifies existing organizational patterns. A team with crisp, well-understood requirements ships faster with AI in the loop; a team with fuzzy requirements just produces fuzzy code more quickly. The [AI Engineering](AIEngineering/README.md) section explores what it actually takes to build teams that leverage AI effectively—culture change, not just tool adoption.
 
 **Acknowledgments**: I've been lucky to learn from great mentors at Amazon and iStreamPlanet, and from teammates across all four companies who challenged my thinking and made me better.
 
+
+## AI Engineering
+* [What AI-First Engineering Looks Like](AIEngineering/What_AI-First_Engineering_Looks_Like.md) - *The mindset shift that defines high-performing AI-native teams—and the anti-patterns that kill adoption*
+* [Building an AI-First Engineering Culture](AIEngineering/Building_an_AI-First_Engineering_Culture.md) - *A practitioner's guide from assessment through scaling, with real examples and hard-won lessons*
 
 ## Culture
 * [The People-Process-Technology Triad: Getting the Order Right](Culture/People_-_Process_-_Technology_Triad.md) - *Why successful engineering organizations prioritize people first, process second, and technology third*

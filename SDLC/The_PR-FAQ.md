@@ -505,6 +505,7 @@ The hardest part isn't writing—it's killing projects when the PR-FAQ reveals t
 - [Mechanisms: Building Self-Correcting Systems](./Mechanisms:_Building_Self-Correcting_Systems.md) — *Amazon's systematic approach*
 - [Professional Writing Tips](../Culture/Professional_Writing_Tips.md) — *Writing techniques*
 - [Weasel Words](../Culture/Weasel_Words.md) — *Words that obscure meaning*
+- [Building an AI-First Engineering Culture](../AIEngineering/Building_an_AI-First_Engineering_Culture.md) — *See pr-faq-assistant and pr-faq-validator tools*
 
 ---
 

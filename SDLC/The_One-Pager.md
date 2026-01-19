@@ -160,6 +160,7 @@ By embracing the discipline of the One-Pager, you can foster a culture of clear 
 **Related Topics:**
 - [Professional Writing Tips](../Culture/Professional_Writing_Tips.md) - *Writing techniques for maximum impact*
 - [Weasel Words](../Culture/Weasel_Words.md) - *Clear, actionable language*
+- [Building an AI-First Engineering Culture](../AIEngineering/Building_an_AI-First_Engineering_Culture.md) - *See genesis one-pager tool in action*
 
 ---
 
