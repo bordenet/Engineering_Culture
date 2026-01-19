@@ -7,16 +7,9 @@
 
 I've spent 25 years watching the same problems kill projects. Not for lack of effort or talent—these are structural traps that catch smart teams. Vague requirements, unclear ownership, teams organized around the wrong boundaries. Different companies, different tech stacks—Microsoft, Amazon, live broadcast, fintech, AI—same patterns. This is what I've learned to look for.
 
-Most of these observations predate LLM-powered development tools. While AI assistants are rapidly changing how we code, debug, and collaborate, the fundamental challenges of engineering culture remain remarkably consistent:
+AI is changing how we write code, review pull requests, and generate documentation, but it has not changed [Conway's Law](Culture/Understanding_Conways_Law.md), the cost of unclear ownership, or the way technical debt compounds over time. If anything, AI magnifies existing organizational patterns. A team with crisp, well-understood requirements ships faster with AI in the loop; a team with fuzzy requirements just produces fuzzy code more quickly.
 
-- **People still need to communicate effectively** across teams and with stakeholders
-- **Organizational design still shapes system architecture** (Conway's Law doesn't care about your AI tools)
-- **Operational ownership and accountability** remain critical for sustainable systems
-- **Technical debt and architectural decisions** still compound over time, regardless of who writes the initial code
-
-**The AI Evolution**: As these tools become ubiquitous, some practices will evolve significantly - documentation quality may improve, code reviews might focus more on architecture than syntax, and pair programming could include AI partners. However, the core principles of building sustainable engineering cultures will likely become *more* important, not less, as AI amplifies both good and bad organizational patterns.
-
-**Acknowledgments**: These insights were developed through collaboration with world-class teams and industry titans at Amazon, world-class mentors and fellow leaders at iStreamPlanet, and ample trial-and-error with willing collaborators.
+**Acknowledgments**: I've been lucky to learn from great mentors at Amazon and iStreamPlanet, and from teammates across all four companies who challenged my thinking and made me better.
 
 
 ## Culture
