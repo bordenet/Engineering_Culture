@@ -4,33 +4,33 @@
 
 ---
 
-This series captures hard-won lessons from leading a team through one of the most disruptive technological shifts in recent memory. At Telepathy.ai in 2024, the LLM revolution rendered our proprietary AI stack obsolete in months. Where there had been 70 engineers, 12 remained. We couldn't compete by doing things the old way with fewer people—we had to change how we work.
+This series captures hard-won lessons from leading a team through one of the most disruptive technological shifts in recent memory. At Telepathy.ai in 2024, the LLM revolution rendered our 6+ year proprietary conversational AI backend obsolete in a matter of months. Where there had been 70 engineers, 12 remained. We couldn't compete by doing things the old way with fewer people. We had to change how we work.
 
-These posts aren't theoretical frameworks or consultant playbooks. They're field notes from a transformation that happened under existential pressure—and principles I'm now applying at my current company.
+These posts aren't theoretical frameworks or consultant playbooks. They're field notes from a transformation that happened under existential pressure, and principles I'm now applying at my current company.
 
 ## The Series
 
 ### [What AI-First Engineering Looks Like](./What_AI-First_Engineering_Looks_Like.md)
 *The mindset shift that defines high-performing AI-native teams*
 
-What AI-First actually means—and more importantly, what it's not. Covers the anti-patterns that kill AI adoption (Lone Wolf, Tool Sprawl, AI as Crutch, The Big Bang) and when NOT to use AI. Starts with the Telepathy.ai story and ends with a clear definition: AI is how we work now. Not a novelty. Not a shortcut. The default.
+What AI-First means and what it's not. Covers the anti-patterns that kill AI adoption (Lone Wolf, Tool Sprawl, AI as Crutch, The Big Bang) and when NOT to use AI. Starts with the Telepathy.ai story and ends with a clear definition: AI is how we work now. Not a novelty. Not a shortcut. The default.
 
 ### [Building an AI-First Engineering Culture](./Building_an_AI-First_Engineering_Culture.md)
 *A practitioner's guide to cultural transformation*
 
-How to actually build AI-First culture in your organization—from assessment through scaling. Covers the first four weeks of adoption, when YOLO/vibe coding is acceptable, mechanisms for scaling beyond individual experiments, and the math that's changed about tools vs. headcount. Includes real examples from my own tooling: [genesis](https://github.com/bordenet/genesis), [one-pager](https://bordenet.github.io/one-pager/), and more.
+How to build AI-First culture in your organization, from assessment through scaling. Covers the first four weeks of adoption, when YOLO vibe coding is acceptable, mechanisms for scaling beyond individual experiments, and the math that's changed about tools vs. headcount. Includes real examples from my own tooling: [genesis](https://github.com/bordenet/genesis), [one-pager](https://bordenet.github.io/one-pager/), and more.
 
 ---
 
 ## Key Themes
 
-**Culture over tools.** The technology matters less than the mindset. Teams that default to "collaborate with AI" outperform teams with better tools but no cultural shift.
+**Culture over tools.** Mindset beats technology, especially when the technology changes every few months. Teams that default to "collaborate with AI" outperform teams with better tools but no cultural shift.
 
 **Mechanisms over mandates.** Individual experiments are nice. [Mechanisms](../SDLC/Mechanisms:_Building_Self-Correcting_Systems.md) are how you scale. Coach pioneers to teach, build shared toolkits, measure outcomes not activities.
 
-**The math has changed.** A senior engineer's fully-loaded cost is $325K/year. Your monthly AI bill—even aggressive usage—rarely exceeds a single headcount. Build smaller, stronger teams with AI firepower.
+**The math has changed.** A senior engineer's fully-loaded cost is $325K/year. Your monthly AI bill (even with aggressive usage) rarely exceeds a single headcount. Build smaller, stronger teams with AI firepower.
 
-**Start small, compound fast.** Each iteration makes the team smarter. The prompt library gets better. New hires onboard faster. The gap between AI-First teams and traditional teams widens every quarter.
+**It compounds.** Each iteration makes the team smarter. The prompt library gets better. New hires onboard faster. The gap between AI-First teams and traditional teams widens every quarter.
 
 ---
 

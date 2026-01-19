@@ -1,12 +1,12 @@
 # What AI-First Engineering Looks Like
 
-In 2024, Telepathy.ai's proprietary AI backend was rendered obsolete in months. The LLM revolution didn't knock politely—it kicked the door in with steel-toed boots. We parted ways with data scientists, AI researchers, and speech specialists who had spent six years building the platform. Where there had been 70 engineers, 12 remained.
+In 2024, Telepathy.ai's proprietary AI backend was rendered obsolete in months. The LLM revolution didn't knock politely. It kicked the door in with steel-toed boots. We parted ways with data scientists, AI researchers, and speech specialists who had spent six years building the platform. Where there had been 70 engineers, 12 remained.
 
 We couldn't compete by doing things the old way with fewer people. We had to change how we work. Engineers who'd been quietly pioneering AI usage suddenly had a willing audience. Within six months, those 12 were shipping faster than the original 70 ever had.
 
 Spoiler: we all lost our jobs anyway. The company responded too late. But the learnings stuck.
 
-AI-First isn't about tools. It's about defaulting to "collaborate with AI" instead of "Google it" and building that reflex into how teams think, plan, and ship. The tools matter less than the mindset: *AI is how we work now. Not a novelty. Not a shortcut. The default.* Tools like [Superpowers](https://github.com/obra/superpowers)—which teaches coding agents disciplined workflows rather than ad-hoc prompting—embody this shift.
+AI-First isn't about tools. It's about defaulting to "collaborate with AI" instead of "Google it" and building that reflex into how teams think, plan, and ship. The tools matter less than the mindset: *AI is how we work now. Not a novelty. Not a shortcut. The default.* Tools like [Superpowers](https://github.com/obra/superpowers), which teaches coding agents disciplined workflows rather than ad-hoc prompting, embody this shift.
 
 ## What AI-First Is NOT
 
@@ -14,7 +14,7 @@ AI-First has failure modes. I've seen all of these:
 
 ### The Lone Wolf
 
-One engineer races ahead with cutting-edge tools—custom prompts, experimental models, workflows nobody else understands. They're productive, but their knowledge doesn't transfer. When they're out sick, nobody can maintain their code.
+One engineer races ahead with cutting-edge tools: custom prompts, experimental models, workflows nobody else understands. They're productive, but their knowledge doesn't transfer. When they're out sick, nobody can maintain their code, keep up with them to provide support, etc.
 
 **When this is fine:** Early exploration phase. Someone needs to scout the territory.
 
@@ -24,11 +24,11 @@ One engineer races ahead with cutting-edge tools—custom prompts, experimental 
 
 ### Tool Sprawl
 
-In our early days, engineers were experimenting with 10+ different AI tools simultaneously. Everyone had their favorite. Nobody could help anyone else because nobody used the same thing. Confusion about which tool for which task. Licenses piling up.
+In our early days, engineers were experimenting with multiple unrelated AI tools simultaneously. VS Code, Cursor, GitHub Copilot, ChatGPT, Claude Code, Augment, SourceGraph Cody, and more. Everyone had their favorite. Nobody could help anyone else because nobody used the same thing. Confusion about which tool for which task. Token consumption costs were piling up, but the far worse problem was that sharing and economy of scale weren't possible.
 
-We consolidated to three primary tools after two months: one for code completion, one for conversation, one for search. Standardization enabled collaboration.
+We're now consolidating to a shared set of tools. Standardization enables collaboration. Some pragmatic compromises are necessary, but the goal isn't rigid uniformity.
 
-**The fix:** Let a thousand flowers bloom—briefly. Then prune to a shared toolkit.
+**The fix:** Let a thousand flowers bloom, briefly. Then prune to a shared toolkit.
 
 ### AI as Crutch
 
@@ -50,7 +50,7 @@ AI-First doesn't mean AI-always. Know when to reach for something else:
 
 **When you're learning fundamentals.** If you're a junior engineer learning how promises work, don't let AI write all your async code. You need to build intuition. AI accelerates experts; it can atrophy beginners.
 
-**When human judgment is central.** Ethical decisions, personnel matters, customer trust situations—these require human accountability. AI can provide information, but humans must own the decision.
+**When human judgment is central.** Ethical decisions, personnel matters, customer trust situations. These require human accountability. AI can provide information, but humans must own the decision.
 
 ---
 
