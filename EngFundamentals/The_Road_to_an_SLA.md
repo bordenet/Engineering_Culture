@@ -36,7 +36,7 @@ If you can't answer with confidence backed by data, you're not ready for enterpr
 
 ## The SLA Hierarchy: SLI → SLO → SLA
 
-Understanding the relationship between these concepts is crucial for building sustainable commitments:
+Understanding the relationship between these concepts matters for building sustainable commitments:
 
 | **Term** | **Definition** | **Audience** | **Purpose** |
 |:---------|:---------------|:-------------|:------------|
@@ -244,13 +244,13 @@ The buffer isn't just safety margin. It's operational capacity:
 
 ## From Guesswork to Confidence
 
-The journey from "the system seems reliable" to "we guarantee 99.9% availability" requires systematic measurement, operational discipline, and customer focus.
+Moving from "the system seems reliable" to "we guarantee 99.9% availability" requires systematic measurement, operational discipline, and customer focus.
 
 SLAs aren't just technical artifacts. They're business enablers that signal operational maturity and customer commitment. Building them properly requires collaboration between engineering, product, and business teams to balance what's technically achievable with what's commercially competitive.
 
 Start with measurement, build operational confidence through SLOs, then make commitments through SLAs that you can consistently meet. The goal isn't perfect availability. It's predictable, measurable reliability that enables business growth.
 
-**Related Reading**: Understanding the [People-Process-Technology](../Culture/People_-_Process_-_Technology_Triad.md) framework helps ensure your organization can support the operational discipline SLAs require. Building effective [mechanisms for continuous improvement](../SDLC/Mechanisms:_Building_Self-Correcting_Systems.md) enables the systematic approach SLA management demands.
+**Related Reading**: Understanding the [People-Process-Technology](../Culture/People_-_Process_-_Technology_Triad.md) framework helps your organization support the operational discipline SLAs require. Building effective [mechanisms for continuous improvement](../SDLC/Mechanisms:_Building_Self-Correcting_Systems.md) enables the systematic approach SLA management demands.
 
 ---
 

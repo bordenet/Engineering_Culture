@@ -2,7 +2,7 @@
 
 *How the concept of "hypercare" creates a false dichotomy between launch support and long-term ownership*
 
-In the software industry, "hypercare" has become a common term describing the period of heightened support immediately following a major release or deployment. While well-intentioned, this concept fundamentally misrepresents how successful engineering teams should approach production systems.
+In the software industry, "hypercare" has become a common term describing the period of heightened support immediately following a major release or deployment. While well-intentioned, this concept misrepresents how successful engineering teams should approach production systems.
 
 This post examines why "hypercare" thinking is counterproductive and proposes a better framework based on consistent operational ownership rather than temporary heightened vigilance.
 
@@ -52,7 +52,7 @@ Every feature should launch with:
 
 **In these cases**, having engineers and leaders directly participate in a "war room" environment makes complete sense. You're learning how the system behaves under real customer load and building operational knowledge.
 
-**What's completely absurd**: Outsourcing this critical learning to offshore entities who have zero tools to affect corrections when they spot problems. You're essentially paying someone to watch your system fail without the ability to fix it.
+**What's completely absurd**: Outsourcing this critical learning to offshore entities who have zero tools to affect corrections when they spot problems. You're paying someone to watch your system fail without the ability to fix it.
 
 ### The Delegation Fallacy
 
@@ -239,7 +239,7 @@ The goal isn't to eliminate the extra attention that new systems require. It's t
 
 ![Hypercare concept visualization](./img/5a8b1951-d13a-4ba7-8bc0-b0cd5bfe56be.png)
 
-**Related Reading**: Understanding the [People-Process-Technology](People_-_Process_-_Technology_Triad.md) framework helps ensure your organization can support sustainable operational practices. The [SBI feedback model](Constructive_Feedback_SBI_Model.md) provides tools for conducting effective operational retrospectives that improve team performance.
+**Related Reading**: Understanding the [People-Process-Technology](People_-_Process_-_Technology_Triad.md) framework helps your organization support sustainable operational practices. The [SBI feedback model](Constructive_Feedback_SBI_Model.md) provides tools for conducting effective operational retrospectives that improve team performance.
 
 ## Additional Reading
 

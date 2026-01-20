@@ -235,7 +235,7 @@ The "land of confusion" exists because teams adopt the technology without unders
 <details>
 <summary>Just for fun! S3</summary>
 
-Launched in 2006, S3 ("simple storage service") is one of the planet's [first global-scale, public APIs](https://press.aboutamazon.com/2006/3/amazon-web-services-launches). AWS has since added functionality, but reading through the [API spec](https://docs.aws.amazon.com/pdfs/AmazonS3/latest/API/s3-api.pdf#API_Operations_Amazon_Simple_Storage_Service) reveals something important: it's still fundamentally get/set operations kept as simple as possible.
+Launched in 2006, S3 ("simple storage service") is one of the planet's [first global-scale, public APIs](https://press.aboutamazon.com/2006/3/amazon-web-services-launches). AWS has since added functionality, but reading through the [API spec](https://docs.aws.amazon.com/pdfs/AmazonS3/latest/API/s3-api.pdf#API_Operations_Amazon_Simple_Storage_Service) reveals something important: it's still just get/set operations kept as simple as possible.
 
 S3's design philosophy prioritizes simplicity over sophistication, a principle that has enabled global scale for nearly two decades. As one S3 development manager noted: "We could have made it more sophisticated, but simple scales." Consider this when designing your next service. You're probably not building the next S3.
 

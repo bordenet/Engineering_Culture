@@ -193,7 +193,7 @@ Before forming teams, clearly define:
 ### Step 3: Organizational Support
 
 **Leadership Alignment**
-Ensure leadership understands and supports the architecture-team alignment. Mixed messages from leadership will undermine the structure.
+Leadership must understand and support the architecture-team alignment. Mixed messages from leadership will undermine the structure.
 
 **Process Design**
 Design processes that support the team structure. See [People-Process-Technology](People_-_Process_-_Technology_Triad.md) for frameworks that reinforce organizational design.
@@ -395,9 +395,9 @@ Organizations that master Conway's Law gain sustainable competitive advantages:
 
 **Sustainable Growth**: Organizational structures that support desired architectures scale more effectively than accidental structures.
 
-Conway's Law isn't a constraint to fight. It's a principle to leverage. By designing team structures that support your desired architecture, you can build systems that truly serve your business goals rather than merely reflecting your organizational accidents.
+Conway's Law isn't a constraint to fight! It's a principle to leverage. By designing team structures that support your _desired_ architecture, you can build systems that truly serve your business goals.
 
-**Related Reading**: Understanding [SOA and microservices patterns](../EngFundamentals/SOA_and_Microservices.md) helps inform architectural decisions that influence team structure. Building effective [mechanisms for organizational improvement](../SDLC/Mechanisms:_Building_Self-Correcting_Systems.md) ensures your team structures continue to serve their architectural purposes over time.
+**Related Reading**: Understanding [SOA and microservices patterns](../EngFundamentals/SOA_and_Microservices.md) helps inform architectural decisions that influence team structure. Building effective [mechanisms for organizational improvement](../SDLC/Mechanisms:_Building_Self-Correcting_Systems.md) helps keep your team structures serving their architectural purposes over time.
 
 ## Additional Reading
 
