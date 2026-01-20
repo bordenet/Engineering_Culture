@@ -39,7 +39,7 @@ The best reference remains [AWS's SOA overview](https://aws.amazon.com/what-is/s
 - **Predictable, simple behaviors** that minimize system-wide quirks
 - **No tight coupling** across disparate services - this kills scalability
 
-The goal: Distill overall problem complexity into a composition of simpler, focused services. This is challenging, but the alternative - a tangled mess of dependencies - is worse.
+The goal: Distill overall problem complexity into a composition of simpler, focused services. This is challenging, but the alternative, a tangled mess of dependencies, is worse.
 
 <details>
 <summary>The famous Jeff Bezos memo</summary>
