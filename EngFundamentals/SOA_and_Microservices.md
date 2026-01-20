@@ -2,7 +2,7 @@
 
 *Why understanding Service-Oriented Architecture is prerequisite to getting microservices right*
 
-Microservices adoption often skips foundational SOA principles, leading to distributed monoliths that are harder to maintain than the systems they replaced. Understanding SOA deeply - both technically and culturally - provides essential foundation for microservices success.
+Microservices adoption often skips foundational SOA principles, leading to distributed monoliths that are harder to maintain than the systems they replaced. Understanding SOA deeply, both technically and culturally, provides essential foundation for microservices success.
 
 The cost of skipping these foundations is high: teams end up with the complexity of distributed systems without the benefits of service-oriented architecture.
 
