@@ -266,14 +266,14 @@ This builds the muscle memory before you need it for difficult conversations.
 
 ## The Bottom Line
 
-Effective feedback isn't about being nice or being tough - it's about being clear, specific, and helpful. The SBI model provides a framework that:
+Effective feedback isn't about being nice or being tough. It's about being clear, specific, and helpful. The SBI model provides a framework that:
 
 - **Respects people** by focusing on behaviors rather than character
 - **Enables growth** by connecting actions to consequences  
 - **Builds trust** through objective observation rather than subjective judgment
 - **Improves performance** by giving people actionable information they can use
 
-Remember: the goal isn't perfect feedback - it's better feedback. Start using SBI in low-stakes situations, focus on one behavior at a time, and remember that your intent to help someone grow matters as much as your technique.
+Remember: the goal isn't perfect feedback; it's better feedback. Start using SBI in low-stakes situations, focus on one behavior at a time, and remember that your intent to help someone grow matters as much as your technique.
 
 Great teams are built on great feedback. When people feel safe to receive honest observations about their work, they can make the adjustments that turn good performance into exceptional results.
 
