@@ -81,7 +81,7 @@ Make your motivation clear to prevent misinterpretation:
 **For recognition**: "I want to make sure you know the positive impact you're having"
 
 > [!WARNING]
-> **The Genuine Intent Test**: Be genuinely interested in helping the other person grow, or don't give the feedback at all. If you're venting frustration, scoring points, or documenting for HR, SBI becomes a weapon disguised as a framework. Check your motives first. If they're not clean, you might need help before they do.
+> **The Genuine Intent Test**: Be genuinely interested in helping the other person grow, or don't give the feedback at all. If you're venting frustration, scoring points, or documenting for HR, SBI becomes a weapon disguised as a framework. Check your motives first.
 
 ### Choose the Right Moment
 - **Private setting** for corrective feedback
