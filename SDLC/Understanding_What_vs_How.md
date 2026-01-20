@@ -119,7 +119,7 @@ We love learning new technologies. When Kubernetes, GraphQL, or the latest frame
 **Result**: Projects that exist primarily to explore technology rather than solve business problems.
 
 ### The Complexity Bias
-Complex solutions feel more professional and intellectually satisfying than simple ones. This leads to over-engineering - building sophisticated systems to solve problems that could be fixed with configuration changes.
+Complex solutions feel more professional and intellectually satisfying than simple ones. This leads to over-engineering, building sophisticated systems to solve problems that could be fixed with configuration changes.
 
 ### The Certainty Illusion
 "How" feels concrete and actionable. "What" can feel vague and political. Teams gravitate toward discussing implementation details because it feels like progress, even when they're building the wrong thing.
@@ -262,7 +262,7 @@ The most successful engineering organizations have leaders who are equally comfo
 
 ## The Bottom Line
 
-Separating what from how isn't academic - it's the difference between building systems that matter and building impressive solutions to problems that don't exist.
+Separating what from how isn't academic. It's the difference between building systems that matter and building impressive solutions to problems that don't exist.
 
 **Master the "what" first**: Clear problem definitions, measurable outcomes, validated user needs. Without this foundation, even perfect execution leads to beautiful failures.
 

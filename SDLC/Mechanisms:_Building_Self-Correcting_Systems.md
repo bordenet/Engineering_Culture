@@ -180,7 +180,7 @@ What does "fixed" look like?
 - **Adjustment**: How do you incorporate learnings?
 
 ### 4. Start Simple
-Your first version won't be perfect. That's the point - mechanisms improve through iteration.
+Your first version won't be perfect. That's the point: mechanisms improve through iteration.
 
 ## Common Pitfalls and How to Avoid Them
 
@@ -228,7 +228,7 @@ Mechanisms transform:
 
 The beauty of mechanisms is their compounding effect. Each iteration makes the team smarter and the next iteration easier. Problems that initially seemed intractable become solvable when you apply systematic thinking and rigorous measurement.
 
-Start with one problem. Build one mechanism. Measure the results. The hardest part isn't designing the perfect system - it's starting with an imperfect one and improving it every week.
+Start with one problem. Build one mechanism. Measure the results. The hardest part isn't designing the perfect system. It's starting with an imperfect one and improving it every week.
 
 **Documentation tip**: When documenting your mechanisms for others to understand and adopt, use the [professional writing techniques](../Culture/Professional_Writing_Tips.md) that make complex processes clear and actionable.
 

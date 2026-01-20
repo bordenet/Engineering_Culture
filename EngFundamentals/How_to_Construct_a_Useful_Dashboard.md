@@ -16,7 +16,7 @@ Here, the focus is on what actually works when you're building dashboards from s
 
 ## The Five-Phase Dashboard Evolution
 
-Effective dashboards evolve through predictable stages. Don't try to build the perfect dashboard immediately - focus on progression.
+Effective dashboards evolve through predictable stages. Don't try to build the perfect dashboard immediately. Focus on progression.
 
 ### Phase 1: Collect Data
 

@@ -180,7 +180,7 @@ The framework prevents [amygdala hijacking](https://www.healthline.com/health/st
 ### Corrective Feedback Example
 
 **Full SBI Statement:**
-"In this morning's sprint planning meeting, when Sarah was explaining the database performance issue, I noticed you interrupted her twice and started typing on your laptop while she was still talking. When she asked if you had questions, you said 'it's fine' without looking up from your screen. This made Sarah visibly frustrated - she stopped mid-explanation and looked confused about whether to continue. The team couldn't get clarity on the performance requirements, and we had to table the story for next sprint. I'm concerned this pattern might be making it harder for the team to collaborate effectively."
+"In this morning's sprint planning meeting, when Sarah was explaining the database performance issue, I noticed you interrupted her twice and started typing on your laptop while she was still talking. When she asked if you had questions, you said 'it's fine' without looking up from your screen. This made Sarah visibly frustrated. She stopped mid-explanation and looked confused about whether to continue. The team couldn't get clarity on the performance requirements, and we had to table the story for next sprint. I'm concerned this pattern might be making it harder for the team to collaborate effectively."
 
 <details>
 <summary>Breaking Down the Example</summary>

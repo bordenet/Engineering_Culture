@@ -1,6 +1,6 @@
 # Understanding Conway's Law: Why Team Structure Determines System Architecture
 
-*How organizational design shapes the systems you build - and what to do about it*
+*How organizational design shapes the systems you build, and what to do about it*
 
 > *"Organizations which design systems are constrained to produce designs which are copies of the communication structures of these organizations."* - Melvin Conway, 1967
 
@@ -23,7 +23,7 @@ This post explores how to use Conway's Law proactively to design both systems an
 
 Conway's Law operates at the intersection of organizational psychology and system design. It reveals that:
 
-**Systems mirror communication patterns**, not org charts. The actual information flow between people - not the formal reporting structure - determines system boundaries.
+**Systems mirror communication patterns**, not org charts. The actual information flow between people, not the formal reporting structure, determines system boundaries.
 
 **Interface design reflects relationship quality**. Clean, well-defined APIs emerge from teams with clear, respectful communication. Messy, tightly-coupled interfaces reflect confused or conflicted team relationships.
 
@@ -99,7 +99,7 @@ Breaking this cycle requires intentional intervention at the organizational leve
 - Integration complexity exploded as teams struggled to coordinate
 - Overall system performance degraded despite individual service optimization
 
-**Conway's Law at Work**: The desire for team autonomy drove service proliferation, creating architectural complexity that mirrored organizational complexity. This is a classic example of teams jumping to microservices without understanding SOA principles - see [SOA & Microservices: Clearing the Confusion](../EngFundamentals/SOA_and_Microservices.md) for guidance on when microservices actually make sense versus when they create more problems than they solve.
+**Conway's Law at Work**: The desire for team autonomy drove service proliferation, creating architectural complexity that mirrored organizational complexity. This is a classic example of teams jumping to microservices without understanding SOA principles. See [SOA & Microservices: Clearing the Confusion](../EngFundamentals/SOA_and_Microservices.md) for guidance on when microservices actually make sense versus when they create more problems than they solve.
 
 ### Example 3: The Platform Team Success
 
@@ -196,7 +196,7 @@ Before forming teams, clearly define:
 Ensure leadership understands and supports the architecture-team alignment. Mixed messages from leadership will undermine the structure.
 
 **Process Design**
-Design processes that support the team structure - see [People-Process-Technology](People_-_Process_-_Technology_Triad.md) for frameworks that reinforce organizational design.
+Design processes that support the team structure. See [People-Process-Technology](People_-_Process_-_Technology_Triad.md) for frameworks that reinforce organizational design.
 
 **Measurement and Feedback**
 Track metrics that reveal whether the team structure is supporting or hindering the architectural goals.
@@ -216,7 +216,7 @@ Track metrics that reveal whether the team structure is supporting or hindering 
 **Conway's Law at Work**: The one-way communication pattern creates systems with brittle interfaces and hidden dependencies that mirror the lack of collaborative dialogue.
 
 **Solution**: 
-- Establish [architectural decision records (ADRs)](https://cognitect.com/blog/2011/11/15/documenting-architecture-decisions) with input from implementation teams - see [MADR template examples](https://adr.github.io/madr/#example) and [comprehensive ADR guidance](https://github.com/joelparkerhenderson/architecture-decision-record) for implementation approaches
+- Establish [architectural decision records (ADRs)](https://cognitect.com/blog/2011/11/15/documenting-architecture-decisions) with input from implementation teams. See [MADR template examples](https://adr.github.io/madr/#example) and [comprehensive ADR guidance](https://github.com/joelparkerhenderson/architecture-decision-record) for implementation approaches.
 - Create regular architecture review sessions where teams can propose alternatives
 - Implement "architecture by experiment" where teams can prove better approaches
 - Measure architectural success by system behavior, not compliance with documents
@@ -234,7 +234,7 @@ Track metrics that reveal whether the team structure is supporting or hindering 
 
 **Conway's Law at Work**: The hierarchical, one-way communication creates systems with rigid boundaries that mirror the lack of bidirectional feedback. More critically, the disconnect between design authority and operational responsibility creates systems that optimize for architectural elegance rather than operational reliability.
 
-**The Ownership Reality**: Teams must understand that they will bear the operational burden of architectural decisions. When you implement without questioning, you're accepting responsibility for maintaining something you may not fully understand or believe in. This isn't just about professional growth - it's about your quality of life when systems fail in production.
+**The Ownership Reality**: Teams must understand that they will bear the operational burden of architectural decisions. When you implement without questioning, you're accepting responsibility for maintaining something you may not fully understand or believe in. This isn't just about professional growth. It's about your quality of life when systems fail in production.
 
 **Common manifestation**: Teams abdicate system design responsibility by defaulting to "solutions" like using Kafka, SQS, or RabbitMQ as makeshift RPC mechanisms. This creates tightly coupled, unversioned message contracts that make the entire system brittle and impossible to evolve independently. When every team communication goes through a shared message bus without proper interface design, you get the worst of both worlds: distributed system complexity with monolithic coupling.
 
@@ -395,7 +395,7 @@ Organizations that master Conway's Law gain sustainable competitive advantages:
 
 **Sustainable Growth**: Organizational structures that support desired architectures scale more effectively than accidental structures.
 
-Conway's Law isn't a constraint to fight - it's a principle to leverage. By designing team structures that support your desired architecture, you can build systems that truly serve your business goals rather than merely reflecting your organizational accidents.
+Conway's Law isn't a constraint to fight. It's a principle to leverage. By designing team structures that support your desired architecture, you can build systems that truly serve your business goals rather than merely reflecting your organizational accidents.
 
 **Related Reading**: Understanding [SOA and microservices patterns](../EngFundamentals/SOA_and_Microservices.md) helps inform architectural decisions that influence team structure. Building effective [mechanisms for organizational improvement](../SDLC/Mechanisms:_Building_Self-Correcting_Systems.md) ensures your team structures continue to serve their architectural purposes over time.
 

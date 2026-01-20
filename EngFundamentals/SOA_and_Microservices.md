@@ -74,7 +74,7 @@ The goal: Distill overall problem complexity into a composition of simpler, focu
 
 ## SOA as Mindset
 
-Beyond the technical patterns, SOA demands a fundamental shift in how teams operate. This is where most organizations fail - they adopt the technology but ignore the organizational changes required.
+Beyond the technical patterns, SOA demands a fundamental shift in how teams operate. This is where most organizations fail: they adopt the technology but ignore the organizational changes required.
 
 ### Service Teams: The Human Element
 
@@ -93,9 +93,9 @@ What happens behind each service's API matters less than the interface itself, p
 
 ### Conway's Law in Action
 
-Your architecture will mirror your organization's communication structure. If you want loosely coupled services, you need loosely coupled teams. Consider the delta between your current org chart and your desired architecture - that gap represents the real work ahead.
+Your architecture will mirror your organization's communication structure. If you want loosely coupled services, you need loosely coupled teams. Consider the delta between your current org chart and your desired architecture. That gap represents the real work ahead.
 
-This is why the [People-Process-Technology triad](../Culture/People_-_Process_-_Technology_Triad.md) matters so much in SOA adoption - you can't just change the technology and expect different results. The organizational design work is often harder than the technical work.
+This is why the [People-Process-Technology triad](../Culture/People_-_Process_-_Technology_Triad.md) matters so much in SOA adoption. You can't just change the technology and expect different results. The organizational design work is often harder than the technical work.
 
 ## Microservices: SOA's Opinionated Evolution  
 
@@ -201,7 +201,7 @@ If you're moving from monolith to services (micro or otherwise), here's a practi
 ### Phase 1: Establish SOA Foundations
 1. **Identify service boundaries** through domain analysis
 2. **Build internal APIs** within your monolith
-3. **Implement proper monitoring** and observability - see [What Dashboards Are Good For](What_Dashboards_are_Good_For.md) for building effective service monitoring
+3. **Implement proper monitoring** and observability. See [What Dashboards Are Good For](What_Dashboards_are_Good_For.md) for building effective service monitoring.
 4. **Practice independent deployments** (even if still deploying together)
 
 ### Phase 2: Extract Strategically  
@@ -218,26 +218,26 @@ If you're moving from monolith to services (micro or otherwise), here's a practi
 
 ## The Bottom Line
 
-SOA and microservices aren't competing philosophies - they're part of an evolutionary path toward better system design. The key insights:
+SOA and microservices aren't competing philosophies. They're part of an evolutionary path toward better system design. The key insights:
 
 1. **Master SOA principles first**. Microservices without SOA foundations become distributed monoliths that are harder to maintain than what you started with.
 
 2. **Culture eats architecture for breakfast**. Your system design will mirror your organizational design, so be intentional about both.
 
-3. **Start simple, evolve with evidence**. Monoliths aren't failures - they're laboratories for discovering your true service boundaries.
+3. **Start simple, evolve with evidence**. Monoliths aren't failures. They're laboratories for discovering your true service boundaries.
 
 4. **Optimize for outcomes, not elegance**. The goal isn't beautiful architecture diagrams; it's sustainable development velocity with production reliability.
 
 5. **Distributed systems are a means, not an end**. Every service you create should solve a real organizational or technical problem, not just follow a pattern.
 
-The "land of confusion" exists because teams adopt the technology without understanding the principles, and adopt the patterns without embracing the culture. Don't be those teams - the stakes are too high and the recovery too expensive.
+The "land of confusion" exists because teams adopt the technology without understanding the principles, and adopt the patterns without embracing the culture. Don't be those teams. The stakes are too high and the recovery too expensive.
 
 <details>
 <summary>Just for fun! S3</summary>
 
 Launched in 2006, S3 ("simple storage service") is one of the planet's [first global-scale, public APIs](https://press.aboutamazon.com/2006/3/amazon-web-services-launches). AWS has since added functionality, but reading through the [API spec](https://docs.aws.amazon.com/pdfs/AmazonS3/latest/API/s3-api.pdf#API_Operations_Amazon_Simple_Storage_Service) reveals something important: it's still fundamentally get/set operations kept as simple as possible.
 
-S3's design philosophy prioritizes simplicity over sophistication - a principle that has enabled global scale for nearly two decades. As one S3 development manager noted: "We could have made it more sophisticated, but simple scales." Consider this when designing your next service - you're probably not building the next S3.
+S3's design philosophy prioritizes simplicity over sophistication, a principle that has enabled global scale for nearly two decades. As one S3 development manager noted: "We could have made it more sophisticated, but simple scales." Consider this when designing your next service. You're probably not building the next S3.
 
 </details>
 

@@ -24,7 +24,7 @@ The One-Pager is my go-to tool for breaking that paralysis. It does two things:
 
 ## What is a One-Pager?
 
-A One-Pager is a document that summarizes a topic to, as the name implies, a single page. But calling it "just a summary" misses the point - it's a forcing function for clear thinking. If you can't explain your idea compellingly in one page, the idea probably isn't ready for investment.
+A One-Pager is a document that summarizes a topic to, as the name implies, a single page. But calling it "just a summary" misses the point. It's a forcing function for clear thinking. If you can't explain your idea compellingly in one page, the idea probably isn't ready for investment.
 
 The real value isn't in the brevity itself, but in the discipline it requires. One-pagers force you to identify what actually matters and distinguish between problems and solutions.
 
@@ -33,7 +33,7 @@ The real value isn't in the brevity itself, but in the discipline it requires. O
 
 ## When to Use (and Not Use) a One-Pager
 
-The key to effective one-pager usage isn't following a rigid checklist - it's understanding when clarity and alignment matter more than comprehensiveness.
+The key to effective one-pager usage isn't following a rigid checklist. It's understanding when clarity and alignment matter more than comprehensiveness.
 
 ### ✅ Use a One-Pager For:
 
