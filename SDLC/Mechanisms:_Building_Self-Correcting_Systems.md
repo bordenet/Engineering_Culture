@@ -4,7 +4,7 @@ High-performing teams have mechanisms. Struggling teams have good intentions. Me
 
 This framework transforms chaotic engineering processes into predictable, improving systems. Whether you're debugging production issues or shipping new features, these principles apply.
 
-This is Amazon's internal framework for building self-correcting systems. It scales from startups to Fortune 100s. I've applied it successfully at three startups since leaving Amazon.
+This is Amazon's internal framework for building self-correcting systems. It scales from startups to Fortune 100s, and I've applied mechanisms successfully at three startups since leaving the company.
 
 Mechanisms represent the "Process" component of the [People-Process-Technology triad](../Culture/People_-_Process_-_Technology_Triad.md) - they're how you systematically enable people to do their best work.
 
@@ -129,7 +129,7 @@ We had a chatbot prototype showing promise in demos but struggling with real cus
 
 ## The COE (Correction of Error) Framework
 
-One of the most powerful mechanisms is Amazon's COE (Correction of Error) process. It transforms failures into systematic improvements:
+One of the most powerful mechanisms is Amazon's COE ([Correction of Error](https://www.linkedin.com/posts/bill-carr_when-i-joined-amazon-in-1999-our-software-activity-7396954263480012800-jKcz?utm_source=share&utm_medium=member_desktop&rcm=ACoAAAB549EB8qmxS8SGKoNuvyUcFPxZufxpj1E)) process. It transforms failures into systematic improvements:
 
 ### How COE Works
 
