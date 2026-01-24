@@ -91,7 +91,7 @@ A compelling One-Pager is more than just a brain dump. It tells a clear and conc
 
 ## Common Mistakes and How to Avoid Them
 
-The failure patterns are remarkably predictable across organizations. Here are the mistakes that kill one-pagers before they can do their job:
+The failure patterns repeat across organizations. Here are the mistakes that kill one-pagers before they can do their job:
 
 ### Mistake 1: The Wall of Text
 
@@ -119,7 +119,7 @@ The failure patterns are remarkably predictable across organizations. Here are t
 
 ## Making One-Pagers Work in Your Organization
 
-The process around one-pagers matters as much as the content. Organizations that treat them as thinking tools rather than busywork/compliance documents see dramatically better results.
+The process around one-pagers matters as much as the content. Organizations that treat them as thinking tools rather than compliance documents ship faster and kill bad ideas earlier.
 
 ### The Review Process
 
@@ -132,7 +132,7 @@ The process around one-pagers matters as much as the content. Organizations that
 
 The most valuable outcome of a One-Pager process is often the decision *not* to proceed. If you can't articulate a compelling case on a single page, it's a strong signal that the idea needs more thought or should be abandoned, saving the organization valuable time and resources.
 
-By embracing the discipline of the One-Pager, you can foster a culture of clear thinking, strategic alignment, and efficient execution.
+The discipline of the One-Pager pays off: clearer proposals, faster decisions, fewer wasted projects.
 
 ## Additional Reading
 
@@ -169,3 +169,4 @@ By embracing the discipline of the One-Pager, you can foster a culture of clear 
 ***
 
 *Licensed under [CC0 1.0](https://creativecommons.org/publicdomain/zero/1.0/). Reuse freely with attribution.*
+
