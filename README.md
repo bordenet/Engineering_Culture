@@ -9,7 +9,7 @@ I've spent 28 years spotting the same problems that stand to kill projects, fixi
 
 AI is changing how we write code, review pull requests, and generate documentation, but it has not changed [Conway's Law](Culture/Understanding_Conways_Law.md), the cost of unclear ownership, or the way technical debt compounds over time. If anything, AI magnifies existing organizational patterns. A team with crisp, well-understood requirements ships faster with AI in the loop; a team with fuzzy requirements just produces fuzzy code more quickly. The [AI Engineering](AIEngineering/README.md) section explores what it takes to build teams that use AI effectively: culture change, not just tool adoption.
 
-**Acknowledgments**: I've been lucky to learn from great mentors at Amazon and iStreamPlanet, and from teammates across every company I've worked with who challenged my thinking and made me better.
+**Acknowledgments**: I've been lucky to learn from great mentors at Amazon and iStreamPlanet, and from teammates across every company I've worked with who challenged my thinking and made me better. I'm sharing this to help others grow, too.
 
 
 ## AI Engineering
