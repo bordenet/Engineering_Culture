@@ -201,13 +201,13 @@ In the end, working software matters more than comprehensive documentation. But 
 
 ## Additional Reading
 
-These authoritative sources provide essential frameworks for effective project planning and documentation:
+These sources provide frameworks for effective project planning and documentation:
 
-- **["The Mythical Man-Month"](https://www.goodreads.com/book/show/13629.The_Mythical_Man_Month)** by Frederick P. Brooks Jr. - Timeless insights on software project management and communication, particularly relevant for understanding why clear documentation prevents project failures and how adding people to late projects makes them later.
+- **["The Mythical Man-Month"](https://www.goodreads.com/book/show/13629.The_Mythical_Man_Month)** by Frederick P. Brooks Jr. - Lessons on software project management and communication, particularly relevant for understanding why clear documentation prevents project failures and how adding people to late projects makes them later.
 
-- **["Making Things Happen"](https://www.goodreads.com/book/show/2335148.Making_Things_Happen)** by Scott Berkun - Essential reading on project management for technology teams, offering proven strategies for planning, executing, and documenting complex software projects.
+- **["Making Things Happen"](https://www.goodreads.com/book/show/2335148.Making_Things_Happen)** by Scott Berkun - Recommended reading on project management for technology teams, offering strategies for planning, executing, and documenting complex software projects.
 
-- **["The Design of Everyday Things"](https://www.goodreads.com/book/show/840.The_Design_of_Everyday_Things)** by Don Norman - Foundational text on user-centered design thinking that informs how to write requirements documents that focus on user outcomes rather than technical features.
+- **["The Design of Everyday Things"](https://www.goodreads.com/book/show/840.The_Design_of_Everyday_Things)** by Don Norman - Influential text on user-centered design thinking that informs how to write requirements documents that focus on user outcomes rather than technical features.
 
 - **["Lean Enterprise"](https://www.goodreads.com/book/show/18167218-lean-enterprise)** by Jez Humble, Joanne Molesky, and Barry O'Reilly - Modern approach to scaling product development that emphasizes lightweight documentation practices and continuous validation of assumptions.
 
