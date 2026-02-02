@@ -78,7 +78,7 @@ AI-First transformation compounds.
 
 Each iteration makes the team smarter. The prompt library gets better. The shared knowledge grows. New hires onboard faster because there's infrastructure to support them. The gap between your team and teams that haven't made this shift widens every quarter.
 
-At Telepathy.ai, we didn't have months to rebuild after the LLM revolution gutted our proprietary stack. We threw our proprietary AI solution and supporting SaaS platform out the window and built an LLM-native solution with LangGraph. Classical re-architecture would have taken quarters. Instead, we spent a few weeks on architecture and design, then had end-to-end scenarios running after three weeks of implementation, complete with healthy abstractions. That's not cutting corners. That's a team operating AI-First under existential pressure.
+At Telepathy.ai, we didn't have months to rebuild after the LLM revolution gutted our proprietary stack. We threw our proprietary AI solution and supporting SaaS platform out the window and built an LLM-native solution with LangGraph. Classical re-architecture would have taken quarters. Instead, we spent a few weeks on architecture and design, then had end-to-end scenarios running after three weeks of implementation, complete with healthy abstractions. That's not cutting corners. That's a team operating AI-First under survival pressure.
 
 Six months in, the difference was obvious: we were moving faster with 12 than we ever had with 70. I can't give you precise percentages because we weren't running controlled experiments. We were surviving. But the before/after was undeniable.
 
