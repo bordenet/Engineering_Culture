@@ -2,9 +2,9 @@
 
 *How clear writing becomes your most scalable skill and differentiates great engineers from good ones*
 
-Clear writing is leverage. One design document can align fifty engineers. One proposal can unlock a quarter's worth of resources. Writing skill becomes increasingly important as technical leadership responsibility grows.
+Clear writing is a multiplier. One design document can align fifty engineers. One proposal can unlock a quarter's worth of resources. Writing skill becomes increasingly important as technical leadership responsibility grows.
 
-Professional writing isn't just nice-to-have for engineers. It's a force multiplier. Whether you're documenting architecture decisions, proposing new initiatives, or giving feedback to colleagues, your ability to communicate clearly in writing directly impacts your career trajectory and your team's success.
+Professional writing isn't just nice-to-have for engineers. It amplifies everything else you do. Whether you're documenting architecture decisions, proposing new initiatives, or giving feedback to colleagues, your ability to communicate clearly in writing directly impacts your career trajectory and your team's success.
 
 This isn't about becoming a novelist. It's about developing the specific writing skills that make engineering teams more effective, decisions more informed, and careers more successful.
 
