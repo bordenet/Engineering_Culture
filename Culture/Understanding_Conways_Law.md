@@ -4,7 +4,7 @@
 
 > *"Organizations which design systems are constrained to produce designs which are copies of the communication structures of these organizations."* - Melvin Conway, 1967
 
-Conway's Law isn't just an interesting observation. It's a fundamental force that shapes every software system ever built. Most engineering leaders discover this principle too late, when they're debugging communication problems in their architecture and realize they're actually debugging communication problems in their organization.
+Conway's Law isn't just an interesting observation. It shapes every software system ever built. Most engineering leaders discover this principle too late, when they're debugging communication problems in their architecture and realize they're actually debugging communication problems in their organization.
 
 This post explores how to use Conway's Law proactively to design both systems and teams that support your business goals rather than undermine them. Much of this dates back to pre-LLM coding assistant days. There's a massive opportunity for LLMs to change how we work together, provided engineers are aware of the historic patterns and pain points. For a practical look at how AI is reshaping engineering team dynamics, see [What AI-First Engineering Looks Like](../AIEngineering/What_AI-First_Engineering_Looks_Like.md).
 
@@ -385,7 +385,7 @@ Track metrics that reveal whether the team structure is supporting or hindering 
 
 ## The Strategic Advantage
 
-Organizations that master Conway's Law gain sustainable competitive advantages:
+Organizations that master Conway's Law gain durable advantages:
 
 **Faster Adaptation**: System and team structures that support business goals enable rapid response to market changes.
 
@@ -395,7 +395,7 @@ Organizations that master Conway's Law gain sustainable competitive advantages:
 
 **Sustainable Growth**: Organizational structures that support desired architectures scale more effectively than accidental structures.
 
-Conway's Law isn't a constraint to fight! It's a principle to leverage. By designing team structures that support your _desired_ architecture, you can build systems that truly serve your business goals.
+Conway's Law isn't a constraint to fight! It's a principle to use. By designing team structures that support your _desired_ architecture, you can build systems that truly serve your business goals.
 
 **Related Reading**: Understanding [SOA and microservices patterns](../EngFundamentals/SOA_and_Microservices.md) helps inform architectural decisions that influence team structure. Building effective [mechanisms for organizational improvement](../SDLC/Mechanisms:_Building_Self-Correcting_Systems.md) helps keep your team structures serving their architectural purposes over time.
 
