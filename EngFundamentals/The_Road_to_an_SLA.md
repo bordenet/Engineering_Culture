@@ -4,7 +4,7 @@
 
 Building your first Service Level Agreement (SLA) is a milestone that signals business maturity. When customers start asking "What guarantee can you give me about availability?" you've moved beyond the startup phase into serious business territory.
 
-This post walks through the systematic approach to building SLAs that are both achievable for engineering teams and meaningful for customers. The key insight: SLAs aren't arbitrary numbers. They're the culmination of disciplined measurement and operational excellence.
+This post walks through the systematic approach to building SLAs that are both achievable for engineering teams and meaningful for customers. The point: SLAs aren't arbitrary numbers. They're the result of disciplined measurement and strong operations.
 
 > [!NOTE]
 > **Essential Reading**: [Google SRE Book - Service Level Objectives](https://sre.google/sre-book/service-level-objectives/) provides the foundational concepts this post builds upon.
