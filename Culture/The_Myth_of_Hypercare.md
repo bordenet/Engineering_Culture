@@ -202,9 +202,9 @@ Successful operations start with comprehensive observability:
 
 ## The Long-Term Perspective
 
-### Sustainable Competitive Advantage
+### Lasting Advantage
 
-Organizations that embrace consistent operational ownership rather than "hypercare" thinking develop sustainable advantages:
+Organizations that embrace consistent operational ownership rather than "hypercare" thinking develop lasting advantages:
 
 **Customer Trust:**
 - Consistent reliability builds customer confidence
