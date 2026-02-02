@@ -2,7 +2,7 @@
 
 *Why understanding Service-Oriented Architecture is prerequisite to getting microservices right*
 
-Microservices adoption often skips foundational SOA principles, leading to distributed monoliths that are harder to maintain than the systems they replaced. Understanding SOA deeply, both technically and culturally, provides essential foundation for microservices success.
+Microservices adoption often skips foundational SOA principles, leading to distributed monoliths that are harder to maintain than the systems they replaced. Understanding SOA deeply, both technically and culturally, provides the foundation for microservices success.
 
 The cost of skipping these foundations is high: teams end up with the complexity of distributed systems without the benefits of service-oriented architecture.
 
@@ -10,9 +10,9 @@ The cost of skipping these foundations is high: teams end up with the complexity
 
 Here's why I'm publishing this otherwise arbitrary piece of opinion: **SOA is as much a cultural approach as it is a technology choice.** When teams build robust APIs and treat their consumers as internal customers, it becomes natural for organizations to build working end-to-end systems that can survive the long haul.
 
-Too many engineering organizations focus on the technical patterns while ignoring the cultural transformation required. They extract services, implement REST APIs, and deploy to containers, but still operate with monolithic thinking. The result? Distributed systems that are harder to maintain than the monoliths they replaced.
+Too many engineering organizations focus on the technical patterns while ignoring the cultural change required. They extract services, implement REST APIs, and deploy to containers, but still operate with monolithic thinking. The result? Distributed systems that are harder to maintain than the monoliths they replaced.
 
-The teams that succeed with SOA (and by extension, microservices) understand that technology choices are downstream from cultural choices. When you truly embrace service ownership, customer obsession, and operational excellence, the right architectural patterns follow naturally. For deeper insights on how organizational structure shapes system architecture, see [Understanding Conway's Law](../Culture/Understanding_Conways_Law.md).
+The teams that succeed with SOA (and by extension, microservices) understand that technology choices are downstream from cultural choices. When you truly embrace service ownership, customer obsession, and operational excellence, the right architectural patterns follow naturally. For more on how organizational structure shapes system architecture, see [Understanding Conway's Law](../Culture/Understanding_Conways_Law.md).
 
 ## Table of Contents
 
@@ -74,11 +74,11 @@ The goal: Distill overall problem complexity into a composition of simpler, focu
 
 ## SOA as Mindset
 
-Beyond the technical patterns, SOA demands a fundamental shift in how teams operate. This is where most organizations fail: they adopt the technology but ignore the organizational changes required.
+Beyond the technical patterns, SOA demands a shift in how teams operate. This is where most organizations fail: they adopt the technology but ignore the organizational changes required.
 
 ### Service Teams: The Human Element
 
-Successful SOA requires **service teams** - self-sufficient groups that operate with genuine customer obsession through world-class APIs. These teams:
+Successful SOA requires **service teams** - self-sufficient groups that operate with customer obsession through great APIs. These teams:
 
 - **Own their full stack**: Infrastructure, deployments, monitoring, and on-call responsibilities  
 - **Operate with autonomy**: Make technology choices that serve their customers best
