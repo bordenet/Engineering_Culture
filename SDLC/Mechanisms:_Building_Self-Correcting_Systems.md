@@ -184,40 +184,24 @@ Your first version won't be perfect. That's the point: mechanisms improve throug
 
 ## Common Pitfalls and How to Avoid Them
 
-### Pitfall 1: Mechanism Theater
-**Symptom**: Going through motions without real improvement  
-**Fix**: Tie mechanisms to business metrics, not activity metrics
-
-### Pitfall 2: Set and Forget
-**Symptom**: Initial enthusiasm followed by abandonment  
-**Fix**: Schedule recurring reviews in everyone's calendar upfront
-
-### Pitfall 3: Over-Engineering
-**Symptom**: Spending months designing the perfect mechanism  
-**Fix**: Launch v1 in 2 weeks, iterate based on data
-
-### Pitfall 4: Lack of Ownership
-**Symptom**: "Someone should look into this"  
-**Fix**: Single owner with authority to make changes
+| Pitfall | Symptom | Fix |
+|:--------|:--------|:----|
+| **Mechanism Theater** | Going through motions without real improvement | Tie mechanisms to business metrics, not activity metrics |
+| **Set and Forget** | Initial enthusiasm followed by abandonment | Schedule recurring reviews in everyone's calendar upfront |
+| **Over-Engineering** | Spending months designing the perfect mechanism | Launch v1 in 2 weeks, iterate based on data |
+| **Lack of Ownership** | "Someone should look into this" | Single owner with authority to make changes |
 
 ## Making Mechanisms Stick
 
 The difference between mechanisms that transform organizations and those that become shelf-ware:
 
-### 1. Executive Sponsorship
-Get senior leaders to buy in to the outputs, not just the process.
-
-### 2. Visible Metrics
-Automated alerts for team on-calls > dashboard on in-office screens > report in email > nothing
-
-### 3. Celebrate Improvements
-When cycle time drops 50%, make it known. Success breeds continued adoption and confidence.
-
-### 4. Regular Pruning
-Retire mechanisms that no longer serve their purpose. Not every mechanism is forever. Not every mechanism requires replacement with a better one.
-
-### 5. Cultural Integration
-The best mechanisms become "how we do things here" rather than extra work.
+| Factor | What It Means |
+|:-------|:--------------|
+| **Executive Sponsorship** | Get senior leaders to buy in to the outputs, not just the process |
+| **Visible Metrics** | Automated alerts for team on-calls > dashboard on in-office screens > report in email > nothing |
+| **Celebrate Improvements** | When cycle time drops 50%, make it known. Success breeds adoption and confidence |
+| **Regular Pruning** | Retire mechanisms that no longer serve their purpose. Not every mechanism is forever |
+| **Cultural Integration** | The best mechanisms become "how we do things here" rather than extra work |
 
 ## From Chaos to Clarity
 
