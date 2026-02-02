@@ -16,7 +16,7 @@ These posts aren't theoretical frameworks or consultant playbooks. They're field
 What AI-First means and what it's not. Covers the anti-patterns that kill AI adoption (Lone Wolf, Tool Sprawl, AI as Crutch, The Big Bang) and when NOT to use AI. Starts with the Telepathy.ai story and ends with a clear definition: AI is how we work now. Not a novelty. Not a shortcut. The default.
 
 ### [Building an AI-First Engineering Culture](./Building_an_AI-First_Engineering_Culture.md)
-*A practitioner's guide to changing culture*
+*A practitioner's guide to bringing your engineering culture into the present day*
 
 How to build AI-First culture in your organization, from assessment through scaling. Covers the first four weeks of adoption, when YOLO vibe coding is acceptable, mechanisms for scaling beyond individual experiments, and the math that's changed about tools vs. headcount. Includes real examples from my own tooling: [genesis](https://github.com/bordenet/genesis), [one-pager](https://bordenet.github.io/one-pager/), and more.
 
