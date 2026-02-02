@@ -4,7 +4,7 @@
 > [!NOTE]
 > * Read more about [mechanisms](./Mechanisms:_Building_Self-Correcting_Systems.md)
 > * Generate PR-FAQs with [pr-faq-assistant](https://bordenet.github.io/pr-faq-assistant/) ([repo](https://github.com/bordenet/pr-faq-assistant))
-> * Validate your PR-FAQ with the [pr-faq-validator](https://github.com/bordenet/pr-faq-validator) tool
+> * Validate your PR-FAQ with the [pr-faq-validator](https://bordenet.github.io/pr-faq-validator/) web tool ([repo](https://github.com/bordenet/pr-faq-validator))
 
 Amazon's PR-FAQ (Press Release / Frequently Asked Questions) mechanism forces teams to define success from the customer's perspective, before anyone builds anything. By articulating customer value in plain, journalistic English, it exposes weak thinking before you've invested months in development.
 
@@ -196,7 +196,7 @@ Marketing fluff undermines credibility. These words signal that you're selling r
 
 ## PR-FAQ Quality Checklist
 
-Use this checklist to self-evaluate before sharing your PR-FAQ. This mirrors what the [pr-faq-validator](https://github.com/bordenet/pr-faq-validator) tool scores.
+Use this checklist to self-evaluate before sharing your PR-FAQ. This mirrors what the [pr-faq-validator](https://bordenet.github.io/pr-faq-validator/) web tool scores.
 
 ### Structure & Hook (30 points)
 
@@ -490,7 +490,8 @@ A good PR-FAQ requires real thinking time. The writing is the easy part. Get val
 ## Templates and Resources
 
 ### Validate Your PR-FAQ
-- **[pr-faq-validator](https://github.com/bordenet/pr-faq-validator)**: CLI tool that scores your PR-FAQ against journalistic standards
+
+- **[pr-faq-validator](https://bordenet.github.io/pr-faq-validator/)**: Web tool that scores your PR-FAQ against journalistic standards ([repo](https://github.com/bordenet/pr-faq-validator))
 
 ### Real-World Examples
 - **[SVPG's Example PR-FAQ](https://www.svpg.com/example-prfaq/)**: Clean, simple format
