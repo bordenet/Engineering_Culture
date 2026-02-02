@@ -2,11 +2,12 @@
 
 *The fastest way to get unstuck is to write it down in one page.*
 
+> [!NOTE]
+> Generate One-Pagers with [one-pager-assistant](https://bordenet.github.io/one-pager/) ([repo](https://github.com/bordenet/one-pager))
+
 You know the feeling: a project idea is swirling in your head, but you can't quite articulate it. You're not sure where to start, what to prioritize, or how to explain it to someone else. You're stuck.
 
 The One-Pager is my go-to tool for breaking that paralysis. It does two things:
-
-> **🚀 Try it now:** [One-Pager Assistant](https://bordenet.github.io/one-pager/) — an AI-powered tool that guides you through drafting a One-Pager step by step.
 
 1. **Clarifies your own thinking.** The constraint of a single page forces you to identify what actually matters. You can't hide behind length. Gaps in your logic become obvious.
 
@@ -162,8 +163,7 @@ The discipline of the One-Pager pays off: clearer proposals, faster decisions, f
 **Related Topics:**
 - [Professional Writing Tips](../Culture/Professional_Writing_Tips.md) - *Writing techniques for maximum impact*
 - [Weasel Words](../Culture/Weasel_Words.md) - *Clear, actionable language*
-- [Building an AI-First Engineering Culture](../AIEngineering/Building_an_AI-First_Engineering_Culture.md) - *AI-first development practices*
-- **[One-Pager Assistant](https://bordenet.github.io/one-pager/)** - *Try the AI-powered One-Pager drafting tool*
+- [Building an AI-First Engineering Culture](../AIEngineering/Building_an_AI-First_Engineering_Culture.md) - *See one-pager-assistant tool*
 
 ---
 
