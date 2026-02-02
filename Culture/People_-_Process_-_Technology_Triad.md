@@ -2,7 +2,7 @@
 
 *Why successful engineering organizations prioritize people first, process second, and technology third*
 
-Successful engineering transformations require balanced attention to three interconnected elements: People, Process, and Technology. Organizations that optimize only one or two dimensions create systemic dysfunction.
+Successful engineering changes require balanced attention to three interconnected elements: People, Process, and Technology. Organizations that optimize only one or two dimensions create systemic dysfunction.
 
 The triad gives you three lenses: people (who create value), process (how work flows), and technology (what amplifies their efforts and what you ultimately ship.)
 
@@ -70,7 +70,7 @@ Process must evolve or die. What works for a 10-person startup fails at 100 peop
 | **On-call rotations** | Shares operational burden while building system understanding |
 | **Architecture decision records** | Preserves context for future decisions without endless meetings |
 
-For deeper insights on building self-improving processes, see [Mechanisms: Building Self-Correcting Systems](../SDLC/Mechanisms:_Building_Self-Correcting_Systems.md).
+For more on building self-improving processes, see [Mechanisms: Building Self-Correcting Systems](../SDLC/Mechanisms:_Building_Self-Correcting_Systems.md).
 
 ## 3. The Amplifier: Technology Third
 
