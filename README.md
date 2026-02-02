@@ -5,9 +5,9 @@
 
 ## About This Collection
 
-I've spent my career spotting the same problems that kill projects—fixing them before they actually do. Not for lack of effort or talent; these are structural traps that catch smart teams. Vague requirements, unclear ownership, humans organized around the wrong boundaries. Different companies, different tech stacks (Microsoft, Amazon, live broadcast, fintech, AI), same patterns. This is what I've learned to look for.
+I've spent my career spotting the same problems that kill projects, fixing them before they actually do. Not for lack of effort or talent; these are structural traps that catch smart teams. Vague requirements, unclear ownership, humans organized around the wrong boundaries. Different companies, different tech stacks (Microsoft, Amazon, live broadcast, fintech, AI), same patterns. This is what I've learned to look for.
 
-AI is an amplifier. It accelerates everything—good and bad. A team with crisp requirements and clear ownership ships faster than ever. A team with fuzzy requirements produces fuzzy code at unprecedented speed. AI hasn't changed the organizational dynamics [Conway's Law](Culture/Understanding_Conways_Law.md) describes, the cost of unclear ownership, or how technical debt compounds. It just makes the consequences arrive sooner. The [AI Engineering](AIEngineering/README.md) section explores what it takes to build teams that use AI effectively: culture change, not just tool adoption.
+AI is an amplifier. It accelerates everything: good and bad. A team with crisp requirements and clear ownership ships in days what used to take weeks. A team with fuzzy requirements produces fuzzy code just as fast. AI hasn't changed the organizational dynamics [Conway's Law](Culture/Understanding_Conways_Law.md) describes, the cost of unclear ownership, or how technical debt compounds. It just makes the consequences arrive sooner. The [AI Engineering](AIEngineering/README.md) section explores what it takes to build teams that use AI effectively: culture change, not just tool adoption.
 
 **Acknowledgments**: I've been lucky to learn from great mentors at Amazon and iStreamPlanet, and from teammates across every company I've worked with who challenged my thinking and made me better. I'm sharing this to help others grow, too.
 
