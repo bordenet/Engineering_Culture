@@ -6,6 +6,8 @@ You know the feeling: a project idea is swirling in your head, but you can't qui
 
 The One-Pager is my go-to tool for breaking that paralysis. It does two things:
 
+> **🚀 Try it now:** [One-Pager Assistant](https://bordenet.github.io/one-pager/) — an AI-powered tool that guides you through drafting a One-Pager step by step.
+
 1. **Clarifies your own thinking.** The constraint of a single page forces you to identify what actually matters. You can't hide behind length. Gaps in your logic become obvious.
 
 2. **Gets a group moving together.** Once it's on paper, you have something concrete to react to, debate, and improve. Instead of circular discussions about abstract ideas, the team can point at specific words and align.
@@ -160,7 +162,8 @@ The discipline of the One-Pager pays off: clearer proposals, faster decisions, f
 **Related Topics:**
 - [Professional Writing Tips](../Culture/Professional_Writing_Tips.md) - *Writing techniques for maximum impact*
 - [Weasel Words](../Culture/Weasel_Words.md) - *Clear, actionable language*
-- [Building an AI-First Engineering Culture](../AIEngineering/Building_an_AI-First_Engineering_Culture.md) - *See genesis one-pager tool in action*
+- [Building an AI-First Engineering Culture](../AIEngineering/Building_an_AI-First_Engineering_Culture.md) - *AI-first development practices*
+- **[One-Pager Assistant](https://bordenet.github.io/one-pager/)** - *Try the AI-powered One-Pager drafting tool*
 
 ---
 
