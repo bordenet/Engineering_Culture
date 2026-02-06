@@ -18,7 +18,7 @@ What AI-First means and what it's not. Covers the anti-patterns that kill AI ado
 ### [Building an AI-First Engineering Culture](./Building_an_AI-First_Engineering_Culture.md)
 *A practitioner's guide to bringing your engineering culture into the present day*
 
-How to build AI-First culture in your organization, from assessment through scaling. Covers the first four weeks of adoption, when YOLO vibe coding is acceptable, mechanisms for scaling beyond individual experiments, and the math that's changed about tools vs. headcount. Includes real examples from my own tooling: [genesis](https://github.com/bordenet/genesis), [one-pager](https://bordenet.github.io/one-pager/), and more.
+How to build AI-First culture in your organization, from assessment through scaling. Covers the first four weeks of adoption, when YOLO vibe coding is acceptable, mechanisms for scaling beyond individual experiments, and the math that's changed about tools vs. headcount. Includes real examples from my own tooling: [genesis](https://github.com/bordenet/genesis), [one-pager](https://bordenet.github.io/one-pager/), and more. For the backstory on why genesis uses a multi-repo architecture instead of a monorepo, see [Genesis: Background](https://github.com/bordenet/genesis/blob/main/BACKGROUND.md).
 
 ---
 
