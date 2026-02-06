@@ -9,6 +9,8 @@ I've spent my career spotting the same problems that kill projects, fixing them 
 
 AI is an amplifier. It accelerates everything: good and bad. A team with crisp requirements and clear ownership ships in days what used to take weeks. A team with fuzzy requirements produces buggy code just as fast. AI hasn't changed the organizational dynamics [Conway's Law](Culture/Understanding_Conways_Law.md) describes, the damage from unclear ownership, or how technical debt compounds. It just makes the consequences arrive sooner. The [AI Engineering](AIEngineering/README.md) section explores what it takes to build teams that use AI effectively: culture change, not just tool adoption.
 
+The [genesis](https://github.com/bordenet/genesis) tooling referenced throughout this collection is a practical example of these principles in action. For the backstory on its architecture, see [Genesis: Background](https://github.com/bordenet/genesis/blob/main/BACKGROUND.md).
+
 **Acknowledgments**: I've been lucky to learn from great mentors at Amazon and iStreamPlanet, and from teammates across every company I've worked with who challenged my thinking and made me better. I'm sharing this to help others grow, too.
 
 
