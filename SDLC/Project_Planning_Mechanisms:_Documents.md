@@ -103,6 +103,10 @@ A *Product Requirements Document* succeeds when engineering can build the right 
 1. **Problem Statement**: What customer pain are we addressing?
 2. **Success Metrics**: How will we know it worked?
 3. **User Stories**: Core scenarios with acceptance criteria
+
+> [!NOTE]
+> Generate acceptance criteria with [acceptance-criteria-assistant](https://bordenet.github.io/acceptance-criteria-assistant/) ([repo](https://github.com/bordenet/acceptance-criteria-assistant))
+
 4. **Non-Goals**: What we're explicitly not doing
 5. **Constraints**: Technical, legal, or business boundaries
 
