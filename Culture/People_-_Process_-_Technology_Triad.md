@@ -30,6 +30,9 @@ Everything else you build serves to amplify human capability, not replace it. Th
 
 ### What "People First" Actually Means
 
+> [!NOTE]
+> Create effective job descriptions with [jd-assistant](https://bordenet.github.io/jd-assistant/) ([repo](https://github.com/bordenet/jd-assistant))
+
 - **Hire for potential, train for skill**: The right person with growth mindset beats the expert with fixed mindset every time
 - **Psychological safety enables performance**: Teams that feel safe to fail, question, and experiment outperform teams that don't
 - **Development is investment, not cost**: Every dollar spent developing your people returns multiples in capability and retention
