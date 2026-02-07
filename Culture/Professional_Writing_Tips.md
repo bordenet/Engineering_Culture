@@ -47,6 +47,9 @@ Each phase serves a specific purpose and builds on the previous one. Skip a phas
 
 ## Phase 1: Clarify Your Intent
 
+> [!TIP]
+> Craft compelling power statements with [power-statement-assistant](https://bordenet.github.io/power-statement-assistant/) ([repo](https://github.com/bordenet/power-statement-assistant))
+
 Before writing a single word, answer these questions:
 
 ### The Core Questions
