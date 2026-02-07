@@ -117,6 +117,9 @@ A *Product Requirements Document* succeeds when engineering can build the right 
 
 ## Technical Design: The How
 
+> [!NOTE]
+> Document architectural decisions with [architecture-decision-record](https://bordenet.github.io/architecture-decision-record/) ([repo](https://github.com/bordenet/architecture-decision-record))
+
 Once Product Management defines what to build, engineering determines how. Great technical designs:
 
 ### Include
