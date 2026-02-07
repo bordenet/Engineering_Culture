@@ -35,6 +35,8 @@ Before diving into specifics, here's your quick reference for the most common pl
 | [**PR-FAQ**](./The_PR-FAQ.md) | Define customer value through future press release | Product Manager | "Would customers care?" | New products, major features |
 | [**One-Pager**](./The_One-Pager.md) | Capture ideas quickly, drive decisions | Anyone | "Is this worth pursuing?" | Early exploration, decision points |
 | **Product Requirements Document (PRD)** | Specify what to build and why | Product Manager | "What problem are we solving?" | Feature development |
+| [**Strategic Proposal**](https://bordenet.github.io/strategic-proposal/) | Present strategic initiatives to leadership | Leadership/PM | "Should we invest in this direction?" | Major initiatives, platform decisions |
+| [**Business Justification**](https://bordenet.github.io/business-justification-assistant/) | Build financial case for initiatives | PM/Finance | "What's the ROI?" | Budget requests, resource allocation |
 | **Technical Design** | Detail how to build it | Engineering | "How will we implement this?" | Complex features, architecture changes |
 | **Functional Spec** | Bridge product vision to engineering | Engineering/TPM | "What exactly should it do?" | When PRD needs technical translation |
 
