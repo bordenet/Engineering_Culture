@@ -1,6 +1,6 @@
 # 🔧 How to Construct a Useful Dashboard
 
-*I've built observability programs at four companies with four different starting points: zero metrics, useless metrics, expensive tools without a holistic strategy or plan, and teams that already get it. The approach is the same; the pace differs.*
+*I've built observability programs at four companies with four different starting points: zero metrics, useless metrics, expensive tools without a coherent strategy or plan, and teams that already get it. The approach is the same; the pace differs.*
 
 Many teams build dashboards that don't help them understand how their services operate. They don't find out until they're reacting to a production incident.
 

@@ -206,7 +206,7 @@ The People-Process-Technology framework isn't about prioritizing one over the ot
 
 Organizations that flip this order (starting with cool technology, imposing rigid processes, and treating people as interchangeable resources) might achieve short-term wins but struggle with long-term sustainability.
 
-The magic happens when all three work together: great people designing effective processes that leverage appropriate technology to create outsized business impact. That's the real competitive advantage.
+The magic happens when all three work together: great people designing effective processes that use appropriate technology to create outsized business impact. That's the real competitive advantage.
 
 ## Additional Reading
 

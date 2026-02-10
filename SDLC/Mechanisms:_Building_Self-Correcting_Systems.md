@@ -135,7 +135,7 @@ A key mechanism is Amazon's COE ([Correction of Error](https://www.linkedin.com/
 
 1. **Incident Occurs**: Production issue impacts customers
 2. **Immediate Response**: Fix the problem, restore service
-3. **Deep Dive**: Within 24-48 hours, conduct root cause analysis
+3. **Root Cause Analysis**: Within 24-48 hours, investigate what went wrong and why
 4. **Document Findings**: Write up what happened, why, and impact
 5. **Action Items**: Define specific preventive measures with owners and dates
 6. **Follow Through**: Track completion of all action items

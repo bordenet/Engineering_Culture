@@ -14,7 +14,7 @@ AI-First has failure modes. I've seen all of these:
 
 ### The Lone Wolf
 
-One engineer races ahead with cutting-edge tools: custom prompts, experimental models, workflows nobody else understands. They're productive, but their knowledge doesn't transfer. When they're out sick, nobody can maintain their code, keep up with them to provide support, etc.
+One engineer races ahead with experimental tools: custom prompts, new models, workflows nobody else understands. They're productive, but their knowledge doesn't transfer. When they're out sick, nobody can maintain their code, keep up with them to provide support, etc.
 
 **When this is fine:** Early exploration phase. Someone needs to scout the territory.
 
