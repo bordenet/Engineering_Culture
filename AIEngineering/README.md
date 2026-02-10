@@ -31,13 +31,13 @@ The state of the art has changed. This post examines the 2026 industry data—26
 
 ## Key Themes
 
-**Culture over tools.** Mindset beats technology, especially when the technology changes every few months. Teams that default to "collaborate with AI" outperform teams with better tools but no cultural shift.
+**Culture over tools.** Mindset beats technology, especially when the technology changes every few months. Teams that default to "collaborate with AI" outperform teams with better tools but no cultural shift. See [Building an AI-First Engineering Culture](./Building_an_AI-First_Engineering_Culture.md) for the full playbook.
 
-**Mechanisms over mandates.** Individual experiments are nice. [Mechanisms](../SDLC/Mechanisms:_Building_Self-Correcting_Systems.md) are how you scale. Coach pioneers to teach, build shared toolkits, measure outcomes not activities.
+**Mechanisms over mandates.** Individual experiments teach you what works and sometimes advance the state of the art. [Mechanisms](../SDLC/Mechanisms:_Building_Self-Correcting_Systems.md) are how you scale those learnings. Coach pioneers to teach, build shared toolkits, measure outcomes not activities.
 
 **The math has changed.** A senior engineer's fully-loaded cost is $325K/year. Your monthly AI bill (even with aggressive usage) rarely exceeds a single headcount. Build smaller, stronger teams with AI firepower.
 
-**It compounds.** Each iteration makes the team smarter. The prompt library gets better. New hires onboard faster. The gap between AI-First teams and traditional teams widens every quarter.
+**It compounds—in both directions.** Vince Lombardi said it best: "Practice does not make perfect. Only perfect practice makes perfect." Sloppy AI prompts, unchecked code generation, and undocumented lessons don't just fail to improve—they entrench bad habits. The wrong things compound just as easily as the right ones. Deliberate practice means machine-readable docs, adversarial review, and feedback loops that capture what went wrong. Do it right, and each iteration makes the team smarter. Do it wrong, and you're hardwiring mediocrity at scale. (Congratulations to the Seattle Seahawks on their recent Super Bowl victory—Lombardi would approve of their fundamentals.)
 
 ---
 
