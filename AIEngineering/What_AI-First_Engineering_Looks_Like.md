@@ -63,6 +63,7 @@ AI-First doesn't mean AI-always. Know when to reach for something else:
 **In This Series:**
 - **You are here:** What AI-First Engineering Looks Like
 - [Building an AI-First Engineering Culture](./Building_an_AI-First_Engineering_Culture.md) - *The how-to guide*
+- [The Evolution of AI-First Thinking](./The_Evolution_of_AI-First_Thinking.md) - *2026 update with industry data*
 
 **Related Topics:**
 - [Mechanisms: Building Self-Correcting Systems](../SDLC/Mechanisms:_Building_Self-Correcting_Systems.md) - *Framework for scaling practices*

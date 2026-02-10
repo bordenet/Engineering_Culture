@@ -95,6 +95,7 @@ I'm now applying these principles at my [current company](https://CallBox.com). 
 **In This Series:**
 - [What AI-First Engineering Looks Like](./What_AI-First_Engineering_Looks_Like.md) - *The what and why*
 - **You are here:** Building an AI-First Engineering Culture
+- [The Evolution of AI-First Thinking](./The_Evolution_of_AI-First_Thinking.md) - *2026 update with industry data*
 
 **Related Topics:**
 - [Mechanisms: Building Self-Correcting Systems](../SDLC/Mechanisms:_Building_Self-Correcting_Systems.md) - *Scaling AI adoption through mechanisms*
@@ -104,7 +105,7 @@ I'm now applying these principles at my [current company](https://CallBox.com). 
 
 ---
 
-**Previous:** [What AI-First Engineering Looks Like](./What_AI-First_Engineering_Looks_Like.md)
+**Previous:** [What AI-First Engineering Looks Like](./What_AI-First_Engineering_Looks_Like.md) | **Next:** [The Evolution of AI-First Thinking](./The_Evolution_of_AI-First_Thinking.md)
 
 ***
 

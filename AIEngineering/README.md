@@ -20,6 +20,11 @@ What AI-First means and what it's not. Covers the anti-patterns that kill AI ado
 
 How to build AI-First culture in your organization, from assessment through scaling. Covers the first four weeks of adoption, when YOLO vibe coding is acceptable, mechanisms for scaling beyond individual experiments, and the math that's changed about tools vs. headcount. Includes real examples from my own tooling: [genesis](https://github.com/bordenet/genesis), [one-pager](https://bordenet.github.io/one-pager/), and more. For the backstory on why genesis uses a multi-repo architecture instead of a monorepo, see [Genesis: Background](https://github.com/bordenet/genesis/blob/main/BACKGROUND.md).
 
+### [The Evolution of AI-First Thinking](./The_Evolution_of_AI-First_Thinking.md)
+*What the 2026 data shows and how the approach must change*
+
+The state of the art has changed. This post examines the 2026 industry data—26% productivity gains, velocity trade-offs, AI adoption rates—and what it means for how we work. Covers the lessons learned from Genesis (1,600+ commits, 9 repos, conformity tooling pushed to its limits) and the principles that actually work: architecture-first design, automated verification at every layer, tooling that earns its keep, and human-AI feedback loops that compound over time.
+
 ---
 
 ## Key Themes
@@ -41,6 +46,7 @@ How to build AI-First culture in your organization, from assessment through scal
 **In This Section:**
 - [What AI-First Engineering Looks Like](./What_AI-First_Engineering_Looks_Like.md) - *Mindset and anti-patterns*
 - [Building an AI-First Engineering Culture](./Building_an_AI-First_Engineering_Culture.md) - *Practical implementation guide*
+- [The Evolution of AI-First Thinking](./The_Evolution_of_AI-First_Thinking.md) - *2026 update with industry data*
 
 **Related Topics:**
 - [Mechanisms: Building Self-Correcting Systems](../SDLC/Mechanisms:_Building_Self-Correcting_Systems.md) - *Framework for scaling practices*
