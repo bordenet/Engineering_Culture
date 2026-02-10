@@ -1,6 +1,6 @@
 # The Evolution of AI-First Thinking
 
-The state of the art in AI coding assistants has changed. What worked in 2024 doesn't work in 2026. The tools have evolved, the data is in, and some long-held assumptions need revisiting.
+AI coding assistants have changed. What worked in 2024 doesn't work in 2026. The tools have evolved, the data is in, and some long-held assumptions need revisiting.
 
 This isn't about abandoning principles. It's about updating them based on evidence.
 

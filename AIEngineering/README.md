@@ -25,7 +25,7 @@ How to build AI-First culture in your organization, from assessment through scal
 ### [The Evolution of AI-First Thinking](./The_Evolution_of_AI-First_Thinking.md)
 *What the 2026 data shows and how the approach must change*
 
-The state of the art has changed. This post examines the 2026 industry data (26% productivity gains, velocity trade-offs, AI adoption rates) and what it means for how we work. Covers lessons from a [personal experiment in deterministic AI-assisted development](https://github.com/bordenet/genesis/blob/main/BACKGROUND.md) (1,600+ commits, 9 repos, conformity tooling pushed to its limits) and the principles that actually work: architecture-first design, automated verification at every layer, tooling that earns its keep, and human-AI feedback loops that compound over time.
+AI coding assistants have changed. This post examines the 2026 industry data (26% productivity gains, velocity trade-offs, AI adoption rates) and what it means for how we work. Covers lessons from a [personal experiment in deterministic AI-assisted development](https://github.com/bordenet/genesis/blob/main/BACKGROUND.md) (1,600+ commits, 9 repos, conformity tooling pushed to its limits) and the principles that actually work: architecture-first design, automated verification at every layer, tooling that earns its keep, and human-AI feedback loops that compound over time.
 
 ---
 
@@ -33,7 +33,7 @@ The state of the art has changed. This post examines the 2026 industry data (26%
 
 **Culture over tools.** Mindset beats technology, especially when the technology changes every few months. Teams that default to "collaborate with AI" outperform teams with better tools but no cultural shift. See [Building an AI-First Engineering Culture](./Building_an_AI-First_Engineering_Culture.md) for the full playbook.
 
-**Mechanisms over mandates.** Individual experiments teach you what works and sometimes advance the state of the art. [Mechanisms](../SDLC/Mechanisms:_Building_Self-Correcting_Systems.md) are how you scale those learnings. Coach pioneers to teach, build shared toolkits, measure outcomes not activities.
+**Mechanisms over mandates.** Individual experiments teach you what works and sometimes push the field forward. [Mechanisms](../SDLC/Mechanisms:_Building_Self-Correcting_Systems.md) are how you scale those learnings. Coach pioneers to teach, build shared toolkits, measure outcomes not activities.
 
 **The math has changed.** A senior engineer's fully-loaded cost is $325K/year. Your monthly AI bill (even with aggressive usage) rarely exceeds a single headcount. Build smaller, stronger teams with AI firepower.
 
