@@ -63,11 +63,15 @@ Every tool must reduce friction, not add ceremony. If a check doesn't catch real
 
 ### Human-AI Feedback Loops
 
-One of the most effective patterns I've found: a shared `CONTINUOUS_IMPROVEMENT.md` file where both humans and AI logged friction points, failed approaches, and ideas.
+The most effective pattern I've found: a `CONTINUOUS_IMPROVEMENT.md` file written *for AI consumption*.
 
-AI agents read it before starting work. Humans updated it when something went wrong. Then AI actioned the improvements.
+Here's how it works: Every time a defect surfaces—during bootstrapping, after spawning a new project, during code review—I give the AI an explicit prompt: "Record this in CONTINUOUS_IMPROVEMENT.md." The AI logs the problem, the fix, and the lesson learned. The document accumulates institutional memory that no human has to maintain.
 
-This created a self-correcting system that got smarter over time—without requiring humans to remember every lesson learned. The feedback loop compounds. Each iteration makes the next one better.
+The critical part: AI agents are instructed to read this file before starting work. When they bootstrap new projects or generate LLM prompts, they apply every lesson automatically. The bootstrapping code improves. The prompts get sharper. Defects that appeared in project #3 don't reappear in project #9.
+
+This isn't a passive changelog. It's an active feedback loop where the AI both records and consumes the improvements. Each spawned project inherits everything learned from the ones before it.
+
+But here's the caveat: **compounding works in both directions.** Vince Lombardi put it best: "Practice does not make perfect. Only perfect practice makes perfect." Sloppy prompts, unchecked code generation, and undocumented lessons don't just fail to improve—they entrench bad habits at scale. The wrong things compound just as easily as the right ones. Deliberate practice—machine-readable docs, adversarial review, explicit feedback capture—is what separates teams that get better from teams that get faster at being mediocre.
 
 ### Speed vs. Quality Trade-offs Are Real
 
