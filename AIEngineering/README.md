@@ -4,9 +4,11 @@
 
 ---
 
-This series captures hard-won lessons from leading a team through the LLM shift that upended and sunk my then-employer, Telepathy.ai, in 2025. The shift rendered our 6+ year proprietary conversational AI backend obsolete in a matter of months. Where there had been 70 engineers, 12 remained. We couldn't compete by doing things the old way with fewer people. We had to change how we work.
+This series documents what I'm learning building Cari at CallBox.com—an AI-First project where the practices in these posts are working in production.
 
-These posts aren't theoretical frameworks or consultant playbooks. They're field notes from a change that happened under real pressure, and principles I'm now applying at my current company.
+But the lessons didn't start there. They started at Telepathy.ai in 2025, where the LLM shift sunk the company. Our 6+ year proprietary conversational AI backend became obsolete in months. Where there had been 70 engineers, 12 remained. We couldn't compete by doing things the old way with fewer people.
+
+That failure taught me what not to do. Cari is teaching me what works. These posts capture both.
 
 ## The Series
 
@@ -18,12 +20,12 @@ What AI-First means and what it's not. Covers the anti-patterns that kill AI ado
 ### [Building an AI-First Engineering Culture](./Building_an_AI-First_Engineering_Culture.md)
 *A practitioner's guide to bringing your engineering culture into the present day*
 
-How to build AI-First culture in your organization, from assessment through scaling. Covers the first four weeks of adoption, when YOLO vibe coding is acceptable, mechanisms for scaling beyond individual experiments, and the math that's changed about tools vs. headcount. Includes real examples from my own tooling: [genesis](https://github.com/bordenet/genesis), [one-pager](https://bordenet.github.io/one-pager/), and more. For the backstory on why genesis uses a multi-repo architecture instead of a monorepo, see [Genesis: Background](https://github.com/bordenet/genesis/blob/main/BACKGROUND.md).
+How to build AI-First culture in your organization, from assessment through scaling. Covers the first four weeks of adoption, when YOLO vibe coding is acceptable, mechanisms for scaling beyond individual experiments, and the math that's changed about tools vs. headcount. Includes real examples from my own tooling, including a [document generation framework](https://github.com/bordenet/genesis) I built to test AI-assisted development patterns. For the full backstory on that experiment—1,600+ commits, 9 repos, what worked and what didn't—see [the background doc](https://github.com/bordenet/genesis/blob/main/BACKGROUND.md).
 
 ### [The Evolution of AI-First Thinking](./The_Evolution_of_AI-First_Thinking.md)
 *What the 2026 data shows and how the approach must change*
 
-The state of the art has changed. This post examines the 2026 industry data—26% productivity gains, velocity trade-offs, AI adoption rates—and what it means for how we work. Covers the lessons learned from Genesis (1,600+ commits, 9 repos, conformity tooling pushed to its limits) and the principles that actually work: architecture-first design, automated verification at every layer, tooling that earns its keep, and human-AI feedback loops that compound over time.
+The state of the art has changed. This post examines the 2026 industry data—26% productivity gains, velocity trade-offs, AI adoption rates—and what it means for how we work. Covers lessons from a [personal experiment in deterministic AI-assisted development](https://github.com/bordenet/genesis/blob/main/BACKGROUND.md) (1,600+ commits, 9 repos, conformity tooling pushed to its limits) and the principles that actually work: architecture-first design, automated verification at every layer, tooling that earns its keep, and human-AI feedback loops that compound over time.
 
 ---
 
