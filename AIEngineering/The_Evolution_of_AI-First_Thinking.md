@@ -1,6 +1,6 @@
 # The Evolution of AI-First Thinking
 
-The state of the art in AI coding assistants has changed. What worked in 2024 doesn't work in 2026. The tools have evolved, the data is in, and some long-held assumptions need revisiting.
+AI coding assistants have changed. What worked in 2024 doesn't work in 2026. The tools have evolved, the data is in, and some long-held assumptions need revisiting.
 
 This isn't about abandoning principles. It's about updating them based on evidence.
 
@@ -10,7 +10,7 @@ This isn't about abandoning principles. It's about updating them based on eviden
 
 In early 2025, I built [a system for deterministic AI-assisted development](https://github.com/bordenet/genesis). The goal: eliminate variance, enforce consistency, make AI coding assistants behave predictably across 9 separate repositories.
 
-I got the tools working. But not without wrestling with model limitations that fought me at every turn. 1,600+ commits. Byte-for-byte diff tools. Self-reinforcing AI instructions. It worked—but the maintenance burden compounded. Every improvement required propagation to 9 derived projects.
+I got the tools working. But not without wrestling with model limitations that fought me at every turn. 1,600+ commits. Byte-for-byte diff tools. Self-reinforcing AI instructions. It worked, but the maintenance burden compounded. Every improvement required propagation to 9 derived projects.
 
 The question became: *what's the better approach?*
 
@@ -21,7 +21,7 @@ Here's what many of us assumed:
 - **Conformity tooling ensures consistency.** If you enforce identical patterns everywhere, quality follows.
 - **More guardrails = better outcomes.** The tighter the constraints, the fewer the mistakes.
 - **AI coding assistants introduce too much variance for production code.** Fine for prototypes, dangerous for real systems.
-- **Vibe coding gets you 80% of the way there—but that last 20% is where the risk lives.** Unreviewed edge cases, subtle bugs, architectural drift accumulating silently.
+- **Vibe coding gets you 80% of the way there, but that last 20% is where the risk lives.** Unreviewed edge cases, subtle bugs, architectural drift accumulating silently.
 
 These assumptions weren't unreasonable. They were based on the state of the tools at the time.
 
@@ -47,13 +47,13 @@ Here's what I'm finding works better now:
 
 ### Architecture-First, AI-Second
 
-Define structure upfront. Let AI handle implementation details. The conformity tooling I built wasn't wrong—it was solving the wrong problem. The answer isn't enforcing identical code across repositories. It's establishing clear architectural boundaries and letting AI work within them.
+Define structure upfront. Let AI handle implementation details. The conformity tooling I built wasn't wrong; it was solving the wrong problem. The answer isn't enforcing identical code across repositories. It's establishing clear architectural boundaries and letting AI work within them.
 
 ### Automated Verification at Every Layer
 
 Tests are necessary but not sufficient. Static analysis, linting, type checking, and custom diffing tools catch what tests miss. The goal: **machines verify machines, humans review outcomes.**
 
-I learned this the hard way. I built project-diff tools that caught divergence across 9 repositories—problems that tests alone would never surface. The lesson: if you're relying solely on test coverage to validate AI-generated code, you're missing entire categories of issues.
+I learned this the hard way. I built project-diff tools that caught divergence across 9 repositories, problems that tests alone would never surface. The lesson: if you're relying solely on test coverage to validate AI-generated code, you're missing entire categories of issues.
 
 ### Tooling That Earns Its Keep
 
@@ -65,23 +65,23 @@ Every tool must reduce friction, not add ceremony. If a check doesn't catch real
 
 The most effective pattern I've found: a `CONTINUOUS_IMPROVEMENT.md` file written *for AI consumption*.
 
-Here's how it works: Every time a defect surfaces—during bootstrapping, after spawning a new project, during code review—I give the AI an explicit prompt: "Record this in CONTINUOUS_IMPROVEMENT.md." The AI logs the problem, the fix, and the lesson learned. The document accumulates institutional memory that no human has to maintain.
+Here's how it works: Every time a defect surfaces (during bootstrapping, after spawning a new project, during code review), I give the AI an explicit prompt: "Record this in CONTINUOUS_IMPROVEMENT.md." The AI logs the problem, the fix, and the lesson learned. The document accumulates institutional memory that no human has to maintain.
 
 The critical part: AI agents are instructed to read this file before starting work. When they bootstrap new projects or generate LLM prompts, they apply every lesson automatically. The bootstrapping code improves. The prompts get sharper. Defects that appeared in project #3 don't reappear in project #9.
 
 This isn't a passive changelog. It's an active feedback loop where the AI both records and consumes the improvements. Each spawned project inherits everything learned from the ones before it.
 
-But here's the caveat: **compounding works in both directions.** Vince Lombardi put it best: "Practice does not make perfect. Only perfect practice makes perfect." Sloppy prompts, unchecked code generation, and undocumented lessons don't just fail to improve—they entrench bad habits at scale. The wrong things compound just as easily as the right ones. Deliberate practice—machine-readable docs, adversarial review, explicit feedback capture—is what separates teams that get better from teams that get faster at being mediocre.
+But here's the caveat: **compounding works in both directions.** Vince Lombardi put it best: "Practice does not make perfect. Only perfect practice makes perfect." Sloppy prompts, unchecked code generation, and undocumented lessons don't just fail to improve; they entrench bad habits at scale. The wrong things compound just as easily as the right ones. Deliberate practice (machine-readable docs, adversarial review, explicit feedback capture) is what separates teams that get better from teams that get faster at being mediocre.
 
 ### Speed vs. Quality Trade-offs Are Real
 
-Know when you're prototyping (accept risk) vs. shipping (mitigate it). The 16-26% velocity gains are real—for the right contexts. The 10-19% slowdown on complex logic is also real. Pretending otherwise leads to either over-engineering prototypes or under-reviewing production code.
+Know when you're prototyping (accept risk) vs. shipping (mitigate it). The 16-26% velocity gains are real, for the right contexts. The 10-19% slowdown on complex logic is also real. Pretending otherwise leads to either over-engineering prototypes or under-reviewing production code.
 
 ## What's Next
 
 The full data table and principles are documented in [the project's AI-First Development section](https://github.com/bordenet/genesis#ai-first-development-lessons-learned). That's the reference implementation of these ideas.
 
-A successor is in development—one that applies these lessons with a lighter touch. Same quality outcomes, less maintenance burden. The evolution continues.
+A successor is in development, one that applies these lessons with a lighter touch. Same quality outcomes, less maintenance burden. The evolution continues.
 
 ---
 
