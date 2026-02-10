@@ -8,7 +8,7 @@ The cost of skipping these foundations is high: teams end up with the complexity
 
 ## Why This Matters Beyond Technology
 
-Here's why I'm publishing this otherwise arbitrary piece of opinion: **SOA is as much a cultural approach as it is a technology choice.** When teams build robust APIs and treat their consumers as internal customers, it becomes natural for organizations to build working end-to-end systems that can survive the long haul.
+Here's why I'm publishing this otherwise arbitrary piece of opinion: **SOA is as much a cultural approach as it is a technology choice.** When teams build reliable APIs and treat their consumers as internal customers, it becomes natural for organizations to build working end-to-end systems that can survive the long haul.
 
 Too many engineering organizations focus on the technical patterns while ignoring the cultural change required. They extract services, implement REST APIs, and deploy to containers, but still operate with monolithic thinking. The result? Distributed systems that are harder to maintain than the monoliths they replaced.
 

@@ -223,7 +223,7 @@ These sources provide frameworks for effective project planning and documentatio
 
 **Related in This Series:**
 - [Understanding What vs How](./Understanding_What_vs_How.md) - *Foundational concepts for document selection*
-- [The PR-FAQ Mechanism](./The_PR-FAQ.md) - *Deep dive into Amazon's working backwards approach*
+- [The PR-FAQ Mechanism](./The_PR-FAQ.md) - *Detailed walkthrough of Amazon's working backwards approach*
 - [The One-Pager](./The_One-Pager.md) - *Quick decision-making documentation*
 
 **Related Topics:**
