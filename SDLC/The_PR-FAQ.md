@@ -3,8 +3,8 @@
 
 > [!NOTE]
 > * Read more about [mechanisms](./Mechanisms:_Building_Self-Correcting_Systems.md)
-> * Generate PR-FAQs with [pr-faq-assistant](https://bordenet.github.io/pr-faq-assistant/) ([repo](https://github.com/bordenet/pr-faq-assistant))
-> * Validate your PR-FAQ with the [pr-faq-validator](https://bordenet.github.io/pr-faq-assistant/validator/) web tool ([repo](https://github.com/bordenet/pr-faq-assistant/tree/main/validator))
+> * Generate PR-FAQs with [DocForge AI](https://bordenet.github.io/docforge-ai/assistant/?type=pr-faq) ([repo](https://github.com/bordenet/docforge-ai))
+> * Validate your PR-FAQ with the [PR-FAQ Validator](https://bordenet.github.io/docforge-ai/validator/?type=pr-faq) web tool
 
 Amazon's PR-FAQ (Press Release / Frequently Asked Questions) mechanism forces teams to define success from the customer's perspective, before anyone builds anything. By articulating customer value in plain, journalistic English, it exposes weak thinking before you've invested months in development.
 
@@ -196,7 +196,7 @@ Marketing fluff undermines credibility. These words signal that you're selling r
 
 ## PR-FAQ Quality Checklist
 
-Use this checklist to self-evaluate before sharing your PR-FAQ. This mirrors what the [pr-faq-validator](https://bordenet.github.io/pr-faq-assistant/validator/) web tool scores.
+Use this checklist to self-evaluate before sharing your PR-FAQ. This mirrors what the [PR-FAQ Validator](https://bordenet.github.io/docforge-ai/validator/?type=pr-faq) web tool scores.
 
 ### Structure & Hook (30 points)
 
@@ -267,7 +267,7 @@ Use this checklist to self-evaluate before sharing your PR-FAQ. This mirrors wha
 - **Below 40:** Major rework needed
 
 > [!TIP]
-> The [pr-faq-assistant](https://bordenet.github.io/pr-faq-assistant/) targets a **70+ score** as a solid starting point for iteration. Don't aim for perfection on the first draft. Get to 70+, then refine.
+> [DocForge AI](https://bordenet.github.io/docforge-ai/assistant/?type=pr-faq) targets a **70+ score** as a solid starting point for iteration. Don't aim for perfection on the first draft. Get to 70+, then refine.
 
 ## Crafting Effective FAQs
 
@@ -491,7 +491,7 @@ A good PR-FAQ requires real thinking time. The writing is the easy part. Get val
 
 ### Validate Your PR-FAQ
 
-- **[pr-faq-validator](https://bordenet.github.io/pr-faq-assistant/validator/)**: Web tool that scores your PR-FAQ against journalistic standards ([repo](https://github.com/bordenet/pr-faq-assistant/tree/main/validator))
+- **[PR-FAQ Validator](https://bordenet.github.io/docforge-ai/validator/?type=pr-faq)**: Web tool that scores your PR-FAQ against journalistic standards ([repo](https://github.com/bordenet/docforge-ai))
 
 ### Real-World Examples
 - **[SVPG's Example PR-FAQ](https://www.svpg.com/example-prfaq/)**: Clean, simple format

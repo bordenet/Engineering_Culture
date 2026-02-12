@@ -3,7 +3,7 @@
 *The fastest way to get unstuck is to write it down in one page.*
 
 > [!NOTE]
-> Generate One-Pagers with [one-pager-assistant](https://bordenet.github.io/one-pager/) ([repo](https://github.com/bordenet/one-pager))
+> Generate One-Pagers with [DocForge AI](https://bordenet.github.io/docforge-ai/assistant/?type=one-pager) ([repo](https://github.com/bordenet/docforge-ai))
 
 You know the feeling: a project idea is swirling in your head, but you can't quite articulate it. You're not sure where to start, what to prioritize, or how to explain it to someone else. You're stuck.
 
