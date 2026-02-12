@@ -17,6 +17,7 @@ The [genesis](https://github.com/bordenet/genesis) tooling referenced throughout
 ## AI Engineering
 * [What AI-First Engineering Looks Like](AIEngineering/What_AI-First_Engineering_Looks_Like.md) - *The mindset shift that defines high-performing AI-native teams, and the anti-patterns that kill adoption*
 * [Building an AI-First Engineering Culture](AIEngineering/Building_an_AI-First_Engineering_Culture.md) - *A practitioner's guide from assessment through scaling, with real examples and hard-won lessons*
+* [The Evolution of AI-First Thinking](AIEngineering/The_Evolution_of_AI-First_Thinking.md) - *What 2026 data shows about AI coding assistants: updating assumptions based on evidence*
 
 ## Culture
 * [The People-Process-Technology Triad: Getting the Order Right](Culture/People_-_Process_-_Technology_Triad.md) - *Why successful engineering organizations prioritize people first, process second, and technology third*
