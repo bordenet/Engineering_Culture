@@ -10,7 +10,7 @@ This isn't about abandoning principles. It's about updating them based on eviden
 
 In early 2025, I started [experimenting with guardrails](https://github.com/bordenet/genesis/blob/main/BACKGROUND.md) to make AI-assisted development as close to deterministic as the tools allowed. The goal: reduce variance, enforce consistency, make AI coding assistants behave predictably across 9 separate repositories.
 
-I got some things right. Others, not so much. 1,600+ commits. Byte-for-byte diff tools. Self-reinforcing AI instructions. The system held together often enough to validate the idea, not often enough to recommend the approach. Constant surprises, relentless maintenance, every improvement requiring propagation to 9 derived projects. What I was doing was unnatural.
+I got some things right. Others, not so much. 1,600+ commits. Byte-for-byte diff tools. [Self-reinforcing AI instructions](https://github.com/bordenet/genesis/blob/main/CONTINUOUS_IMPROVEMENT.md). The system held together often enough to validate the idea, not often enough to recommend the approach. Constant surprises, relentless maintenance, every improvement requiring propagation to 9 derived projects. What I was doing was unnatural.
 
 The question became: *what's the better approach?*
 
