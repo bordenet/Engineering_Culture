@@ -8,9 +8,9 @@ This isn't about abandoning principles. It's about updating them based on eviden
 
 ## Where This Started
 
-In early 2025, I built [a system for deterministic AI-assisted development](https://github.com/bordenet/genesis). The goal: eliminate variance, enforce consistency, make AI coding assistants behave predictably across 9 separate repositories.
+In early 2025, I started [experimenting with guardrails](https://github.com/bordenet/genesis/blob/main/BACKGROUND.md) to make AI-assisted development as close to deterministic as the tools allowed. The goal: reduce variance, enforce consistency, make AI coding assistants behave predictably across 9 separate repositories.
 
-I got the tools working. But not without wrestling with model limitations that fought me at every turn. 1,600+ commits. Byte-for-byte diff tools. Self-reinforcing AI instructions. It worked, but the maintenance burden compounded. Every improvement required propagation to 9 derived projects.
+I got some things right. Others, not so much. 1,600+ commits. Byte-for-byte diff tools. Self-reinforcing AI instructions. The system held together often enough to validate the idea, not often enough to recommend the approach. Constant surprises, relentless maintenance, every improvement requiring propagation to 9 derived projects. What I was doing was unnatural.
 
 The question became: *what's the better approach?*
 
@@ -63,7 +63,7 @@ Every tool must reduce friction, not add ceremony. If a check doesn't catch real
 
 ### Human-AI Feedback Loops
 
-The most effective pattern I've found: a `CONTINUOUS_IMPROVEMENT.md` file written *for AI consumption*.
+The most effective pattern I've found: a [`CONTINUOUS_IMPROVEMENT.md`](https://github.com/bordenet/genesis/blob/main/CONTINUOUS_IMPROVEMENT.md) file written *for AI consumption*.
 
 Here's how it works: Every time a defect surfaces (during bootstrapping, after spawning a new project, during code review), I give the AI an explicit prompt: "Record this in CONTINUOUS_IMPROVEMENT.md." The AI logs the problem, the fix, and the lesson learned. The document accumulates institutional memory that no human has to maintain.
 
