@@ -81,7 +81,7 @@ Know when you're prototyping (accept risk) vs. shipping (mitigate it). The 16-26
 
 The full data table and principles are documented in [the project's AI-First Development section](https://github.com/bordenet/genesis#ai-first-development-lessons-learned). That's the reference implementation of these ideas.
 
-A successor is in development, one that applies these lessons with a lighter touch. Same quality outcomes, less maintenance burden. The evolution continues.
+The successor is [DocForge AI](https://github.com/bordenet/docforge-ai). Shared code is a singleton; plugins define only what varies. AI never touches the core, so it can't introduce entropy. One codebase, one test suite, one PR per fix. The workflow survived. The duplication didn't. These conclusions will likely be obsolete in 9 months. The tools keep changing; we'll move on together.
 
 ---
 
