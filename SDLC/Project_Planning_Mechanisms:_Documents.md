@@ -95,7 +95,7 @@ The most underutilized document in software development, one-pagers excel at:
 Anyone can write these: engineers spotting technical debt, designers seeing UX friction, analysts finding data insights. The low effort encourages documentation over perfection.
 
 ## PRD: The What and Why
---> [Product Requirements Assistant](https://github.com/bordenet/product-requirements-assistant) <--
+> Generate PRDs with [DocForge AI](https://bordenet.github.io/docforge-ai/assistant/?type=prd) ([repo](https://github.com/bordenet/docforge-ai))
 
 A *Product Requirements Document* succeeds when engineering can build the right thing without constant clarification. Modern PRDs focus on:
 
