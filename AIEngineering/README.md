@@ -8,7 +8,7 @@ This series documents what I'm learning building Cari at CallBox.com, an AI-Firs
 
 But the lessons didn't start there. They started at Telepathy.ai in 2025, where the LLM shift sunk the company. Our 6+ year proprietary conversational AI backend became obsolete in months. Where there had been 70 engineers, 12 remained. We couldn't compete by doing things the old way with fewer people.
 
-That failure taught me what not to do. Cari is teaching me what works. These posts capture both.
+That experience reshaped how I think about AI engineering. Cari has been the laboratory for putting those lessons into practice. These posts capture both the setbacks and the breakthroughs.
 
 ## The Series
 
