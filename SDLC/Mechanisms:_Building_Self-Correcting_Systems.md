@@ -39,6 +39,19 @@ Source: [tipoftheday.com](http://tipoftheday.com) Amazon employees have a genera
 
 </details>
 
+### Examples Across Domains
+
+Not all processes are mechanisms. A mechanism has an owner, defined inputs and outputs, and built-in inspection that drives adaptation. Here are examples across domains:
+
+| Category | Mechanism | | Category | Mechanism |
+|:---------|:----------|:-:|:---------|:----------|
+| **Product & Strategy** | [PR-FAQ / working backwards](./The_PR-FAQ.md) | | **Engineering Excellence** | [Architecture decision record](https://adr.github.io/) |
+| | [Six-pager decision narrative](https://workingbackwards.com/concepts/narratives-decision-making/) | | | [CI/CD quality gates](# "A quality gate in a CI/CD pipeline is an automated checkpoint that evaluates artifacts against predefined quality criteria (tests, coverage, static analysis, etc.) and blocks the pipeline if thresholds are not met.") |
+| **Operational Excellence** | [Weekly Operations Review](https://workingbackwards.com/concepts/amazon-operating-cadence/) | | **People & Career** | [Hiring bar-raiser / debrief](https://workingbackwards.com/concepts/bar-raiser-hiring/) |
+| | [Blameless post-incident review](https://sre.google/sre-book/postmortem-culture/) | | | [Calibration sessions](# "A calibration session is a meeting where managers (often with HR) compare and adjust performance ratings together to ensure consistent standards and reduce bias across teams.") |
+| | [On-call rotation + runbooks](https://sre.google/sre-book/being-on-call/) | | **Delivery & Execution** | [Release readiness checklist](https://sre.google/sre-book/launch-checklist/) |
+| **Company Planning** | [QBR / MBR / WBR](https://workingbackwards.com/concepts/amazon-operating-cadence/) | | **Customer & Quality** | [Voice-of-customer review](# "A recurring forum where leaders inspect systematically collected customer feedback (VoC data), analyze it, and agree on prioritized actions to better meet articulated customer needs.") |
+
 ## Why Mechanisms Matter: The Behavioral Shift
 
 The real power of mechanisms isn't just in the processes. It's in how they change team behavior. When implemented well, mechanisms create predictable shifts:
