@@ -16,3 +16,8 @@ NAVIGATION_MAP.md
 *_assessment.md
 *_analysis.md
 *_action_plan.md
+
+# Environment variables
+.env
+.env.local
+.env.*.local
