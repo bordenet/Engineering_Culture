@@ -2,24 +2,22 @@
 
 *How clear writing becomes your most scalable skill and differentiates great engineers from good ones*
 
-Clear writing is a multiplier. One design document can align fifty engineers. One proposal can unlock a quarter's worth of resources. Writing skill becomes increasingly important as technical leadership responsibility grows.
+Clear writing is a multiplier. One design document can align fifty engineers. One proposal can secure a quarter's worth of resources. Writing skill becomes increasingly important as technical leadership responsibility grows.
 
-Professional writing isn't just nice-to-have for engineers. It amplifies everything else you do. Whether you're documenting architecture decisions, proposing new initiatives, or giving feedback to colleagues, your ability to communicate clearly in writing directly impacts your career trajectory and your team's success.
+For engineers, writing is leverage. It shapes decisions, funding, alignment, and trust.
 
 This isn't about becoming a novelist. It's about developing the specific writing skills that make engineering teams more effective, decisions more informed, and careers more successful.
 
 ## Why Writing Matters More Than You Think
 
-### The Introvert's Superpower
-Great writing levels the playing field. In meetings, the loudest voice often wins. In writing, the clearest thinking wins. This is why many introverted engineers find their written proposals carry more weight than their verbal contributions. The ideas get judged on their merits, not on delivery style.
+### Writing Rewards Clear Thinking
+Writing creates a fairer forum for ideas. In meetings, airtime and delivery style can distort outcomes. In writing, readers can evaluate logic, evidence, and trade-offs at their own pace.
 
 ### The Scale Factor
 Code impacts systems. Writing impacts people. A well-written design document influences dozens of engineers. A clear post-mortem prevents future outages across the organization. A compelling project proposal secures resources for your team's most important work.
 
 ### The Amazon Lesson
-Amazon's culture of written narratives over PowerPoint presentations isn't arbitrary. It forces clarity of thinking. You cannot hide fuzzy logic behind impressive slides when you have to write complete sentences that connect your ideas logically.
-
-As Jeff Bezos noted: "PowerPoint-style presentations somehow give permission to gloss over ideas, flatten out any sense of relative importance, and ignore the interconnectedness of ideas."
+Amazon popularized memo-style narratives because prose exposes weak reasoning faster than slide decks. Narrative writing forces authors to make logic, trade-offs, and evidence explicit.
 
 ## Table of Contents
 
@@ -79,7 +77,7 @@ Great engineering writing follows predictable patterns. Your readers should neve
 
 ### The Universal Document Structure
 
-Every professional document should include:
+Most consequential documents benefit from five parts:
 
 1. **Executive Summary** (what and why in 2-3 sentences)
 2. **Context** (background your audience needs)
@@ -146,7 +144,7 @@ Parallel structure makes your writing easier to parse and more professional.
 - Start with the user journey or business flow
 - Explain components from outside-in
 - Use concrete examples before abstract concepts
-- Include diagrams for visual learners
+- Include diagrams when they clarify structure, sequence, or system boundaries
 
 **For Documenting Decisions:**
 - State the decision clearly upfront
@@ -155,9 +153,9 @@ Parallel structure makes your writing easier to parse and more professional.
 - Document assumptions and constraints
 
 **For Writing Requirements:**
-- Use "shall" for mandatory requirements
-- Use "should" for recommended approaches
-- Use "may" for optional features
+- Use "must" for mandatory requirements
+- Use "should" for strong recommendations
+- Use "may" for optional behavior
 - Number requirements for easy reference
 
 ## Phase 4: Revise Ruthlessly
@@ -272,12 +270,12 @@ Great engineering writing often comes from companies with strong writing culture
 ### The Compound Effect
 Each document you write teaches you something new. Each revision makes you more precise. Each piece of feedback improves your next effort.
 
-The engineers who invest in writing skills early in their careers find doors opening that remain closed to even brilliant engineers who can't communicate effectively.
+Engineers who invest in writing skills gain access to opportunities that otherwise go to stronger communicators, regardless of technical depth.
 
 <details>
 <summary>Amazon's Writing Culture: The Historical Context</summary>
 
-These principles originated from Amazon's unique culture where written narratives dominate decision-making. The images below show some of the specific guidance Amazon engineers received:
+The images below circulate online as examples of narrative-writing guidance associated with Amazon. Treat them as illustrative prompts, not primary-source policy documents.
 
 |                                                                     |                                                                     |
 |:--------------------------------------------------------------------|:--------------------------------------------------------------------|
@@ -292,7 +290,7 @@ These principles originated from Amazon's unique culture where written narrative
 |:-------------------------------------------------------------|:--------------------------------------------------------------------|
 | ![](./img/48db98da-c0a9-48e7-9b95-8a3a604f8443.png) | ![](./img/56adc6b3-6f7c-482f-814d-a8c29e8b889c.png) |
 
-These images have been shared across social media since ~2018, demonstrating the lasting impact of Amazon's approach to professional writing.
+
 
 </details>
 
@@ -304,19 +302,11 @@ The engineers who master professional writing find their ideas getting implement
 
 ### Important Cultural Caveat
 
-**Some organizational cultures will find the narrative approach more effective than others.** In environments where people have grown intellectually lazy and gravitated toward nebulous PowerPoint decks, you may encounter significant attention span deficits. When colleagues lack the patience or focus to read even a well-crafted one-pager, you're dealing with much deeper organizational problems that need to be addressed before even ideal documents can make a meaningful impact.
-
-These cultural challenges often manifest as:
-- Preference for bullet points over structured arguments
-- Resistance to reading anything longer than a few sentences
-- Immediate requests to "just put it in slides"
-- Decision-making based on presentation style rather than content quality
-
-In such environments, you may need to gradually introduce better communication practices while simultaneously working on the underlying cultural issues around intellectual rigor and attention to detail.
+**Some organizational cultures will find the narrative approach more effective than others.** Some organizations are conditioned to consume slides instead of prose. In those environments, introduce stronger writing incrementally: concise one-pagers, clear decision memos, and disciplined pre-reads. The issue is usually habit and incentives, not intelligence.
 
 **Start now**: Pick one type of document you write regularly and apply one technique from this guide. Measure the response. Iterate and improve.
 
-Your future self (and your colleagues) will thank you for the investment.
+The return shows up in better decisions, faster alignment, and stronger leadership range.
 
 ## Additional Reading
 
@@ -337,7 +327,7 @@ Your future self (and your colleagues) will thank you for the investment.
 
 **🏠 [Engineering Culture](../README.md)** → **📂 [Culture](../README.md#culture)** → **📄 Professional Writing for Engineers**
 
-**Quick Links:** [🔝 Back to Top](#️-professional-writing-for-engineers-beyond-code-comments) | [📚 Additional Reading](#additional-reading) | [💬 Feedback](https://github.com/bordenet/Engineering_Culture/issues/new)
+**Quick Links:** [🔝 Back to Top](#professional-writing-for-engineers-beyond-code-comments) | [📚 Additional Reading](#additional-reading) | [💬 Feedback](https://github.com/bordenet/Engineering_Culture/issues/new)
 
 **Related in This Series:**
 - [Constructive Feedback: SBI Model](./Constructive_Feedback_SBI_Model.md) - *Structured communication for feedback*
@@ -355,4 +345,4 @@ Your future self (and your colleagues) will thank you for the investment.
 
 ***
 
-*Licensed under [CC0 1.0](https://creativecommons.org/publicdomain/zero/1.0/). Reuse freely with attribution.*
+*Licensed under [CC0 1.0](https://creativecommons.org/publicdomain/zero/1.0/). Reuse freely; attribution appreciated, not required.*

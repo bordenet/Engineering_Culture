@@ -8,7 +8,7 @@
 
 Amazon's PR-FAQ (Press Release / Frequently Asked Questions) mechanism forces teams to define success from the customer's perspective, before anyone builds anything. By articulating customer value in plain, journalistic English, it exposes weak thinking before you've invested months in development.
 
-**But here's the thing: most projects don't need a PR-FAQ.** This guide covers when to use this tool and how to write a high-value one.
+**Most projects do not need a PR-FAQ.** This guide covers when to use this tool and how to write a high-value one.
 
 ## Table of Contents
 
@@ -52,7 +52,7 @@ A PR-FAQ is a fictitious press release for a product that doesn't exist yet, fol
 - Small iterations on existing products
 - When the team already has strong alignment
 
-**A simple test:** If writing the press release feels forced or artificial, process-wise, you probably don't need one.
+**A simple test:** If writing the press release feels forced or artificial, you probably do not need one.
 
 ## The Working Backwards Philosophy
 
@@ -70,7 +70,7 @@ Start with the customer experience and work backwards to the technology, not the
 
 ## Writing the Press Release
 
-The press release should read like something TechCrunch would actually publish. This means following journalistic conventions. If you're straining to make it exciting, you might be solving the wrong problem.
+The press release should read like something a credible trade publication would actually run. This means following journalistic conventions. If you're straining to make it exciting, you might be solving the wrong problem.
 
 ### The Newsworthy Opening
 
@@ -544,8 +544,8 @@ The hardest part isn't writing. It's killing projects when the PR-FAQ reveals th
 
 ---
 
-*Have feedback? [Open an issue](https://github.com/bordenet/Engineering_Culture/issues/new).*
+*Have hard-won lessons about PR-FAQs? I'd love to hear them. [Open an issue](https://github.com/bordenet/Engineering_Culture/issues/new) to share.*
 
 ***
 
-*Licensed under [CC0 1.0](https://creativecommons.org/publicdomain/zero/1.0/). Reuse freely with attribution.*
+*Licensed under [CC0 1.0](https://creativecommons.org/publicdomain/zero/1.0/). Reuse freely; attribution appreciated, not required.*

@@ -4,7 +4,7 @@ High-performing teams have mechanisms. Struggling teams have good intentions. Me
 
 This framework turns chaotic engineering into predictable, improving systems. Whether you're debugging production issues or shipping new features, these principles apply.
 
-This is Amazon's internal framework for building self-correcting systems. It scales from startups to Fortune 100s, and I've applied mechanisms successfully at three startups since leaving the company.
+This framework originated at Amazon and scales from startups to Fortune 100s. I've applied it at three companies since leaving Amazon.
 
 Mechanisms represent the "Process" component of the [People-Process-Technology triad](../Culture/People_-_Process_-_Technology_Triad.md) - they're how you systematically enable people to do their best work.
 
@@ -28,7 +28,7 @@ A mechanism is a complete, self-improving process that transforms specific input
 - **Measurable outputs**: What business results are we driving?
 - **Inspection loops**: How do we learn and improve each cycle?
 
-Think of mechanisms as the engineering mindset applied to organizational problems. Just as we build monitoring and alerting into production systems, we build feedback loops into our processes.
+Mechanisms apply the same engineering discipline to organizational problems that we apply to production systems: define inputs, measure outputs, and iterate.
 
 <details>
 <summary><strong>Source of Inspiration →</strong></summary>
@@ -68,7 +68,7 @@ The real power of mechanisms isn't just in the processes. It's in how they chang
 
 </details>
 
-These shifts happen at companies from startups to Fortune 100s. The move from "trying harder" to structured improvement changes everything.
+The move from "trying harder" to structured improvement is the single most impactful cultural shift I've seen teams make.
 
 ## The Anatomy of Effective Mechanisms
 
@@ -220,10 +220,10 @@ The difference between mechanisms that transform organizations and those that be
 
 Mechanisms transform:
 - A team drowning in production issues into teams that prevent them
-- A 3-month waterfall feature cycle into a 2-week continuous delivery machine
-- A culture of blame into a proud culture of humble, grounded continuous improvement
+- A 3-month waterfall feature cycle into a 2-week continuous delivery cadence
+- A culture of blame into a culture of structured, evidence-based continuous improvement
 
-Mechanisms compound. Each iteration makes the team smarter and the next iteration easier. Problems that initially seemed intractable become solvable when you apply structured thinking and rigorous measurement.
+Mechanisms compound. Each iteration makes the team smarter and the next iteration easier.
 
 Start with one problem. Build one mechanism. Measure the results. The hardest part isn't designing the perfect system. It's starting with an imperfect one and improving it every week.
 
@@ -249,7 +249,7 @@ Start with one problem. Build one mechanism. Measure the results. The hardest pa
 
 **🏠 [Engineering Culture](../README.md)** → **📂 [SDLC](../README.md#sdlc)** → **📄 Mechanisms: Building Self-Correcting Systems**
 
-**Quick Links:** [🔝 Back to Top](#-mechanisms-building-self-correcting-systems) | [📚 Additional Reading](#additional-reading) | [💬 Feedback](https://github.com/bordenet/Engineering_Culture/issues/new)
+**Quick Links:** [🔝 Back to Top](#mechanisms-building-self-correcting-systems) | [📚 Additional Reading](#additional-reading) | [💬 Feedback](https://github.com/bordenet/Engineering_Culture/issues/new)
 
 **Related in This Series:**
 - [Understanding What vs How](./Understanding_What_vs_How.md) - *Foundational thinking for system design*
@@ -263,8 +263,8 @@ Start with one problem. Build one mechanism. Measure the results. The hardest pa
 
 ---
 
-*Have your own templates or hard-won lessons? I'd love to hear them. Drop a comment or [open an issue](https://github.com/bordenet/Engineering_Culture/issues/new) to share.*
+*Have hard-won lessons about building mechanisms? I'd love to hear them. [Open an issue](https://github.com/bordenet/Engineering_Culture/issues/new) to share.*
 
 ***
 
-*Licensed under [CC0 1.0](https://creativecommons.org/publicdomain/zero/1.0/). Reuse freely with attribution.*
+*Licensed under [CC0 1.0](https://creativecommons.org/publicdomain/zero/1.0/). Reuse freely; attribution appreciated, not required.*

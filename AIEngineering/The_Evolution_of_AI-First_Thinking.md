@@ -29,13 +29,13 @@ These assumptions weren't unreasonable. They were based on the state of the tool
 
 The evidence now tells a more nuanced story:
 
+Recent studies point in the same direction: AI improves throughput on well-scoped tasks, produces mixed results on complex logic, and is now mainstream in enterprise settings. The precise percentages vary by task, team, and measurement method, so the operating takeaway matters more than any single number.
+
 | Finding | Source |
 |---------|--------|
-| **26% productivity boost** from AI coding assistants | [IT Revolution](https://itrevolution.com/articles/new-research-reveals-ai-coding-assistants-boost-developer-productivity-by-26-what-it-leaders-need-to-know/) |
-| **16-26% velocity gains** for prototypes and MVPs | [Coaio](https://coaio.com/ai-revolutionizing-software-development/) |
+| **~26% productivity boost** from AI coding assistants (well-scoped tasks) | [IT Revolution](https://itrevolution.com/articles/new-research-reveals-ai-coding-assistants-boost-developer-productivity-by-26-what-it-leaders-need-to-know/) |
 | **10-19% slower** on complex logic due to debugging "almost-right" code | [dev.to](https://dev.to/austin_welsh/ai-assisted-development-in-2026-best-practices-for-the-modern-developer-3jb0) |
-| **60%+ of companies** now using AI across multiple functions | [LinkedIn/McKinsey](https://www.linkedin.com/pulse/5-ai-predictions-executives-cant-ignore-2026-dmitry-sverdlik-igqlf) |
-| **AI agent focus time doubling every 7 months** | METR data via [LinkedIn](https://www.linkedin.com/pulse/5-ai-predictions-executives-cant-ignore-2026-dmitry-sverdlik-igqlf) |
+| **60%+ of companies** now using AI across multiple functions | [McKinsey via LinkedIn](https://www.linkedin.com/pulse/5-ai-predictions-executives-cant-ignore-2026-dmitry-sverdlik-igqlf) |
 
 The [International AI Safety Report 2026](https://internationalaisafetyreport.org/publication/2026-report-extended-summary-policymakers) documents the rapid capability trajectory. [Claude Opus 4.6](https://www.anthropic.com/news/claude-opus-4-6) demonstrates what's now possible with extended thinking and improved reasoning.
 
@@ -59,7 +59,7 @@ I learned this the hard way. I built project-diff tools that caught divergence a
 
 Every tool must reduce friction, not add ceremony. If a check doesn't catch real problems, remove it. If a process slows you down without improving quality, kill it.
 
-**And measure it.** If you can't quantify the value a tool adds, you can't defend keeping it. My document generation framework has 15+ validation checks. Each one exists because it caught a real problem. The ones that didn't? Gone.
+**And measure it.** If you can't quantify the value a tool adds, you can't defend keeping it. My document generation framework runs a defined validation pipeline. Each check remains because it caught a real problem. The ones that didn't? Gone.
 
 ### Human-AI Feedback Loops
 
@@ -71,7 +71,7 @@ The critical part: AI agents are instructed to read this file before starting wo
 
 This isn't a passive changelog. It's an active feedback loop where the AI both records and consumes the improvements. Each spawned project inherits everything learned from the ones before it.
 
-But here's the caveat: **compounding works in both directions.** Vince Lombardi put it best: "Practice does not make perfect. Only perfect practice makes perfect." Sloppy prompts, unchecked code generation, and undocumented lessons don't just fail to improve; they entrench bad habits at scale. The wrong things compound just as easily as the right ones. Deliberate practice (machine-readable docs, adversarial review, explicit feedback capture) is what separates teams that get better from teams that get faster at being mediocre.
+But here's the caveat: **compounding works in both directions.** Sloppy prompts, unchecked code generation, and undocumented lessons don't just fail to improve; they entrench bad habits at scale. The wrong things compound just as easily as the right ones. Deliberate practice (machine-readable docs, adversarial review, explicit feedback capture) is what separates teams that get better from teams that get faster at being mediocre.
 
 ### Speed vs. Quality Trade-offs Are Real
 
@@ -81,7 +81,7 @@ Know when you're prototyping (accept risk) vs. shipping (mitigate it). The 16-26
 
 The full data table and principles are documented in [the project's AI-First Development section](https://github.com/bordenet/genesis#ai-first-development-lessons-learned). That's the reference implementation of these ideas.
 
-The successor is [DocForge AI](https://github.com/bordenet/docforge-ai). Shared code is a singleton; plugins define only what varies. AI never touches the core, so it can't introduce entropy. One codebase, one test suite, one PR per fix. The workflow survived. The duplication didn't. These conclusions will likely be obsolete in 9 months. The tools keep changing; we'll move on together.
+The successor is [DocForge AI](https://github.com/bordenet/docforge-ai). Shared code is a singleton; plugins define only what varies. In the default workflow, AI does not modify the shared core, which sharply reduces architectural drift. One codebase, one test suite, one PR per fix. The workflow survived. The duplication didn't. The tools will keep changing, so this operating model should stay evidence-driven and be revised as the data improves.
 
 ---
 
@@ -106,5 +106,5 @@ The successor is [DocForge AI](https://github.com/bordenet/docforge-ai). Shared 
 
 ***
 
-*Licensed under [CC0 1.0](https://creativecommons.org/publicdomain/zero/1.0/). Reuse freely with attribution.*
+*Licensed under [CC0 1.0](https://creativecommons.org/publicdomain/zero/1.0/). Reuse freely; attribution appreciated, not required.*
 

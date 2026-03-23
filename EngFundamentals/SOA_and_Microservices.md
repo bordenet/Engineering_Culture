@@ -1,6 +1,6 @@
 # SOA & Microservices: Clearing the Confusion
 
-*Why understanding Service-Oriented Architecture is prerequisite to getting microservices right*
+*Why understanding Service-Oriented Architecture is a prerequisite to getting microservices right*
 
 Microservices adoption often skips foundational SOA principles, leading to distributed monoliths that are harder to maintain than the systems they replaced. Understanding SOA deeply, both technically and culturally, provides the foundation for microservices success.
 
@@ -8,11 +8,11 @@ The cost of skipping these foundations is high: teams end up with the complexity
 
 ## Why This Matters Beyond Technology
 
-Here's why I'm publishing this otherwise arbitrary piece of opinion: **SOA is as much a cultural approach as it is a technology choice.** When teams build reliable APIs and treat their consumers as internal customers, it becomes natural for organizations to build working end-to-end systems that can survive the long haul.
+**SOA is as much a cultural approach as it is a technology choice.** When teams build reliable APIs and treat their consumers as internal customers, it becomes natural for organizations to build working end-to-end systems that can survive the long haul.
 
 Too many engineering organizations focus on the technical patterns while ignoring the cultural change required. They extract services, implement REST APIs, and deploy to containers, but still operate with monolithic thinking. The result? Distributed systems that are harder to maintain than the monoliths they replaced.
 
-The teams that succeed with SOA (and by extension, microservices) understand that technology choices are downstream from cultural choices. When you truly embrace service ownership, customer obsession, and operational excellence, the right architectural patterns follow naturally. For more on how organizational structure shapes system architecture, see [Understanding Conway's Law](../Culture/Understanding_Conways_Law.md).
+The teams that succeed with SOA (and by extension, microservices) understand that technology choices are downstream from cultural choices. When you truly embrace service ownership, customer obsession, and operational excellence, the right architectural patterns tend to follow. For more on how organizational structure shapes system architecture, see [Understanding Conway's Law](../Culture/Understanding_Conways_Law.md).
 
 ## Table of Contents
 
@@ -64,7 +64,7 @@ The goal: Distill overall problem complexity into a composition of simpler, focu
 </details>
 
 <details>
-<summary>How AMZN explained SOA to share holders</summary>
+<summary>How AMZN explained SOA to shareholders</summary>
 
 [![](./img/113f7f7a-dbd3-4f92-b206-efe60158fa3e.png)](https://www.factoftheday1.com/p/service-oriented-architecture-54b788b55e4e?utm_source=%2Fsearch%2FSOA&utm_medium=reader2)
 
@@ -222,7 +222,7 @@ SOA and microservices aren't competing philosophies. They're part of an evolutio
 
 1. **Master SOA principles first**. Microservices without SOA foundations become distributed monoliths that are harder to maintain than what you started with.
 
-2. **Culture eats architecture for breakfast**. Your system design will mirror your organizational design, so be intentional about both.
+2. **Organizational behavior shapes architecture more than technical intent**. Your system design will mirror your organizational design, so be intentional about both.
 
 3. **Start simple, evolve with evidence**. Monoliths aren't failures. They're laboratories for discovering your true service boundaries.
 
@@ -230,18 +230,18 @@ SOA and microservices aren't competing philosophies. They're part of an evolutio
 
 5. **Distributed systems are a means, not an end**. Every service you create should solve a real organizational or technical problem, not just follow a pattern.
 
-The "land of confusion" exists because teams adopt the technology without understanding the principles, and adopt the patterns without embracing the culture. Don't be those teams. The stakes are too high and the recovery too expensive.
+The "land of confusion" exists because teams adopt the technology without understanding the principles, and adopt the patterns without changing how they operate. The stakes are high and the recovery is expensive.
 
 <details>
-<summary>Just for fun! S3</summary>
+<summary>Case Study: S3</summary>
 
 Launched in 2006, S3 ("simple storage service") is one of the planet's [first global-scale, public APIs](https://press.aboutamazon.com/2006/3/amazon-web-services-launches). AWS has since added functionality, but reading through the [API spec](https://docs.aws.amazon.com/pdfs/AmazonS3/latest/API/s3-api.pdf#API_Operations_Amazon_Simple_Storage_Service) reveals something important: it's still just get/set operations kept as simple as possible.
 
-S3's design philosophy prioritizes simplicity over sophistication, a principle that has enabled global scale for nearly two decades. As one S3 development manager noted: "We could have made it more sophisticated, but simple scales." Consider this when designing your next service. You're probably not building the next S3.
+S3's design philosophy prioritizes simplicity over sophistication, a principle that has enabled global scale for nearly two decades. As one S3 development manager noted: "We could have made it more sophisticated, but simple scales." Consider this when designing your next service.
 
 </details>
 
-![](./img/b34a1d91-e647-46e1-8bdf-70b8dc20bf00.png)
+![SOA and Microservices relationship diagram](./img/b34a1d91-e647-46e1-8bdf-70b8dc20bf00.png)
 
 ## Additional Reading
 
@@ -262,7 +262,7 @@ S3's design philosophy prioritizes simplicity over sophistication, a principle t
 
 **🏠 [Engineering Culture](../README.md)** → **📂 [Engineering Fundamentals](../README.md#engineering-fundamentals)** → **📄 SOA & Microservices**
 
-**Quick Links:** [🔝 Back to Top](#-soa--microservices-clearing-the-confusion) | [📚 Additional Reading](#additional-reading) | [💬 Feedback](https://github.com/bordenet/Engineering_Culture/issues/new)
+**Quick Links:** [🔝 Back to Top](#soa--microservices-clearing-the-confusion) | [📚 Additional Reading](#additional-reading) | [💬 Feedback](https://github.com/bordenet/Engineering_Culture/issues/new)
 
 **Related in This Series:**
 - [The Road to an SLA](./The_Road_to_an_SLA.md) - *Service-level agreements for distributed systems*
@@ -275,8 +275,8 @@ S3's design philosophy prioritizes simplicity over sophistication, a principle t
 
 ---
 
-*Have your own templates or hard-won lessons? I'd love to hear them. Drop a comment or [open an issue](https://github.com/bordenet/Engineering_Culture/issues/new) to share.*
+*Have hard-won lessons about service architecture? I'd love to hear them. [Open an issue](https://github.com/bordenet/Engineering_Culture/issues/new) to share.*
 
 ***
 
-*Licensed under [CC0 1.0](https://creativecommons.org/publicdomain/zero/1.0/). Reuse freely with attribution.*
+*Licensed under [CC0 1.0](https://creativecommons.org/publicdomain/zero/1.0/). Reuse freely; attribution appreciated, not required.*

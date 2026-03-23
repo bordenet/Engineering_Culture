@@ -2,9 +2,9 @@
 
 *How to build Service Level Agreements that protect your business while enabling growth*
 
-Building your first Service Level Agreement (SLA) is a milestone that signals business maturity. When customers start asking "What guarantee can you give me about availability?" you've moved beyond the startup phase into serious business territory.
+When customers start asking "What guarantee can you give me about availability?" you need a credible answer backed by data, not a number pulled from a slide deck.
 
-This post walks through the systematic approach to building SLAs that are both achievable for engineering teams and meaningful for customers. The point: SLAs aren't arbitrary numbers. They're the result of disciplined measurement and strong operations.
+This post walks through the systematic approach to building SLAs that are both achievable for engineering teams and meaningful for customers. SLAs aren't arbitrary numbers. They're the result of disciplined measurement and strong operations.
 
 > [!NOTE]
 > **Essential Reading**: [Google SRE Book - Service Level Objectives](https://sre.google/sre-book/service-level-objectives/) provides the foundational concepts this post builds upon.
@@ -26,7 +26,7 @@ Successful businesses with sophisticated customers will eventually face this con
 
 > "We're considering your platform for critical business operations. What availability guarantees can you provide, and what compensation can we expect if you fail to meet them?"
 
-If you can't answer with confidence backed by data, you're not ready for enterprise customers. This isn't just about technical capability. It's about business credibility.
+If you can't answer with confidence backed by data, you're not ready for enterprise customers.
 
 ### The Cost of Getting It Wrong
 
@@ -246,9 +246,9 @@ The buffer isn't just safety margin. It's operational capacity:
 
 Moving from "the system seems reliable" to "we guarantee 99.9% availability" requires systematic measurement, operational discipline, and customer focus.
 
-SLAs aren't just technical artifacts. They're business enablers that signal operational maturity and customer commitment. Building them properly requires collaboration between engineering, product, and business teams to balance what's technically achievable with what's commercially competitive.
+SLAs require collaboration between engineering, product, and business teams to balance what's technically achievable with what's commercially competitive.
 
-Start with measurement, build operational confidence through SLOs, then make commitments through SLAs that you can consistently meet. The goal isn't perfect availability. It's predictable, measurable reliability that enables business growth.
+Start with measurement, build operational confidence through SLOs, then make commitments through SLAs that you can consistently meet.
 
 **Related Reading**: Understanding the [People-Process-Technology](../Culture/People_-_Process_-_Technology_Triad.md) framework helps your organization support the operational discipline SLAs require. Building effective [mechanisms for continuous improvement](../SDLC/Mechanisms:_Building_Self-Correcting_Systems.md) enables the systematic approach SLA management demands.
 
@@ -258,7 +258,7 @@ Start with measurement, build operational confidence through SLOs, then make com
 
 **🏠 [Engineering Culture](../README.md)** → **📂 [Engineering Fundamentals](../README.md#engineering-fundamentals)** → **📄 The Road to an SLA**
 
-**Quick Links:** [🔝 Back to Top](#-the-road-to-an-sla-from-metrics-to-customer-commitments) | [📚 Additional Reading](#additional-reading) | [💬 Feedback](https://github.com/bordenet/Engineering_Culture/issues/new)
+**Quick Links:** [🔝 Back to Top](#the-road-to-an-sla-from-metrics-to-customer-commitments) | [📚 Additional Reading](#additional-reading) | [💬 Feedback](https://github.com/bordenet/Engineering_Culture/issues/new)
 
 **Related in This Series:**
 - [SOA & Microservices](./SOA_and_Microservices.md) - *Understanding service architectures that need SLAs*
@@ -271,8 +271,8 @@ Start with measurement, build operational confidence through SLOs, then make com
 
 ---
 
-*Have your own templates or hard-won lessons? I'd love to hear them. Drop a comment or [open an issue](https://github.com/bordenet/Engineering_Culture/issues/new) to share.*
+*Have hard-won lessons about SLAs? I'd love to hear them. [Open an issue](https://github.com/bordenet/Engineering_Culture/issues/new) to share.*
 
 ***
 
-*Licensed under [CC0 1.0](https://creativecommons.org/publicdomain/zero/1.0/). Reuse freely with attribution.*
+*Licensed under [CC0 1.0](https://creativecommons.org/publicdomain/zero/1.0/). Reuse freely; attribution appreciated, not required.*

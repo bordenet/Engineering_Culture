@@ -29,7 +29,7 @@ Effective dashboards evolve through predictable stages. Don't try to build the p
 4. **Deploy to staging first** to validate metrics collection before production
 5. **Debug your data**: Look for metrics that should correlate but don't
 
-**Key principle**: Every metric should either help you understand user experience or system health. If it doesn't serve one of these purposes, consider removing it.
+**Key principle**: Every metric should support an operational decision: user impact, system health, capacity, cost, or business-critical behavior. If it doesn't serve one of these purposes, consider removing it.
 
 > **Expect to see what was always broken**: At iStreamPlanet, we extracted publishing functionality from our monolithic C++ transcoder into a new distributed service in AWS, with data flowing over gRPC from the private cloud. We instrumented the new service properly from day one. Because it sat at the tail end of the live video pipeline, it immediately surfaced every upstream problem, issues the old monolith had been silently swallowing. Good metrics don't create problems; they reveal the ones you didn't know you had.
 
@@ -61,7 +61,7 @@ Effective dashboards evolve through predictable stages. Don't try to build the p
 - **Pie charts**: Generally unhelpful unless you have a compelling reason
 - **Line charts with sparse data**: Lines trick the eye into seeing continuity that doesn't exist. If you're only collecting data every 5 minutes, use bars.
 - **Excessive colors**: Limit color palette to maintain readability
-- **Cluttered displays**: If it's hard to read, simplify or split. You can't monitor for defects or debug a service with a dashboard that looks like the Flying Spaghetti Monster sneezed on it.
+- **Cluttered displays**: If it's hard to read, simplify or split. You can't monitor for defects or debug a service with a dashboard that looks visually dense enough that nobody can spot the signal.
 
 **Build a dashboard hierarchy**:
 - **Executive summary dashboards**: High-level health for leadership visibility
@@ -73,7 +73,7 @@ Effective dashboards evolve through predictable stages. Don't try to build the p
 - **Include threshold lines** showing warning and error levels
 - **Link to related dashboards** and documentation
 
-> **Stop using averages**: At Telepathy, teams had dashboards full of averages, which meant the worst problems were invisible. Your average can look fine while 1% of your users are on fire. We replaced every latency metric with p95 and p99. The problems we'd been missing became obvious overnight.
+> **Stop using averages**: At Telepathy, teams had dashboards full of averages, which meant the worst problems were invisible. Your average can look fine while 1% of your users are experiencing severe degradation. We replaced every latency metric with p95 and p99. The problems we'd been missing became obvious overnight.
 
 ### Phase 3: Study Data and Establish Thresholds
 
@@ -90,11 +90,11 @@ Effective dashboards evolve through predictable stages. Don't try to build the p
 - **Optimize resource allocation**: Right-size based on actual usage patterns
 
 **Validation approach**:
-- Study at least 2-4 weeks of historical data before setting thresholds
+- Study enough historical data to capture normal daily and weekly patterns before setting thresholds
 - Account for daily and weekly usage patterns
 - Consider seasonal variations in traffic or usage
 
-> **The coordination problem**: At Stash, every team was told to define their own SLOs, and that those SLOs would be their "report card." So they went off and did it alone. Some had decent dashboards, hacked together over time; others had basically nothing. Even the teams doing okay had patchwork coverage. Legacy services had it worst. The platform was swiss cheese for observability: gaps everywhere, no end-to-end view, and teams incentivized to set targets they could hit rather than targets that mattered. We formed an Operational Excellence community and built all our dashboards via git-based JSON. That was the unlock: teams could directly borrow from each other, customize, and iterate. We strongly encouraged stealing. When one team figured something out, everyone benefited.
+> **The coordination problem**: At Stash, every team was told to define their own SLOs, and that those SLOs would be their "report card." So they went off and did it alone. Some had decent dashboards, hacked together over time; others had basically nothing. Even the teams doing okay had patchwork coverage. Legacy services had it worst. The platform was Swiss cheese for observability: gaps everywhere, no end-to-end view, and teams incentivized to set targets they could hit rather than targets that mattered. We formed an Operational Excellence community and built all our dashboards via git-based JSON. That changed the dynamic: teams could directly borrow from each other, customize, and iterate. We strongly encouraged reuse. When one team figured something out, everyone benefited.
 
 ### Phase 4: Test Alerting Logic
 
@@ -124,7 +124,7 @@ Effective dashboards evolve through predictable stages. Don't try to build the p
 - **Continuous improvement**: Expect to iterate on alerting rules as your system evolves
 
 **Success metrics**:
-- **Alert-to-incident ratio**: High-quality alerts should correspond to real problems
+- **Alert-to-incident ratio**: Track the percentage of paging alerts that map to actionable, customer-relevant incidents, and drive that percentage up over time
 - **Time to resolution**: Good monitoring should help teams resolve issues faster
 - **Prevention vs. reaction**: Mature monitoring helps prevent problems rather than just detecting them
 
@@ -144,7 +144,7 @@ Once you've built basic dashboards, watch for these failure modes.
 **Result**: False confidence and missed real problems
 **Fix**: Focus on metrics that correlate with user experience
 
-> I've seen teams construct performative dashboards without a clear purpose or plan. They hadn't conceived of an OE strategy, so they created "something" rather than "nothing" and didn't get much consistent value from it. I'm not naming names for this one.
+> I've seen teams construct performative dashboards without a clear purpose or plan. They hadn't conceived of an OE strategy, so they created "something" rather than "nothing" and didn't get much consistent value from it. This pattern is common enough that no single example is necessary.
 
 ### Anti-Pattern 3: The Spaghetti Monster
 **Problem**: Too many overlapping lines on a single graph
@@ -162,7 +162,7 @@ Once you've built basic dashboards, watch for these failure modes.
 
 Dashboards are only useful if they change how you operate.
 
-The role of dashboards: a critical tool, but a small part of a larger Operational Excellence program. They inform which metrics should be armed with the pager, which thresholds constitute warnings, which thresholds constitute errors, and what month-over-month or day-over-day trends tell us. When alarms fire and an engineer gets paged, dashboards tell them where to investigate.
+Dashboards are a critical tool, but only one part of a larger operational excellence program. They inform which metrics should be armed with the pager, which thresholds constitute warnings, which thresholds constitute errors, and what month-over-month or day-over-day trends tell us. When alarms fire and an engineer gets paged, dashboards tell them where to investigate.
 
 ### Building Operational Discipline
 - **Regular dashboard reviews**: Make monitoring review part of team routines
@@ -170,7 +170,7 @@ The role of dashboards: a critical tool, but a small part of a larger Operationa
 - **Cross-team sharing**: Learn from other teams' monitoring approaches. See ["The coordination problem"](#phase-3-study-data-and-establish-thresholds) above.
 
 ### Enabling Automation
-- **SLA monitoring**: Use dashboard metrics to track service level objectives
+- **SLO monitoring**: Use dashboard metrics to track service level objectives
 - **Capacity planning**: Automate scaling decisions based on trending data
 - **Self-healing systems**: Build automation that responds to threshold breaches
 
@@ -179,7 +179,7 @@ The role of dashboards: a critical tool, but a small part of a larger Operationa
 - **Cost optimization**: Use monitoring data to inform resource allocation decisions
 - **Feature impact assessment**: Measure how new features affect system performance
 
-Dashboards exist to tell you what your system is doing. As your business scales and changes, you'll use them to tune thresholds and understand system behavior under different loads. And the proof is whether they help when something breaks. Bring them online in pre-production as part of your development cycle so they add value from day one after you've shipped to production.
+Dashboards exist to tell you what your system is doing. As your business scales and changes, you'll use them to tune thresholds and understand system behavior under different loads. And the proof is whether they help when something breaks. Build dashboards before launch so they are already useful on day one in production.
 
 ## Additional Reading
 
@@ -199,7 +199,7 @@ Dashboards exist to tell you what your system is doing. As your business scales 
 
 **🏠 [Engineering Culture](../README.md)** → **📂 [Engineering Fundamentals](../README.md#engineering-fundamentals)** → **📄 How to Construct a Useful Dashboard**
 
-**Quick Links:** [🔝 Back to Top](#-how-to-construct-a-useful-dashboard) | [📚 Additional Reading](#additional-reading) | [💬 Feedback](https://github.com/bordenet/Engineering_Culture/issues/new)
+**Quick Links:** [🔝 Back to Top](#how-to-construct-a-useful-dashboard) | [📚 Additional Reading](#additional-reading) | [💬 Feedback](https://github.com/bordenet/Engineering_Culture/issues/new)
 
 **Related in This Series:**
 - [What Dashboards Are Good For](./What_Dashboards_are_Good_For.md) - *Understanding dashboard purpose and limitations*
@@ -211,8 +211,8 @@ Dashboards exist to tell you what your system is doing. As your business scales 
 
 ---
 
-*Have your own templates or hard-won lessons? I'd love to hear them. Drop a comment or [open an issue](https://github.com/bordenet/Engineering_Culture/issues/new) to share.*
+*Have hard-won lessons about building useful dashboards? I'd love to hear them. [Open an issue](https://github.com/bordenet/Engineering_Culture/issues/new) to share.*
 
 ***
 
-*Licensed under [CC0 1.0](https://creativecommons.org/publicdomain/zero/1.0/). Reuse freely with attribution.*
+*Licensed under [CC0 1.0](https://creativecommons.org/publicdomain/zero/1.0/). Reuse freely; attribution appreciated, not required.*

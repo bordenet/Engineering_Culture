@@ -10,7 +10,7 @@ The triad gives you three lenses: people (who create value), process (how work f
 
 Too many organizations treat people, process, and technology as independent variables to optimize. The reality? They're interconnected systems where the sequence of investment determines your long-term success or failure.
 
-Get the order wrong, and you'll build beautiful architectures with miserable teams. Get it right, and you'll build adaptive systems with engaged people who solve problems you didn't even know you had. Regardless, this triad still adds value as a device for thinking about problems, prioritizing, and roadmapping. 
+These elements are interconnected, and the order of investment matters. Start with people, support them with process, and let technology amplify both.
 
 ## Table of Contents
 
@@ -30,16 +30,16 @@ Everything else you build serves to amplify human capability, not replace it. Th
 
 ### What "People First" Actually Means
 
-- **Hire for potential, train for skill**: The right person with growth mindset beats the expert with fixed mindset every time
+- **Hire for potential, train for skill**: Over time, a high-potential learner often outperforms a rigid expert
 - **Psychological safety enables performance**: Teams that feel safe to fail, question, and experiment outperform teams that don't
-- **Development is investment, not cost**: Every dollar spent developing your people returns multiples in capability and retention
+- **Development is investment, not cost**: Developing people compounds capability, retention, and leadership depth
 - **Autonomy drives ownership**: People who feel trusted to make decisions take responsibility for outcomes
 
 ### The Multiplication Effect
 
 Great people don't just do great work. They make everyone around them better. They ask questions that expose assumptions, share knowledge that elevates the team, and take ownership of problems beyond their job description.
 
-This is why the "First Team" concept matters: your immediate team's success should always take priority over individual optimization. When people genuinely care about their colleagues' success, the entire organization accelerates.
+This is why leaders should treat their leadership team—not just their local function—as their first team: your immediate team's success should always take priority over individual optimization. When people genuinely care about their colleagues' success, the entire organization accelerates.
 
 ## 2. The Enabler: Process Second
 
@@ -57,7 +57,7 @@ Great process amplifies human capability by:
 
 ### The Evolution Principle
 
-Process must evolve or die. What works for a 10-person startup fails at 100 people. What succeeds in stable markets breaks in volatile ones. 
+Process must evolve with scale and context. Practices that work for a 10-person team rarely survive unchanged at 100 people. What succeeds in stable markets breaks in volatile ones.
 
 **Key insight**: Process changes should be driven by people who use them, not imposed by people who design them. The moment someone says "process is holding us back," that's your cue to listen and adapt.
 
@@ -98,7 +98,7 @@ Every technology choice is a long-term bet. The framework that gets you to marke
 
 ## How They Work Together
 
-The magic happens when all three elements work in harmony:
+The advantage appears when all three elements reinforce one another:
 
 ### The Virtuous Cycle
 
@@ -157,7 +157,7 @@ Each element strengthens the others:
 
 ### Phase 2: People-First Investments
 
-1. **Create psychological safety**: Regular retrospectives, blame-free post-mortems, celebration of intelligent failures (and use [clear communication](Weasel_Words.md) to avoid ambiguity that undermines trust)
+1. **Create psychological safety**: Regular retrospectives, blame-free post-mortems, recognition of sound decisions that produced useful learning even when outcomes missed the mark (and use [clear communication](Weasel_Words.md) to avoid ambiguity that undermines trust)
 2. **Invest in development**: Learning budgets, mentorship programs, stretch assignments
 3. **Enable autonomy**: Clear boundaries with freedom to operate within them
 4. **Build connection**: Regular one-on-ones, team building that isn't forced fun
@@ -173,7 +173,7 @@ Each element strengthens the others:
 
 1. **Audit current tools**: What's helping vs. hindering your people and processes?
 2. **Prioritize developer experience**: Tools should make work easier, not harder
-3. **Invest in observability**: You can't improve what you can't measure. See [What Dashboards Are Good For](../EngFundamentals/What_Dashboards_are_Good_For.md) and [How to Construct a Useful Dashboard](../EngFundamentals/How_to_Construct_a_Useful_Dashboard.md) for building effective monitoring that supports your processes.
+3. **Invest in observability**: Invest in observability so teams can detect, diagnose, and improve system behavior. See [What Dashboards Are Good For](../EngFundamentals/What_Dashboards_are_Good_For.md) and [How to Construct a Useful Dashboard](../EngFundamentals/How_to_Construct_a_Useful_Dashboard.md) for building effective monitoring that supports your processes.
 4. **Plan for scale**: Choose technologies your team can grow with
 
 ## Measuring Success
@@ -206,7 +206,7 @@ The People-Process-Technology framework isn't about prioritizing one over the ot
 
 Organizations that flip this order (starting with cool technology, imposing rigid processes, and treating people as interchangeable resources) might achieve short-term wins but struggle with long-term sustainability.
 
-The magic happens when all three work together: great people designing effective processes that use appropriate technology to create outsized business impact. That's the real competitive advantage.
+The magic happens when all three work together: great people designing effective processes that use appropriate technology to create outsized business impact. That combination produces faster learning, better execution, and more resilient systems.
 
 ## Additional Reading
 
@@ -226,7 +226,7 @@ The magic happens when all three work together: great people designing effective
 
 **🏠 [Engineering Culture](../README.md)** → **📂 [Culture](../README.md#culture)** → **📄 People-Process-Technology Triad**
 
-**Quick Links:** [🔝 Back to Top](#️-the-people-process-technology-triad-getting-the-order-right) | [📚 Additional Reading](#additional-reading) | [💬 Feedback](https://github.com/bordenet/Engineering_Culture/issues/new)
+**Quick Links:** [🔝 Back to Top](#the-people-process-technology-triad-getting-the-order-right) | [📚 Additional Reading](#additional-reading) | [💬 Feedback](https://github.com/bordenet/Engineering_Culture/issues/new)
 
 **Related in This Series:**
 - [Understanding Conway's Law](./Understanding_Conways_Law.md) - *How structure shapes systems*
@@ -245,4 +245,4 @@ The magic happens when all three work together: great people designing effective
 
 ***
 
-*Licensed under [CC0 1.0](https://creativecommons.org/publicdomain/zero/1.0/). Reuse freely with attribution.*
+*Licensed under [CC0 1.0](https://creativecommons.org/publicdomain/zero/1.0/). Reuse freely; attribution appreciated, not required.*

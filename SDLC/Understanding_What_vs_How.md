@@ -2,17 +2,17 @@
 
 *Why confusing outcomes with implementation kills projects before they start*
 
-Engineering projects often fail not because of technical incompetence, but because teams jump straight to implementation without understanding the problem they're solving.
+Engineering projects often fail not because of technical incompetence, but because teams commit to an implementation before they have a clear, shared understanding of the problem.
 
 This distinction determines whether your team builds the right thing, builds it efficiently, and adapts when circumstances change.
 
-Engineering leaders who learn this distinction early guide their teams toward better outcomes. Understanding when to focus on "what" versus "how" prevents wasted effort and misaligned solutions.
+Understanding when to focus on "what" versus "how" prevents wasted effort and misaligned solutions.
 
 ## Why This Distinction Matters
 
 In my observation, most engineering disasters start the same way: someone presents a solution (the "how") disguised as a problem statement (the "what"). The team rallies around the proposed solution, builds it beautifully, and then discovers it doesn't actually solve the real problem.
 
-**The stakes are real**: Misaligning what and how can cost months of development time, destroy team morale, and sometimes kill entire products. Get it right, and you build systems that adapt to changing requirements and deliver genuine value.
+Misaligning what and how can cost months of development time and sometimes kill entire products.
 
 ## Table of Contents
 
@@ -270,7 +270,7 @@ Separating what from how isn't academic. It's the difference between building sy
 
 **Stay connected**: Regularly check that your "how" is still serving your "what." The best teams pivot implementation approaches while staying locked on their desired outcomes.
 
-The engineering world is full of elegant solutions looking for problems. Don't be one of them. Lead with what, then figure out how.
+Lead with what, then figure out how.
 
 ## Additional Reading
 
@@ -290,7 +290,7 @@ The engineering world is full of elegant solutions looking for problems. Don't b
 
 **🏠 [Engineering Culture](../README.md)** → **📂 [SDLC](../README.md#sdlc)** → **📄 Understanding What vs How**
 
-**Quick Links:** [🔝 Back to Top](#️-what-vs-how-the-critical-distinction-in-engineering-leadership) | [📚 Additional Reading](#additional-reading) | [💬 Feedback](https://github.com/bordenet/Engineering_Culture/issues/new)
+**Quick Links:** [🔝 Back to Top](#what-vs-how-the-critical-distinction-in-engineering-leadership) | [📚 Additional Reading](#additional-reading) | [💬 Feedback](https://github.com/bordenet/Engineering_Culture/issues/new)
 
 **Related in This Series:**
 - [Mechanisms: Building Self-Correcting Systems](./Mechanisms:_Building_Self-Correcting_Systems.md) - *Framework for systematic improvement*
@@ -303,8 +303,8 @@ The engineering world is full of elegant solutions looking for problems. Don't b
 
 ---
 
-*Have your own templates or hard-won lessons? I'd love to hear them. Drop a comment or [open an issue](https://github.com/bordenet/Engineering_Culture/issues/new) to share.*
+*Have hard-won lessons about separating what from how? I'd love to hear them. [Open an issue](https://github.com/bordenet/Engineering_Culture/issues/new) to share.*
 
 ***
 
-*Licensed under [CC0 1.0](https://creativecommons.org/publicdomain/zero/1.0/). Reuse freely with attribution.*
+*Licensed under [CC0 1.0](https://creativecommons.org/publicdomain/zero/1.0/). Reuse freely; attribution appreciated, not required.*

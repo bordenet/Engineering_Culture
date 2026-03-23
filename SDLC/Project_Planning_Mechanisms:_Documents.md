@@ -28,7 +28,7 @@ For guidance on writing any of these documents effectively, see [Professional Wr
 
 ## The Document Landscape
 
-Before diving into specifics, here's your quick reference for the most common planning documents:
+Quick reference for the most common planning documents:
 
 | Document Type | Purpose | Owner | Key Question Answered | When to Use |
 |--------------|---------|--------|---------------------|-------------|
@@ -40,7 +40,7 @@ Before diving into specifics, here's your quick reference for the most common pl
 
 ## The Golden Rules
 
-Before exploring each document type, remember these principles:
+Four principles that apply to every document type:
 
 1. **Less is more**: Every document should earn its existence by preventing more confusion than it creates
 2. **Stay in your lane**: Product defines the "why" and "what," Engineering owns the "how"
@@ -70,7 +70,7 @@ The FAQ section addresses internal concerns (feasibility, risks, dependencies), 
 - Writing implementation details
 - Creating wish lists without constraints
 
-**Pro tip**: Use AI to help with writing style, but the strategic thinking must be human. No LLM can tell you if your idea solves a real problem.
+Use AI to improve writing clarity, but the strategic judgment—whether the idea solves a real problem—must be human.
 
 📖 **Learn more**: [Working Backwards: The Amazon Method](https://www.amazon.com/Working-Backwards-Insights-Stories-Secrets/dp/1250267595)
 
@@ -197,7 +197,7 @@ Documentation should accelerate development, not impede it. Every document must 
 3. Serving as a decision record
 4. Enabling new team members to contribute quickly
 
-In the end, working software matters more than comprehensive documentation. But the right documentation, at the right time, makes working software possible.
+Working software matters more than comprehensive documentation. But the right document, at the right time, reduces the cost of building the right thing.
 
 ## Additional Reading
 
@@ -219,7 +219,7 @@ These sources provide frameworks for effective project planning and documentatio
 
 **🏠 [Engineering Culture](../README.md)** → **📂 [SDLC](../README.md#sdlc)** → **📄 Project Planning Mechanisms: Documents**
 
-**Quick Links:** [🔝 Back to Top](#-sdlc-project-planning-mechanisms-a-practical-guide-to-documents) | [📚 Additional Reading](#additional-reading) | [💬 Feedback](https://github.com/bordenet/Engineering_Culture/issues/new)
+**Quick Links:** [🔝 Back to Top](#sdlc-project-planning-mechanisms-a-practical-guide-to-documents) | [📚 Additional Reading](#additional-reading) | [💬 Feedback](https://github.com/bordenet/Engineering_Culture/issues/new)
 
 **Related in This Series:**
 - [Understanding What vs How](./Understanding_What_vs_How.md) - *Foundational concepts for document selection*
@@ -232,8 +232,8 @@ These sources provide frameworks for effective project planning and documentatio
 
 ---
 
-*Have your own templates or hard-won lessons? I'd love to hear them. Drop a comment or [open an issue](https://github.com/bordenet/Engineering_Culture/issues/new) to share.*
+*Have hard-won lessons about planning documents? I'd love to hear them. [Open an issue](https://github.com/bordenet/Engineering_Culture/issues/new) to share.*
 
 ***
 
-*Licensed under [CC0 1.0](https://creativecommons.org/publicdomain/zero/1.0/). Reuse freely with attribution.*
+*Licensed under [CC0 1.0](https://creativecommons.org/publicdomain/zero/1.0/). Reuse freely; attribution appreciated, not required.*
