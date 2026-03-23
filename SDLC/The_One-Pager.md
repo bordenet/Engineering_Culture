@@ -5,7 +5,7 @@
 > [!NOTE]
 > Generate One-Pagers with [DocForge AI](https://bordenet.github.io/docforge-ai/assistant/?type=one-pager) ([repo](https://github.com/bordenet/docforge-ai))
 
-You know the feeling: a project idea is swirling in your head, but you can't quite articulate it. You're not sure where to start, what to prioritize, or how to explain it to someone else. You're stuck.
+A project idea is swirling in your head, but you can't articulate it clearly enough to get a decision. You're stuck.
 
 The One-Pager is my go-to tool for breaking that paralysis. It does two things:
 
@@ -32,7 +32,7 @@ A One-Pager is a document that summarizes a topic to, as the name implies, a sin
 The real value isn't in the brevity itself, but in the discipline it requires. One-pagers force you to identify what actually matters and distinguish between problems and solutions.
 
 > [!WARNING]
-> While a One-Pager is concise, it is not a replacement for detailed project plans or specifications. It is a starting point, not the entire journey.
+> While a One-Pager is concise, it is not a replacement for detailed project plans or specifications. It is a starting point, not the full plan.
 
 ## When to Use (and Not Use) a One-Pager
 
@@ -70,7 +70,7 @@ In essence, a One-Pager is often a precursor to more detailed documents. A succe
 
 ## Anatomy of an Effective One-Pager
 
-A compelling One-Pager is more than just a brain dump. It tells a clear and concise story.
+A compelling One-Pager tells a clear, concise story with a specific ask.
 
 ### One-Pager Template Structure
 
@@ -94,7 +94,7 @@ A compelling One-Pager is more than just a brain dump. It tells a clear and conc
 
 ## Common Mistakes and How to Avoid Them
 
-The failure patterns repeat across organizations. Here are the mistakes that kill one-pagers before they can do their job:
+These failure patterns repeat across organizations:
 
 ### Mistake 1: The Wall of Text
 
@@ -153,7 +153,7 @@ The discipline of the One-Pager pays off: clearer proposals, faster decisions, f
 
 **🏠 [Engineering Culture](../README.md)** → **📂 [SDLC](../README.md#sdlc)** → **📄 The One-Pager**
 
-**Quick Links:** [🔝 Back to Top](#-distilling-clarity-the-one-pager) | [📚 Additional Reading](#additional-reading) | [💬 Feedback](https://github.com/bordenet/Engineering_Culture/issues/new)
+**Quick Links:** [🔝 Back to Top](#distilling-clarity-the-one-pager) | [📚 Additional Reading](#additional-reading) | [💬 Feedback](https://github.com/bordenet/Engineering_Culture/issues/new)
 
 **Related in This Series:**
 - [Project Planning Documents](./Project_Planning_Mechanisms:_Documents.md) - *Choosing the right document type*
@@ -167,9 +167,9 @@ The discipline of the One-Pager pays off: clearer proposals, faster decisions, f
 
 ---
 
-*Have your own templates or hard-won lessons? I'd love to hear them. Drop a comment or [open an issue](https://github.com/bordenet/Engineering_Culture/issues/new) to share.*
+*Have hard-won lessons about one-pagers? I'd love to hear them. [Open an issue](https://github.com/bordenet/Engineering_Culture/issues/new) to share.*
 
 ***
 
-*Licensed under [CC0 1.0](https://creativecommons.org/publicdomain/zero/1.0/). Reuse freely with attribution.*
+*Licensed under [CC0 1.0](https://creativecommons.org/publicdomain/zero/1.0/). Reuse freely; attribution appreciated, not required.*
 

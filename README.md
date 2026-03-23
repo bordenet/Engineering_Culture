@@ -1,17 +1,17 @@
 # Engineering Culture Blog Posts
-*Engineering leadership insights covering culture, SDLC, technical fundamentals, and AI-First practices*
+*Practical essays on engineering leadership, execution, technical fundamentals, and AI-native ways of working*
 
 ---
 
 ## About This Collection
 
-I've spent my career spotting the same problems that kill projects, fixing them before they actually do. Not for lack of effort or talent; these are structural traps that catch smart teams. Vague requirements, unclear ownership, humans organized around the wrong boundaries. Different companies, different tech stacks (Microsoft, Amazon, live broadcast, fintech, AI), same patterns. This is what I've learned to look for.
+Across telecom, broadcast, fintech, and AI, I've seen the same structural failures derail projects—and learned how to spot them early enough to change the outcome. Not for lack of effort or talent; these are structural traps that catch smart teams. Vague requirements, unclear ownership, humans organized around the wrong boundaries. Different companies, different tech stacks (Microsoft, Amazon, live broadcast, fintech, AI), same patterns. This is what I've learned to look for.
 
 AI is an amplifier. It accelerates everything: good and bad. A team with crisp requirements and clear ownership ships in days what used to take weeks. A team with fuzzy requirements produces buggy code just as fast. AI hasn't changed the organizational dynamics [Conway's Law](Culture/Understanding_Conways_Law.md) describes, the damage from unclear ownership, or how technical debt compounds. It just makes the consequences arrive sooner. The [AI Engineering](AIEngineering/README.md) section explores what it takes to build teams that use AI effectively: culture change, not just tool adoption.
 
-The [genesis](https://github.com/bordenet/genesis) tooling referenced throughout this collection is a practical example of these principles in action. For the backstory on its architecture, see [Genesis: Background](https://github.com/bordenet/genesis/blob/main/BACKGROUND.md).
+The [genesis](https://github.com/bordenet/genesis) project is the working reference implementation behind several ideas in this collection. For the architectural rationale, see [Genesis: Background](https://github.com/bordenet/genesis/blob/main/BACKGROUND.md).
 
-**Acknowledgments**: I've been lucky to learn from great mentors at Amazon and iStreamPlanet, and from teammates across every company I've worked with who challenged my thinking and made me better. I'm sharing this to help others grow, too.
+**Acknowledgments**: I've been lucky to learn from great mentors at Amazon and iStreamPlanet, and from teammates across every company I've worked with who challenged my thinking and made me better. I publish these essays to help leaders build clearer, stronger engineering organizations.
 
 
 ## AI Engineering
@@ -35,7 +35,7 @@ The [genesis](https://github.com/bordenet/genesis) tooling referenced throughout
 * [Distilling Clarity: The One-Pager](SDLC/The_One-Pager.md) - *The ultimate tool for alignment and brevity - communicate complex ideas with clarity and drive action*
 
 ## Engineering Fundamentals
-* [SOA & Microservices: Clearing the Confusion](EngFundamentals/SOA_and_Microservices.md) - *Why understanding Service-Oriented Architecture is prerequisite to getting microservices right*
+* [SOA & Microservices: Clearing the Confusion](EngFundamentals/SOA_and_Microservices.md) - *Why understanding Service-Oriented Architecture is a prerequisite to getting microservices right*
 * [The Road to an SLA: From Metrics to Customer Commitments](EngFundamentals/The_Road_to_an_SLA.md) - *How to build Service Level Agreements that protect your business while enabling growth*
 * [What Dashboards Are Good For (And What They're Not)](EngFundamentals/What_Dashboards_are_Good_For.md) - *Understanding the proper role of observability dashboards in engineering operations*
 * [How to Construct a Useful Dashboard](EngFundamentals/How_to_Construct_a_Useful_Dashboard.md) - *A systematic approach to building dashboards that improve operational visibility*
@@ -43,4 +43,4 @@ The [genesis](https://github.com/bordenet/genesis) tooling referenced throughout
 ## License
 © 2026 Matt Bordenet. Licensed under [CC0 1.0](https://creativecommons.org/publicdomain/zero/1.0/).
 
-Fork, remix, and reuse freely. Just credit the original. These are your ideas now too.
+Fork, remix, and reuse freely. Attribution is appreciated, not required.

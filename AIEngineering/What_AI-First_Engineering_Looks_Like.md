@@ -1,10 +1,10 @@
 # What AI-First Engineering Looks Like
 
-In 2024, Telepathy.ai's proprietary AI backend was rendered obsolete in months. The LLM revolution didn't knock politely. It kicked the door in with steel-toed boots. We parted ways with data scientists, AI researchers, and speech specialists who had spent six years building the platform. Where there had been 70 engineers, 12 remained.
+In 2024, Telepathy.ai's proprietary AI backend was rendered obsolete in months. The LLM shift was abrupt and unforgiving. It invalidated years of product and platform assumptions in a matter of months. We parted ways with data scientists, AI researchers, and speech specialists who had spent six years building the platform. Where there had been 70 engineers, 12 remained.
 
-We couldn't compete by doing things the old way with fewer people. We had to change how we work. Engineers who'd been quietly pioneering AI usage suddenly had a willing audience. Within six months, those 12 were shipping faster than the original 70 ever had.
+We couldn't compete by doing things the old way with fewer people. We had to change how we work. Engineers who'd been quietly pioneering AI usage suddenly had a willing audience. Within six months, the smaller team was shipping faster on the highest-priority work than the larger team had.
 
-Spoiler: we all lost our jobs anyway. The company responded too late. But the learnings stuck.
+The company still failed. We changed too late. The lessons remained.
 
 AI-First isn't about tools. It's about defaulting to "collaborate with AI" instead of "Google it" and building that reflex into how teams think, plan, and ship. The tools matter less than the mindset: *AI is how we work now. Not a novelty. Not a shortcut. The default.* Tools like [Superpowers](https://github.com/obra/superpowers), which teaches coding agents disciplined workflows rather than ad-hoc prompting, embody this shift.
 
@@ -14,7 +14,7 @@ AI-First has failure modes. I've seen all of these:
 
 ### The Lone Wolf
 
-One engineer races ahead with experimental tools: custom prompts, new models, workflows nobody else understands. They're productive, but their knowledge doesn't transfer. When they're out sick, nobody can maintain their code, keep up with them to provide support, etc.
+One engineer races ahead with experimental tools: custom prompts, new models, workflows nobody else understands. They're productive, but their knowledge doesn't transfer. When they're out, nobody can maintain the code, support the workflow, or teach others how it works.
 
 **When this is fine:** Early exploration phase. Someone needs to scout the territory.
 
@@ -28,7 +28,7 @@ In our early days, engineers were experimenting with multiple unrelated AI tools
 
 We're now consolidating to a shared set of tools. Standardization enables collaboration. Some pragmatic compromises are necessary, but the goal isn't rigid uniformity.
 
-**The fix:** Let a thousand flowers bloom, briefly. Then prune to a shared toolkit.
+**The fix:** Allow short experiments, then standardize on the tools the team can support and teach.
 
 ### AI as Crutch
 
@@ -76,4 +76,4 @@ AI-First doesn't mean AI-always. Know when to reach for something else:
 
 ***
 
-*Licensed under [CC0 1.0](https://creativecommons.org/publicdomain/zero/1.0/). Reuse freely with attribution.*
+*Licensed under [CC0 1.0](https://creativecommons.org/publicdomain/zero/1.0/). Reuse freely; attribution appreciated, not required.*

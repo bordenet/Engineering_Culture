@@ -9,7 +9,7 @@ Most feedback fails because it comes across as judgment rather than observation.
 
 The most effective feedback follows a simple pattern: Situation-Behavior-Impact (SBI). This framework turns difficult conversations into useful discussions by turning subjective opinions into objective observations that people can actually use.
 
-This isn't just another HR technique. It's a practical framework for having the hard conversations that make teams better while preserving the [psychological safety](People_-_Process_-_Technology_Triad.md#phase-2-people-first-investments) that enables growth.
+This is a practical framework for hard conversations that strengthen teams while preserving [psychological safety](People_-_Process_-_Technology_Triad.md#phase-2-people-first-investments).
 
 ## Table of Contents
 
@@ -23,7 +23,7 @@ This isn't just another HR technique. It's a practical framework for having the 
 
 ## Why Most Feedback Fails
 
-Before diving into the solution, let's understand the problem. Most feedback conversations trigger defensiveness because they violate basic principles of effective communication:
+Most feedback conversations trigger defensiveness for three predictable reasons:
 
 ### The Attribution Error Trap
 We judge others by their actions but ourselves by our intentions. When giving feedback, we often make assumptions about someone's motivations rather than focusing on observable behaviors.
@@ -96,9 +96,9 @@ From Kim Scott's *Radical Candor*:
 
 > "Situation, behavior, impact. The Center for Creative Leadership developed this technique to help leaders be more precise and therefore less arrogant when giving feedback. This simple technique reminds you to describe three things: 1) the situation you saw, 2) the behavior, and 3) the impact you observed. This helps you avoid making judgments about the person's intelligence, common sense, innate goodness, or other personal attributes."
 
-The framework prevents [amygdala hijacking](https://www.healthline.com/health/stress/amygdala-hijack) - when the brain's threat detection system overwhelms rational processing. By focusing on observable facts rather than character judgments, SBI keeps conversations in the rational processing zone where learning can happen.
+The framework prevents [amygdala hijacking](https://www.healthline.com/health/stress/amygdala-hijack) - when the brain's threat detection system overwhelms rational processing. By focusing on observable facts rather than character judgments, SBI lowers the perceived threat in the conversation and improves the odds of a productive response.
 
-![](./img/e8e17829-2387-4c10-a958-291a8c4ccf2e.png)
+![Simple SBI diagram: Situation → Behavior → Impact](./img/e8e17829-2387-4c10-a958-291a8c4ccf2e.png)
 
 </details>
 
@@ -159,7 +159,7 @@ The framework prevents [amygdala hijacking](https://www.healthline.com/health/st
 ### Positive Recognition Example
 
 **Full SBI Statement:**
-"During yesterday's client presentation to Acme Corp, I noticed you anticipated three potential objections and prepared data to address each one before they were even raised. You also adjusted your explanation when you saw confused looks on their faces, using simpler terms to explain the technical concepts. As a result, the client seemed much more confident in our approach, asked follow-up questions that showed real engagement, and we secured their approval to move to the next phase. Your preparation and adaptability made the difference in landing this project."
+"During yesterday's client presentation to Acme Corp, I noticed you anticipated three potential objections and prepared data to address each one before they were even raised. You also adjusted your explanation when you saw confused looks on their faces, using simpler terms to explain the technical concepts. As a result, the client approved moving to the next phase and asked detailed follow-up questions about implementation. Your preparation and adaptability strengthened the discussion and reduced decision risk."
 
 <details>
 <summary>Breaking Down the Example</summary>
@@ -180,7 +180,7 @@ The framework prevents [amygdala hijacking](https://www.healthline.com/health/st
 ### Corrective Feedback Example
 
 **Full SBI Statement:**
-"In this morning's sprint planning meeting, when Sarah was explaining the database performance issue, I noticed you interrupted her twice and started typing on your laptop while she was still talking. When she asked if you had questions, you said 'it's fine' without looking up from your screen. This made Sarah visibly frustrated. She stopped mid-explanation and looked confused about whether to continue. The team couldn't get clarity on the performance requirements, and we had to table the story for next sprint. I'm concerned this pattern might be making it harder for the team to collaborate effectively."
+"In this morning's sprint planning meeting, when Sarah was explaining the database performance issue, I noticed you interrupted her twice and started typing on your laptop while she was still talking. When she asked if you had questions, you said 'it's fine' without looking up from your screen. This made Sarah visibly frustrated. She stopped mid-explanation and looked confused about whether to continue. The team couldn't get clarity on the performance requirements, and we had to table the story for next sprint. This pattern makes collaboration harder because teammates lose the space to surface requirements clearly."
 
 <details>
 <summary>Breaking Down the Example</summary>
@@ -225,7 +225,7 @@ The framework prevents [amygdala hijacking](https://www.healthline.com/health/st
 **The problem**: Assumes motivation and intent
 **Better approach**: "In the last three meetings, you arrived 10 minutes late and didn't contribute to the discussion"
 
-### Mistake 5: The Drama Queen
+### Mistake 5: The Exaggeration Trap
 **What it looks like**: "This completely derailed everything and caused massive confusion"
 **The problem**: Exaggeration undermines credibility
 **Better approach**: "This caused the meeting to run 15 minutes over and left two action items unclear"
@@ -266,16 +266,9 @@ This builds the muscle memory before you need it for difficult conversations.
 
 ## The Bottom Line
 
-Effective feedback isn't about being nice or being tough. It's about being clear, specific, and helpful. The SBI model provides a framework that:
+Clear feedback is specific, direct, and useful. Use SBI to describe the situation, the behavior, and the impact. Start with low-stakes conversations, focus on one behavior at a time, and improve through repetition.
 
-- **Respects people** by focusing on behaviors rather than character
-- **Enables growth** by connecting actions to consequences  
-- **Builds trust** through objective observation rather than subjective judgment
-- **Improves performance** by giving people actionable information they can use
-
-Remember: the goal isn't perfect feedback; it's better feedback. Start using SBI in low-stakes situations, focus on one behavior at a time, and remember that your intent to help someone grow matters as much as your technique.
-
-Great teams are built on great feedback. When people feel safe to receive honest observations about their work, they can make the adjustments that turn good performance into exceptional results.
+Teams improve faster when feedback is clear, specific, and safe to hear.
 
 ## Quick Reference
 
@@ -300,7 +293,7 @@ When giving feedback in writing (performance reviews, code review comments, proj
 
 ## Additional Reading
 
-- **[Radical Candor](https://www.goodreads.com/book/show/29939161-radical-candor)** by Kim Scott - The definitive guide to caring personally while challenging directly
+- **[Radical Candor](https://www.goodreads.com/book/show/29939161-radical-candor)** by Kim Scott - A strong guide to caring personally while challenging directly
 - **[Thanks for the Feedback](https://www.goodreads.com/book/show/18114120-thanks-for-the-feedback)** by Douglas Stone - How to receive feedback effectively (useful for giving it too)
 - **[Weasel Words Guide](Weasel_Words.md)** - Eliminate vague language that undermines your feedback's impact
 
@@ -310,7 +303,7 @@ When giving feedback in writing (performance reviews, code review comments, proj
 
 **🏠 [Engineering Culture](../README.md)** → **📂 [Culture](../README.md#culture)** → **📄 Constructive Feedback: SBI Model**
 
-**Quick Links:** [🔝 Back to Top](#-constructive-feedback-the-sbi-model) | [📚 Additional Reading](#additional-reading) | [💬 Feedback](https://github.com/bordenet/Engineering_Culture/issues/new)
+**Quick Links:** [🔝 Back to Top](#constructive-feedback-the-sbi-model) | [📚 Additional Reading](#additional-reading) | [💬 Feedback](https://github.com/bordenet/Engineering_Culture/issues/new)
 
 **Related in This Series:**
 - [Professional Writing Tips](./Professional_Writing_Tips.md) - *Clear communication foundations*
@@ -326,4 +319,4 @@ When giving feedback in writing (performance reviews, code review comments, proj
 
 ***
 
-*Licensed under [CC0 1.0](https://creativecommons.org/publicdomain/zero/1.0/). Reuse freely with attribution.*
+*Licensed under [CC0 1.0](https://creativecommons.org/publicdomain/zero/1.0/). Reuse freely; attribution appreciated, not required.*

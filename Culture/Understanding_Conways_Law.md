@@ -4,9 +4,9 @@
 
 > *"Organizations which design systems are constrained to produce designs which are copies of the communication structures of these organizations."* - Melvin Conway, 1967
 
-Conway's Law isn't just an interesting observation. It shapes every software system ever built. Most engineering leaders discover this principle too late, when they're debugging communication problems in their architecture and realize they're actually debugging communication problems in their organization.
+Conway's Law isn't just an interesting observation. It exerts pressure on the architecture of every software system. Most engineering leaders discover this principle too late, when they're debugging communication problems in their architecture and realize they're actually debugging communication problems in their organization.
 
-This post explores how to use Conway's Law proactively to design both systems and teams that support your business goals rather than undermine them. Much of this dates back to pre-LLM coding assistant days. There's a massive opportunity for LLMs to change how we work together, provided engineers are aware of the historic patterns and pain points. For a practical look at how AI is reshaping engineering team dynamics, see [What AI-First Engineering Looks Like](../AIEngineering/What_AI-First_Engineering_Looks_Like.md).
+This post explores how to use Conway's Law proactively to design both systems and teams that support your business goals rather than undermine them. The principle predates current AI tooling, but the core lesson still holds: changing tools does not eliminate the organizational forces that shape architecture. For a practical look at how AI is reshaping engineering team dynamics, see [What AI-First Engineering Looks Like](../AIEngineering/What_AI-First_Engineering_Looks_Like.md).
 
 ## Table of Contents
 
@@ -25,7 +25,7 @@ Conway's Law operates at the intersection of organizational psychology and syste
 
 **Systems mirror communication patterns**, not org charts. The actual information flow between people, not the formal reporting structure, determines system boundaries.
 
-**Interface design reflects relationship quality**. Clean, well-defined APIs emerge from teams with clear, respectful communication. Messy, tightly-coupled interfaces reflect confused or conflicted team relationships.
+**Interface design reflects relationship quality**. API quality often reflects team interaction quality: teams with clear interfaces and clear communication tend to produce more coherent boundaries.
 
 **Architectural decisions encode organizational assumptions**. Every microservice boundary, every shared database, every API design carries implicit assumptions about how teams should work together.
 
@@ -53,7 +53,7 @@ Conway's Law operates whether you acknowledge it or not. Understanding its mecha
 ### How It Manifests in Code
 
 **Database Design**
-Teams that don't communicate well create separate databases, even when shared data would be more efficient. Teams that over-communicate create shared databases that become bottlenecks.
+Data boundaries often reveal organizational boundaries: unclear ownership drives awkward sharing models, while strong domain ownership usually produces cleaner data contracts.
 
 **API Boundaries**
 Service boundaries naturally form along team communication boundaries. High-trust teams create rich, efficient APIs. Low-trust teams create defensive, over-specified interfaces.
@@ -62,7 +62,7 @@ Service boundaries naturally form along team communication boundaries. High-trus
 How teams handle failures between their systems directly reflects how they handle communication failures between themselves.
 
 **Documentation Quality**
-Teams that communicate effectively in person often produce poor documentation. Teams forced to communicate asynchronously create comprehensive, clear documentation by necessity. _LLM coding agents are starting to change this. AI-enabled teams can generate crisp docs regardless of circumstance._ See [Building an AI-First Engineering Culture](../AIEngineering/Building_an_AI-First_Engineering_Culture.md) for how this is starting to play out in practice.
+Documentation quality usually follows operating discipline. Teams that rely on tribal knowledge under-invest in written interfaces; teams that work asynchronously are forced to document more clearly.
 
 ### The Feedback Loop
 
@@ -150,7 +150,7 @@ Each team should own components they can fully understand and maintain. Teams st
 Team boundaries should align with business domain boundaries. Teams responsible for unrelated business capabilities produce disconnected system components.
 
 **Communication Efficiency**
-Teams that need to coordinate frequently should have efficient communication channels. Remote teams require different architectural patterns than co-located teams.
+Teams that need to coordinate frequently should have efficient communication channels. Teams with slower or more asynchronous communication need clearer contracts, better documentation, and better interface discipline.
 
 ## Practical Application: Architecture-First Team Design
 
@@ -176,7 +176,7 @@ Before forming teams, clearly define:
 ### Step 2: Design Team Structure
 
 **Team Size and Scope**
-- Each team should own 1-3 closely related services
+- Each team should own a scope they can fully understand, operate, and evolve without excessive cross-team coordination
 - Team size should match the complexity of their domain
 - Teams should have end-to-end responsibility for their components
 
@@ -230,13 +230,13 @@ Track metrics that reveal whether the team structure is supporting or hindering 
 - Missing edge cases and error conditions that only implementers would discover
 - Brittle architectures that break when requirements change
 - Teams that can't adapt when external conditions change
-- **The ultimate consequence**: Implementation teams get paged at 2 AM for systems they didn't design, while architects sleep soundly
+- **The ultimate consequence**: Implementation teams get paged at 2 AM for systems they didn't design, while the people who operate the system bear the consequences of decisions they did not meaningfully shape
 
 **Conway's Law at Work**: The hierarchical, one-way communication creates systems with rigid boundaries that mirror the lack of bidirectional feedback. More critically, the disconnect between design authority and operational responsibility creates systems that optimize for architectural elegance rather than operational reliability.
 
 **The Ownership Reality**: Teams must understand that they will bear the operational burden of architectural decisions. When you implement without questioning, you're accepting responsibility for maintaining something you may not fully understand or believe in. This isn't just about professional growth. It's about your quality of life when systems fail in production.
 
-**Common manifestation**: Teams abdicate system design responsibility by defaulting to "solutions" like using Kafka, SQS, or RabbitMQ as makeshift RPC mechanisms. This creates tightly coupled, unversioned message contracts that make the entire system brittle and impossible to evolve independently. When every team communication goes through a shared message bus without proper interface design, you get the worst of both worlds: distributed system complexity with monolithic coupling.
+**Common manifestation**: Teams abdicate system design responsibility by defaulting to "solutions" like using messaging infrastructure to emulate tightly coupled request-response interactions without explicit contracts, versioning, or ownership. This creates tightly coupled, unversioned message contracts that make the entire system brittle and impossible to evolve independently. When every team communication goes through a shared message bus without proper interface design, you get the worst of both worlds: distributed system complexity with monolithic coupling.
 
 **Solution**:
 - **Make operational responsibility explicit**: Anyone who makes architectural decisions should participate in on-call rotations for those systems
@@ -395,7 +395,7 @@ Organizations that master Conway's Law gain durable advantages:
 
 **Sustainable Growth**: Organizational structures that support desired architectures scale more effectively than accidental structures.
 
-Conway's Law isn't a constraint to fight! It's a principle to use. By designing team structures that support your _desired_ architecture, you can build systems that truly serve your business goals.
+Conway's Law is not just a constraint to manage. It is a design input to use deliberately. By designing team structures that support your _desired_ architecture, you can build systems that truly serve your business goals.
 
 **Related Reading**: Understanding [SOA and microservices patterns](../EngFundamentals/SOA_and_Microservices.md) helps inform architectural decisions that influence team structure. Building effective [mechanisms for organizational improvement](../SDLC/Mechanisms:_Building_Self-Correcting_Systems.md) helps keep your team structures serving their architectural purposes over time.
 
@@ -416,7 +416,7 @@ Conway's Law isn't a constraint to fight! It's a principle to use. By designing 
 
 **🏠 [Engineering Culture](../README.md)** → **📂 [Culture](../README.md#culture)** → **📄 Understanding Conway's Law**
 
-**Quick Links:** [🔝 Back to Top](#️-understanding-conways-law-why-team-structure-determines-system-architecture) | [📚 Additional Reading](#additional-reading) | [💬 Feedback](https://github.com/bordenet/Engineering_Culture/issues/new)
+**Quick Links:** [🔝 Back to Top](#understanding-conways-law-why-team-structure-determines-system-architecture) | [📚 Additional Reading](#additional-reading) | [💬 Feedback](https://github.com/bordenet/Engineering_Culture/issues/new)
 
 **Related in This Series:**
 - [People-Process-Technology Triad](./People_-_Process_-_Technology_Triad.md) - *Organizational design fundamentals*
@@ -432,4 +432,4 @@ Conway's Law isn't a constraint to fight! It's a principle to use. By designing 
 
 ***
 
-*Licensed under [CC0 1.0](https://creativecommons.org/publicdomain/zero/1.0/). Reuse freely with attribution.*
+*Licensed under [CC0 1.0](https://creativecommons.org/publicdomain/zero/1.0/). Reuse freely; attribution appreciated, not required.*

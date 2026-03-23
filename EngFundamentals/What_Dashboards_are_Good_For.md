@@ -1,6 +1,6 @@
 # 📊 What Dashboards Are Good For (And What They're Not)
 
-In 2016, I joined iStreamPlanet, an operationally challenged startup handling live video transcoding for nationally televised broadcasts. They had done some phenomenal work to build their solution, but when systems failed, customer impact was immediate and highly visible. The company had zero useful metrics: just crash dumps and poorly structured, supremely unhelpful and duplicative logs sent to a subpar log store vendor.
+In 2016, I joined iStreamPlanet, an operationally challenged startup handling live video transcoding for nationally televised broadcasts. They had done some phenomenal work to build their solution, but when systems failed, customer impact was immediate and highly visible. The company had zero useful metrics: just crash dumps and poorly structured, duplicative logs sent to a log store that made investigation harder, not easier.
 
 We invested heavily in observability infrastructure, including a prominent dashboard display system. The team built high-quality, trustworthy dashboards. And yet production availability remained stuck at ~92% month-over-month. Services failed silently and stayed down for hours. The dashboards continued to look great in the early days, meaning they didn't help.
 
@@ -16,7 +16,7 @@ The dashboards themselves didn't solve the reliability problems. But they provid
 
 ## The Reality Check: Dashboards Are Passive
 
-Understanding what dashboards cannot do is crucial for building effective monitoring strategies:
+Dashboards are passive. They display data; they do not act on it:
 
 | **Dashboards Will NEVER** | **What This Means** |
 |:---------------------------|:--------------------|
@@ -24,7 +24,7 @@ Understanding what dashboards cannot do is crucial for building effective monito
 | **Alert when consumption drops unexpectedly** | If your service receives zero requests during business hours, that's likely a critical issue - but dashboards won't tell you |
 | **Alert when resources are exhausted** | Memory limits, disk space, connection pools filling up - all require active monitoring, not passive visualization |
 | **Be monitored 24/7 by human eyes** | No one stares at dashboards continuously; expecting humans to watch for problems doesn't scale |
-| **Take corrective action** | Dashboards show you the fire but don't call the fire department |
+| **Take corrective action** | Dashboards display the problem but do not page anyone or trigger remediation |
 
 ## What Dashboards Actually Excel At
 
@@ -73,7 +73,7 @@ We didn't fix availability by staring at dashboards harder. We fixed it by using
 
 **🏠 [Engineering Culture](../README.md)** → **📂 [Engineering Fundamentals](../README.md#engineering-fundamentals)** → **📄 What Dashboards Are Good For**
 
-**Quick Links:** [🔝 Back to Top](#-what-dashboards-are-good-for-and-what-theyre-not) | [📚 Additional Reading](#additional-reading) | [💬 Feedback](https://github.com/bordenet/Engineering_Culture/issues/new)
+**Quick Links:** [🔝 Back to Top](#what-dashboards-are-good-for-and-what-theyre-not) | [📚 Additional Reading](#additional-reading) | [💬 Feedback](https://github.com/bordenet/Engineering_Culture/issues/new)
 
 **Related in This Series:**
 - [How to Construct a Useful Dashboard](./How_to_Construct_a_Useful_Dashboard.md) - *Practical implementation guide*
@@ -85,8 +85,8 @@ We didn't fix availability by staring at dashboards harder. We fixed it by using
 
 ---
 
-*Have your own templates or hard-won lessons? I'd love to hear them. Drop a comment or [open an issue](https://github.com/bordenet/Engineering_Culture/issues/new) to share.*
+*Have hard-won lessons about observability? I'd love to hear them. [Open an issue](https://github.com/bordenet/Engineering_Culture/issues/new) to share.*
 
 ***
 
-*Licensed under [CC0 1.0](https://creativecommons.org/publicdomain/zero/1.0/). Reuse freely with attribution.*
+*Licensed under [CC0 1.0](https://creativecommons.org/publicdomain/zero/1.0/). Reuse freely; attribution appreciated, not required.*
