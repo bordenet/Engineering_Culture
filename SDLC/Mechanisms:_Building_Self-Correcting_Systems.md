@@ -14,7 +14,7 @@ Mechanisms represent the "Process" component of the [People-Process-Technology t
 - [Why Mechanisms Matter: The Behavioral Shift](#why-mechanisms-matter-the-behavioral-shift)
 - [The Anatomy of Effective Mechanisms](#the-anatomy-of-effective-mechanisms)
 - [Example: From Prototype to Production](#example-from-prototype-to-production)
-- [The COE (Correction of Error) Framework](#the-coe-correction-of-error-framework)
+- [Blameless Post-Incident Review](#blameless-post-incident-review)
 - [Building Your First Mechanism](#building-your-first-mechanism)
 - [Common Pitfalls and How to Avoid Them](#common-pitfalls-and-how-to-avoid-them)
 - [Making Mechanisms Stick](#making-mechanisms-stick)
@@ -46,11 +46,11 @@ Not all processes are mechanisms. A mechanism has an owner, defined inputs and o
 | Category | Mechanism | | Category | Mechanism |
 |:---------|:----------|:-:|:---------|:----------|
 | **Product & Strategy** | [PR-FAQ / working backwards](./The_PR-FAQ.md) | | **Engineering Excellence** | [Architecture decision record](https://adr.github.io/) |
-| | [Six-pager decision narrative](https://workingbackwards.com/concepts/narratives-decision-making/) | | | [CI/CD quality gates](# "A quality gate in a CI/CD pipeline is an automated checkpoint that evaluates artifacts against predefined quality criteria (tests, coverage, static analysis, etc.) and blocks the pipeline if thresholds are not met.") |
-| **Operational Excellence** | [Weekly Operations Review](https://workingbackwards.com/concepts/amazon-operating-cadence/) | | **People & Career** | [Hiring bar-raiser / debrief](https://workingbackwards.com/concepts/bar-raiser-hiring/) |
+| | [Decision narrative / RFC](https://workingbackwards.com/concepts/narratives-decision-making/) | | | [CI/CD quality gates](# "A quality gate in a CI/CD pipeline is an automated checkpoint that evaluates artifacts against predefined quality criteria (tests, coverage, static analysis, etc.) and blocks the pipeline if thresholds are not met.") |
+| **Operational Excellence** | [Weekly operations review](https://workingbackwards.com/concepts/amazon-operating-cadence/) | | **People & Career** | [Structured hiring debrief](https://workingbackwards.com/concepts/bar-raiser-hiring/) |
 | | [Blameless post-incident review](https://sre.google/sre-book/postmortem-culture/) | | | [Calibration sessions](# "A calibration session is a meeting where managers (often with HR) compare and adjust performance ratings together to ensure consistent standards and reduce bias across teams.") |
 | | [On-call rotation + runbooks](https://sre.google/sre-book/being-on-call/) | | **Delivery & Execution** | [Release readiness checklist](https://sre.google/sre-book/launch-checklist/) |
-| **Company Planning** | [QBR / MBR / WBR](https://workingbackwards.com/concepts/amazon-operating-cadence/) | | **Customer & Quality** | [Voice-of-customer review](# "A recurring forum where leaders inspect systematically collected customer feedback (VoC data), analyze it, and agree on prioritized actions to better meet articulated customer needs.") |
+| **Company Planning** | [Quarterly / monthly business review](https://workingbackwards.com/concepts/amazon-operating-cadence/) | | **Customer & Quality** | [Voice-of-customer review](# "A recurring forum where leaders inspect systematically collected customer feedback (VoC data), analyze it, and agree on prioritized actions to better meet articulated customer needs.") |
 
 ## Why Mechanisms Matter: The Behavioral Shift
 
@@ -140,11 +140,11 @@ We had a chatbot prototype showing promise in demos but struggling with real cus
 </details>
 
 
-## The COE (Correction of Error) Framework
+## Blameless Post-Incident Review
 
-A key mechanism is Amazon's COE ([Correction of Error](https://www.linkedin.com/posts/bill-carr_when-i-joined-amazon-in-1999-our-software-activity-7396954263480012800-jKcz?utm_source=share&utm_medium=member_desktop&rcm=ACoAAAB549EB8qmxS8SGKoNuvyUcFPxZufxpj1E)) process. It turns failures into repeatable improvements:
+The most effective mechanism for turning failures into improvements is blameless post-incident review. Amazon calls theirs the [COE (Correction of Error)](https://www.linkedin.com/posts/bill-carr_when-i-joined-amazon-in-1999-our-software-activity-7396954263480012800-jKcz?utm_source=share&utm_medium=member_desktop&rcm=ACoAAAB549EB8qmxS8SGKoNuvyUcFPxZufxpj1E). Google's SRE team calls it a [postmortem](https://sre.google/sre-book/postmortem-culture/). The name varies; the discipline is the same.
 
-### How COE Works
+### How It Works
 
 1. **Incident Occurs**: Production issue impacts customers
 2. **Immediate Response**: Fix the problem, restore service
@@ -161,7 +161,7 @@ A key mechanism is Amazon's COE ([Correction of Error](https://www.linkedin.com/
 - **Transparent**: Shared learning across the organization
 - **Measurable**: Track repeat incidents and time-to-resolution
 
-### Visual Examples from Amazon's COE Process
+### Visual Example: Amazon's COE
 
 | **Day 1: The Wheel of Blame** | **Day 2: The Path Forward** |
 |:------------------------------|:----------------------------|
@@ -254,7 +254,7 @@ Start with one problem. Build one mechanism. Measure the results. The hardest pa
 **Related in This Series:**
 - [Understanding What vs How](./Understanding_What_vs_How.md) - *Foundational thinking for system design*
 - [Project Planning Documents](./Project_Planning_Mechanisms:_Documents.md) - *Documentation as mechanism*
-- [The PR-FAQ Mechanism](./The_PR-FAQ.md) - *Amazon's systematic approach*
+- [The PR-FAQ Mechanism](./The_PR-FAQ.md) - *Working backwards from customer value*
 
 **Related Topics:**
 - [People-Process-Technology Triad](../Culture/People_-_Process_-_Technology_Triad.md) - *Organizational framework for mechanisms*
