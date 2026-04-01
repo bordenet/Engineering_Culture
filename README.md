@@ -11,7 +11,7 @@ AI is an amplifier. It accelerates everything: good and bad. A team with crisp r
 
 The [genesis](https://github.com/bordenet/genesis) project is the working reference implementation behind several ideas in this collection. For the architectural rationale, see [Genesis: Background](https://github.com/bordenet/genesis/blob/main/BACKGROUND.md).
 
-**Acknowledgments**: I've been lucky to learn from great mentors at Amazon and iStreamPlanet, and from teammates across every company I've worked with who challenged my thinking and made me better. I publish these essays to help leaders build clearer, stronger engineering organizations.
+**Acknowledgments**: I've been lucky to learn from great mentors at Amazon and iStreamPlanet, and from teammates across every company I've worked with who challenged my thinking and made me better. I publish these essays to help engineering leaders think through these problems before they show up in production.
 
 
 ## AI Engineering
