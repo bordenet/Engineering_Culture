@@ -16,8 +16,8 @@ Writing creates a fairer forum for ideas. In meetings, airtime and delivery styl
 ### The Scale Factor
 Code impacts systems. Writing impacts people. A well-written design document influences dozens of engineers. A clear post-mortem prevents future outages across the organization. A compelling project proposal secures resources for your team's most important work.
 
-### The Amazon Lesson
-Amazon popularized memo-style narratives because prose exposes weak reasoning faster than slide decks. Narrative writing forces authors to make logic, trade-offs, and evidence explicit.
+### Why Prose Beats Slides
+Amazon popularized memo-style narratives, but they weren't the first to recognize the problem. Prose exposes weak reasoning faster than slide decks. Narrative writing forces authors to make logic, trade-offs, and evidence explicit.
 
 ## Table of Contents
 
@@ -313,7 +313,7 @@ The return shows up in better decisions, faster alignment, and stronger leadersh
 ### Framework Connections
 - **[Weasel Words Guide](Weasel_Words.md)** - Eliminate imprecise language that undermines your writing
 - **[What vs. How](../SDLC/Understanding_What_vs_How.md)** - Structure your writing around outcomes before implementation
-- **[The PR-FAQ Mechanism](../SDLC/The_PR-FAQ.md)** - Amazon's approach to customer-focused writing
+- **[The PR-FAQ Mechanism](../SDLC/The_PR-FAQ.md)** - Working backwards from customer value
 - **[SBI Feedback Model](Constructive_Feedback_SBI_Model.md)** - Structure feedback writing for maximum impact
 
 ### Recommended Books
