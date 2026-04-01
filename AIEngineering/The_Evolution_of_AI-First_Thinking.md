@@ -71,7 +71,7 @@ The critical part: AI agents are instructed to read this file before starting wo
 
 This isn't a passive changelog. It's an active feedback loop where the AI both records and consumes the improvements. Each spawned project inherits everything learned from the ones before it.
 
-But here's the caveat: **compounding works in both directions.** Sloppy prompts, unchecked code generation, and undocumented lessons don't just fail to improve; they entrench bad habits at scale. The wrong things compound just as easily as the right ones. Deliberate practice (machine-readable docs, [adversarial review](https://github.com/bordenet/superpowers-plus/blob/main/skills/writing/progressive-harsh-review/skill.md), explicit feedback capture) is what separates teams that get better from teams that get faster at being mediocre.
+But here's the caveat: **compounding works in both directions.** Sloppy prompts, unchecked code generation, and undocumented lessons don't just fail to improve; they entrench bad habits at scale. The wrong things compound just as easily as the right ones. Deliberate practice (machine-readable docs, [adversarial review](https://github.com/bordenet/superpowers-plus/blob/main/skills/engineering/progressive-harsh-review/skill.md), explicit feedback capture) is what separates teams that get better from teams that get faster at being mediocre.
 
 ### Speed vs. Quality Trade-offs Are Real
 
