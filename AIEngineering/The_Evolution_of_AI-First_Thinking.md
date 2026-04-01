@@ -8,7 +8,7 @@ This isn't about abandoning principles. It's about updating them based on eviden
 
 ## Where This Started
 
-In early 2025, I started [experimenting with guardrails](https://github.com/bordenet/genesis/blob/main/BACKGROUND.md) to make AI-assisted development as close to deterministic as the tools allowed. The goal: reduce variance, enforce consistency, make AI coding assistants behave predictably across 9 separate repositories.
+In early 2025, I started [experimenting with guardrails](https://github.com/bordenet/genesis/blob/main/BACKGROUND.md) (now archived) to make AI-assisted development as close to deterministic as the tools allowed. The goal: reduce variance, enforce consistency, make AI coding assistants behave predictably across 9 separate repositories.
 
 I got some things right. Others, not so much. 1,600+ commits. Byte-for-byte diff tools. [Self-reinforcing AI instructions](https://github.com/bordenet/genesis/blob/main/CONTINUOUS_IMPROVEMENT.md). The system held together often enough to validate the idea, not often enough to recommend the approach. Constant surprises, relentless maintenance, every improvement requiring propagation to 9 derived projects. What I was doing was unnatural.
 
@@ -29,7 +29,7 @@ These assumptions weren't unreasonable. They were based on the state of the tool
 
 The evidence now tells a more nuanced story:
 
-Recent studies point in the same direction: AI improves throughput on well-scoped tasks, produces mixed results on complex logic, and is now mainstream in enterprise settings. The precise percentages vary by task, team, and measurement method, so the operating takeaway matters more than any single number.
+Recent studies point in the same direction: AI improves throughput on well-scoped tasks, produces mixed results on complex logic, and is now mainstream in enterprise settings. The precise percentages vary, but the direction is consistent.
 
 | Finding | Source |
 |---------|--------|
@@ -51,7 +51,7 @@ Define structure upfront. Let AI handle implementation details. The conformity t
 
 ### Automated Verification at Every Layer
 
-Tests are necessary but not sufficient. Static analysis, linting, type checking, and custom diffing tools catch what tests miss. The goal: **machines verify machines, humans review outcomes.**
+Tests are necessary but not sufficient. Static analysis, linting, type checking, and custom diffing tools catch what tests miss. The goal: **[machines verify machines](https://github.com/bordenet/superpowers-plus/blob/main/skills/engineering/code-review-battery/skill.md), humans review outcomes.**
 
 I learned this the hard way. I built project-diff tools that caught divergence across 9 repositories, problems that tests alone would never surface. The lesson: if you're relying solely on test coverage to validate AI-generated code, you're missing entire categories of issues.
 
@@ -59,7 +59,7 @@ I learned this the hard way. I built project-diff tools that caught divergence a
 
 Every tool must reduce friction, not add ceremony. If a check doesn't catch real problems, remove it. If a process slows you down without improving quality, kill it.
 
-**And measure it.** If you can't quantify the value a tool adds, you can't defend keeping it. My document generation framework runs a defined validation pipeline. Each check remains because it caught a real problem. The ones that didn't? Gone.
+**And measure it.** If you can't quantify the value a tool adds, you can't defend keeping it. [DocForge AI](https://github.com/bordenet/docforge-ai) runs a defined validation pipeline. Each check remains because it caught a real problem. The ones that didn't? Gone.
 
 ### Human-AI Feedback Loops
 
@@ -71,17 +71,15 @@ The critical part: AI agents are instructed to read this file before starting wo
 
 This isn't a passive changelog. It's an active feedback loop where the AI both records and consumes the improvements. Each spawned project inherits everything learned from the ones before it.
 
-But here's the caveat: **compounding works in both directions.** Sloppy prompts, unchecked code generation, and undocumented lessons don't just fail to improve; they entrench bad habits at scale. The wrong things compound just as easily as the right ones. Deliberate practice (machine-readable docs, adversarial review, explicit feedback capture) is what separates teams that get better from teams that get faster at being mediocre.
+But here's the caveat: **compounding works in both directions.** Sloppy prompts, unchecked code generation, and undocumented lessons don't just fail to improve; they entrench bad habits at scale. The wrong things compound just as easily as the right ones. Deliberate practice (machine-readable docs, [adversarial review](https://github.com/bordenet/superpowers-plus/blob/main/skills/engineering/progressive-harsh-review/skill.md), explicit feedback capture) is what separates teams that get better from teams that get faster at being mediocre.
 
 ### Speed vs. Quality Trade-offs Are Real
 
-Know when you're prototyping (accept risk) vs. shipping (mitigate it). The 16-26% velocity gains are real, for the right contexts. The 10-19% slowdown on complex logic is also real. Pretending otherwise leads to either over-engineering prototypes or under-reviewing production code.
+Know when you're prototyping (accept risk) vs. shipping (mitigate it). The 16-26% velocity gains are real, for the right contexts. The 10-19% slowdown on complex logic is also real. In my experience, pretending otherwise leads to either over-engineering prototypes or under-reviewing production code.
 
 ## What's Next
 
-The full data table and principles are documented in [the project's AI-First Development section](https://github.com/bordenet/genesis#ai-first-development-lessons-learned). That's the reference implementation of these ideas.
-
-The successor is [DocForge AI](https://github.com/bordenet/docforge-ai). Shared code is a singleton; plugins define only what varies. In the default workflow, AI does not modify the shared core, which sharply reduces architectural drift. One codebase, one test suite, one PR per fix. The workflow survived. The duplication didn't. The tools will keep changing, so this operating model should stay evidence-driven and be revised as the data improves.
+The principles described here are now implemented in the successor to the genesis experiment: [DocForge AI](https://github.com/bordenet/docforge-ai). Shared code is a singleton; plugins define only what varies. In the default workflow, AI does not modify the shared core, which sharply reduces architectural drift. One codebase, one test suite, one PR per fix. The workflow survived. The duplication didn't.
 
 ---
 
@@ -98,7 +96,7 @@ The successor is [DocForge AI](https://github.com/bordenet/docforge-ai). Shared 
 
 **Related Topics:**
 - [Mechanisms: Building Self-Correcting Systems](../SDLC/Mechanisms:_Building_Self-Correcting_Systems.md) - *Framework for feedback loops*
-- [The experiment's full backstory](https://github.com/bordenet/genesis/blob/main/BACKGROUND.md) - *1,600+ commits, what worked and what didn't*
+- [The experiment's full backstory](https://github.com/bordenet/genesis/blob/main/BACKGROUND.md) - *1,600+ commits, what worked and what didn't (archived repo)*
 
 ---
 
