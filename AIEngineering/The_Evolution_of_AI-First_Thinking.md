@@ -34,7 +34,7 @@ Recent studies point in the same direction: AI improves throughput on well-scope
 | Finding | Source |
 |---------|--------|
 | **~26% productivity boost** from AI coding assistants (well-scoped tasks) | [IT Revolution](https://itrevolution.com/articles/new-research-reveals-ai-coding-assistants-boost-developer-productivity-by-26-what-it-leaders-need-to-know/) |
-| **10-19% slower** on complex logic due to debugging "almost-right" code | [dev.to](https://dev.to/austin_welsh/ai-assisted-development-in-2026-best-practices-for-the-modern-developer-3jb0) |
+| **19% slower** on complex tasks — experienced developers, despite perceiving speedups | [METR study via Ars Technica](https://arstechnica.com/ai/2025/07/study-finds-ai-tools-made-open-source-software-developers-19-percent-slower/) |
 | **60%+ of companies** now using AI across multiple functions | [McKinsey via LinkedIn](https://www.linkedin.com/pulse/5-ai-predictions-executives-cant-ignore-2026-dmitry-sverdlik-igqlf) |
 
 The [International AI Safety Report 2026](https://internationalaisafetyreport.org/publication/2026-report-extended-summary-policymakers) documents the rapid capability trajectory. [Claude Opus 4.6](https://www.anthropic.com/news/claude-opus-4-6) demonstrates what's now possible with extended thinking and improved reasoning.

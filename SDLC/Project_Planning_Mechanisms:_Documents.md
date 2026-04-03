@@ -113,7 +113,7 @@ A *Product Requirements Document* succeeds when engineering can build the right 
 
 📖 **Templates & Examples**: 
 - [Atlassian's PRD Guide](https://www.atlassian.com/agile/product-management/requirements)
-- [Lenny's Newsletter: PRD Templates](https://www.lennysnewsletter.com/p/my-favorite-product-requirement-document)
+- [Lenny's Newsletter: PRD & 1-Pager Examples](https://www.lennysnewsletter.com/p/prds-1-pagers-examples)
 
 ## Technical Design: The How
 

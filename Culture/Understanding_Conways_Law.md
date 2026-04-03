@@ -404,7 +404,7 @@ Conway's Law is not just a constraint to manage. It is a design input to use del
 ### Foundational Sources
 - **[Melvin Conway's Original Paper (1968)](http://www.melconway.com/Home/Committees_Paper.html)** - "How Do Committees Invent?" The original articulation of Conway's Law
 - **[Martin Fowler: Conway's Law](https://martinfowler.com/bliki/ConwaysLaw.html)** - Essential modern perspective on organizational design and system architecture
-- **[Ruth Malan: Conway's Law](https://ruthmalan.com/Journal/2014/2014JournalJune.htm#Conways_Law)** - Thorough analysis of the implications for software architecture
+- **[Ruth Malan: Conway's Law](https://ruthmalan.com/traceinthesand/conwayslaw.htm)** - Thorough analysis of the implications for software architecture
 
 ### Practical Applications
 - **[Team Topologies by Matthew Skelton and Manuel Pais](https://teamtopologies.com/)** - Comprehensive framework for organizing teams around Conway's Law principles

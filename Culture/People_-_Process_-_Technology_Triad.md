@@ -211,8 +211,8 @@ The magic happens when all three work together: great people designing effective
 ## Additional Reading
 
 ### Organizational Design Foundations
-- **[The Five Dysfunctions of a Team by Patrick Lencioni](https://www.tablegroup.com/books/dysfunctions/)** - Essential framework for understanding team dynamics and trust-building
-- **[Team of Teams by General Stanley McChrystal](https://www.mcchrystalgroup.com/insights/teamofteams/)** - How traditional hierarchies fail in complex environments and what to do instead
+- **[The Five Dysfunctions of a Team by Patrick Lencioni](https://www.tablegroup.com/topics-and-resources/teamwork-5-dysfunctions/)** - Essential framework for understanding team dynamics and trust-building
+- **[Team of Teams by General Stanley McChrystal](https://www.mcchrystalgroup.com/about/books/detail/2015/05/12/team-of-teams-new-rules-of-engagement-for-a-complex-world)** - How traditional hierarchies fail in complex environments and what to do instead
 - **[Accelerate by Nicole Forsgren, Jez Humble, and Gene Kim](https://itrevolution.com/book/accelerate/)** - Research-backed insights on organizational capabilities that drive performance
 
 ### Process and Technology Integration
