@@ -82,7 +82,7 @@ At Telepathy.ai, we didn't have months to rebuild after the LLM revolution gutte
 
 Six months in, the difference was obvious: we were moving faster with 12 than we ever had with 70. I can't give you precise percentages because we weren't running controlled experiments. We were surviving. But the before/after was undeniable.
 
-I'm applying these principles at my [current company](https://CallBox.com). The transformation is in progress.
+I'm applying these principles at my [current company](https://www.callbox.com/). The transformation is in progress.
 
 ---
 

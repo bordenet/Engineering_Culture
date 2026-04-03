@@ -234,7 +234,7 @@ Start with one problem. Build one mechanism. Measure the results. The hardest pa
 ## Additional Reading
 
 ### Continuous Improvement Foundations
-- **[The Toyota Way by Jeffrey Liker](https://www.lean.org/the-lean-library/the-toyota-way/)** - Original framework for continuous improvement and systematic problem-solving
+- **[The Toyota Way by Jeffrey Liker](https://www.goodreads.com/book/show/161789.The_Toyota_Way)** - Original framework for continuous improvement and systematic problem-solving
 - **[The Lean Startup by Eric Ries](http://theleanstartup.com/)** - Build-measure-learn cycles applied to product development
 - **[The Goal by Eliyahu Goldratt](https://www.toc-goldratt.com/en/product/The-Goal-A-Process-of-Ongoing-Improvement)** - Theory of constraints and systematic bottleneck identification
 
