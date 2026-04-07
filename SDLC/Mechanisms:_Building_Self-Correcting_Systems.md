@@ -4,7 +4,7 @@ High-performing teams have mechanisms. Struggling teams have good intentions. Me
 
 This framework turns chaotic engineering into predictable, improving systems. Whether you're debugging production issues or shipping new features, these principles apply.
 
-This framework originated at Amazon and scales from startups to Fortune 100s. I've applied it at three companies since leaving Amazon.
+This is Amazon's internal framework for building self-correcting systems. It scales from startups to Fortune 100s, and I've applied mechanisms successfully at three startups since leaving the company.
 
 Mechanisms represent the "Process" component of the [People-Process-Technology triad](../Culture/People_-_Process_-_Technology_Triad.md) - they're how you systematically enable people to do their best work.
 
@@ -14,7 +14,7 @@ Mechanisms represent the "Process" component of the [People-Process-Technology t
 - [Why Mechanisms Matter: The Behavioral Shift](#why-mechanisms-matter-the-behavioral-shift)
 - [The Anatomy of Effective Mechanisms](#the-anatomy-of-effective-mechanisms)
 - [Example: From Prototype to Production](#example-from-prototype-to-production)
-- [Blameless Post-Incident Review](#blameless-post-incident-review)
+- [The COE (Correction of Error) Framework](#the-coe-correction-of-error-framework)
 - [Building Your First Mechanism](#building-your-first-mechanism)
 - [Common Pitfalls and How to Avoid Them](#common-pitfalls-and-how-to-avoid-them)
 - [Making Mechanisms Stick](#making-mechanisms-stick)
@@ -28,7 +28,7 @@ A mechanism is a complete, self-improving process that transforms specific input
 - **Measurable outputs**: What business results are we driving?
 - **Inspection loops**: How do we learn and improve each cycle?
 
-Mechanisms apply the same engineering discipline to organizational problems that we apply to production systems: define inputs, measure outputs, and iterate.
+Think of mechanisms as the engineering mindset applied to organizational problems. Just as we build monitoring and alerting into production systems, we build feedback loops into our processes.
 
 <details>
 <summary><strong>Source of Inspiration →</strong></summary>
@@ -46,11 +46,11 @@ Not all processes are mechanisms. A mechanism has an owner, defined inputs and o
 | Category | Mechanism | | Category | Mechanism |
 |:---------|:----------|:-:|:---------|:----------|
 | **Product & Strategy** | [PR-FAQ / working backwards](./The_PR-FAQ.md) | | **Engineering Excellence** | [Architecture decision record](https://adr.github.io/) |
-| | [Decision narrative / RFC](https://workingbackwards.com/concepts/narratives-decision-making/) | | | [CI/CD quality gates](# "A quality gate in a CI/CD pipeline is an automated checkpoint that evaluates artifacts against predefined quality criteria (tests, coverage, static analysis, etc.) and blocks the pipeline if thresholds are not met.") |
-| **Operational Excellence** | [Weekly operations review](https://workingbackwards.com/concepts/amazon-operating-cadence/) | | **People & Career** | [Structured hiring debrief](https://workingbackwards.com/concepts/bar-raiser-hiring/) |
+| | [Six-pager decision narrative](https://workingbackwards.com/concepts/narratives-decision-making/) | | | [CI/CD quality gates](# "A quality gate in a CI/CD pipeline is an automated checkpoint that evaluates artifacts against predefined quality criteria (tests, coverage, static analysis, etc.) and blocks the pipeline if thresholds are not met.") |
+| **Operational Excellence** | [Weekly Operations Review](https://workingbackwards.com/concepts/amazon-operating-cadence/) | | **People & Career** | [Hiring bar-raiser / debrief](https://workingbackwards.com/concepts/bar-raiser-hiring/) |
 | | [Blameless post-incident review](https://sre.google/sre-book/postmortem-culture/) | | | [Calibration sessions](# "A calibration session is a meeting where managers (often with HR) compare and adjust performance ratings together to ensure consistent standards and reduce bias across teams.") |
 | | [On-call rotation + runbooks](https://sre.google/sre-book/being-on-call/) | | **Delivery & Execution** | [Release readiness checklist](https://sre.google/sre-book/launch-checklist/) |
-| **Company Planning** | [Quarterly / monthly business review](https://workingbackwards.com/concepts/amazon-operating-cadence/) | | **Customer & Quality** | [Voice-of-customer review](# "A recurring forum where leaders inspect systematically collected customer feedback (VoC data), analyze it, and agree on prioritized actions to better meet articulated customer needs.") |
+| **Company Planning** | [QBR / MBR / WBR](https://workingbackwards.com/concepts/amazon-operating-cadence/) | | **Customer & Quality** | [Voice-of-customer review](# "A recurring forum where leaders inspect systematically collected customer feedback (VoC data), analyze it, and agree on prioritized actions to better meet articulated customer needs.") |
 
 ## Why Mechanisms Matter: The Behavioral Shift
 
@@ -68,7 +68,7 @@ The real power of mechanisms isn't just in the processes. It's in how they chang
 
 </details>
 
-The move from "trying harder" to structured improvement is the single most impactful cultural shift I've seen teams make.
+These shifts happen at companies from startups to Fortune 100s. The move from "trying harder" to structured improvement changes everything.
 
 ## The Anatomy of Effective Mechanisms
 
@@ -140,11 +140,11 @@ We had a chatbot prototype showing promise in demos but struggling with real cus
 </details>
 
 
-## Blameless Post-Incident Review
+## The COE (Correction of Error) Framework
 
-The most effective mechanism for turning failures into improvements is blameless post-incident review. Amazon calls theirs the [COE (Correction of Error)](https://www.linkedin.com/posts/bill-carr_when-i-joined-amazon-in-1999-our-software-activity-7396954263480012800-jKcz?utm_source=share&utm_medium=member_desktop&rcm=ACoAAAB549EB8qmxS8SGKoNuvyUcFPxZufxpj1E). Google's SRE team calls it a [postmortem](https://sre.google/sre-book/postmortem-culture/). The name varies; the discipline is the same.
+A key mechanism is Amazon's COE ([Correction of Error](https://www.linkedin.com/posts/bill-carr_when-i-joined-amazon-in-1999-our-software-activity-7396954263480012800-jKcz?utm_source=share&utm_medium=member_desktop&rcm=ACoAAAB549EB8qmxS8SGKoNuvyUcFPxZufxpj1E)) process. It turns failures into repeatable improvements:
 
-### How It Works
+### How COE Works
 
 1. **Incident Occurs**: Production issue impacts customers
 2. **Immediate Response**: Fix the problem, restore service
@@ -161,7 +161,7 @@ The most effective mechanism for turning failures into improvements is blameless
 - **Transparent**: Shared learning across the organization
 - **Measurable**: Track repeat incidents and time-to-resolution
 
-### Visual Example: Amazon's COE
+### Visual Examples from Amazon's COE Process
 
 | **Day 1: The Wheel of Blame** | **Day 2: The Path Forward** |
 |:------------------------------|:----------------------------|
@@ -220,10 +220,10 @@ The difference between mechanisms that transform organizations and those that be
 
 Mechanisms transform:
 - A team drowning in production issues into teams that prevent them
-- A 3-month waterfall feature cycle into a 2-week continuous delivery cadence
-- A culture of blame into a culture of structured, evidence-based continuous improvement
+- A 3-month waterfall feature cycle into a 2-week continuous delivery machine
+- A culture of blame into a proud culture of humble, grounded continuous improvement
 
-Mechanisms compound. Each iteration makes the team smarter and the next iteration easier.
+Mechanisms compound. Each iteration makes the team smarter and the next iteration easier. Problems that initially seemed intractable become solvable when you apply structured thinking and rigorous measurement.
 
 Start with one problem. Build one mechanism. Measure the results. The hardest part isn't designing the perfect system. It's starting with an imperfect one and improving it every week.
 
@@ -234,7 +234,7 @@ Start with one problem. Build one mechanism. Measure the results. The hardest pa
 ## Additional Reading
 
 ### Continuous Improvement Foundations
-- **[The Toyota Way by Jeffrey Liker](https://www.goodreads.com/book/show/161789.The_Toyota_Way)** - Original framework for continuous improvement and systematic problem-solving
+- **[The Toyota Way by Jeffrey Liker](https://www.lean.org/the-lean-library/the-toyota-way/)** - Original framework for continuous improvement and systematic problem-solving
 - **[The Lean Startup by Eric Ries](http://theleanstartup.com/)** - Build-measure-learn cycles applied to product development
 - **[The Goal by Eliyahu Goldratt](https://www.toc-goldratt.com/en/product/The-Goal-A-Process-of-Ongoing-Improvement)** - Theory of constraints and systematic bottleneck identification
 
@@ -249,12 +249,12 @@ Start with one problem. Build one mechanism. Measure the results. The hardest pa
 
 **🏠 [Engineering Culture](../README.md)** → **📂 [SDLC](../README.md#sdlc)** → **📄 Mechanisms: Building Self-Correcting Systems**
 
-**Quick Links:** [🔝 Back to Top](#mechanisms-building-self-correcting-systems) | [📚 Additional Reading](#additional-reading) | [💬 Feedback](https://github.com/bordenet/Engineering_Culture/issues/new)
+**Quick Links:** [🔝 Back to Top](#-mechanisms-building-self-correcting-systems) | [📚 Additional Reading](#additional-reading) | [💬 Feedback](https://github.com/bordenet/Engineering_Culture/issues/new)
 
 **Related in This Series:**
 - [Understanding What vs How](./Understanding_What_vs_How.md) - *Foundational thinking for system design*
 - [Project Planning Documents](./Project_Planning_Mechanisms:_Documents.md) - *Documentation as mechanism*
-- [The PR-FAQ Mechanism](./The_PR-FAQ.md) - *Working backwards from customer value*
+- [The PR-FAQ Mechanism](./The_PR-FAQ.md) - *Amazon's systematic approach*
 
 **Related Topics:**
 - [People-Process-Technology Triad](../Culture/People_-_Process_-_Technology_Triad.md) - *Organizational framework for mechanisms*
@@ -263,8 +263,8 @@ Start with one problem. Build one mechanism. Measure the results. The hardest pa
 
 ---
 
-*Have hard-won lessons about building mechanisms? I'd love to hear them. [Open an issue](https://github.com/bordenet/Engineering_Culture/issues/new) to share.*
+*Have your own templates or hard-won lessons? I'd love to hear them. Drop a comment or [open an issue](https://github.com/bordenet/Engineering_Culture/issues/new) to share.*
 
 ***
 
-*Licensed under [CC0 1.0](https://creativecommons.org/publicdomain/zero/1.0/). Reuse freely; attribution appreciated, not required.*
+*Licensed under [CC0 1.0](https://creativecommons.org/publicdomain/zero/1.0/). Reuse freely with attribution.*
