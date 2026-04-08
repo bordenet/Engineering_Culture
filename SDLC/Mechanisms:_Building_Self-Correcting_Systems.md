@@ -46,11 +46,11 @@ Not all processes are mechanisms. A mechanism has an owner, defined inputs and o
 | Category | Mechanism | | Category | Mechanism |
 |:---------|:----------|:-:|:---------|:----------|
 | **Product & Strategy** | [PR-FAQ / working backwards](./The_PR-FAQ.md) | | **Engineering Excellence** | [Architecture decision record](https://adr.github.io/) |
-| | [Decision narrative / RFC](https://workingbackwards.com/concepts/narratives-decision-making/) | | | [CI/CD quality gates](# "A quality gate in a CI/CD pipeline is an automated checkpoint that evaluates artifacts against predefined quality criteria (tests, coverage, static analysis, etc.) and blocks the pipeline if thresholds are not met.") |
-| **Operational Excellence** | [Weekly operations review](https://workingbackwards.com/concepts/amazon-operating-cadence/) | | **People & Career** | [Structured hiring debrief](https://workingbackwards.com/concepts/bar-raiser-hiring/) |
+| | [Six-pager / decision narrative](https://workingbackwards.com/concepts/narratives-decision-making/) | | | [CI/CD quality gates](# "A quality gate in a CI/CD pipeline is an automated checkpoint that evaluates artifacts against predefined quality criteria (tests, coverage, static analysis, etc.) and blocks the pipeline if thresholds are not met.") |
+| **Operational Excellence** | [Weekly operations review](https://workingbackwards.com/concepts/amazon-operating-cadence/) | | **People & Career** | [Hiring bar-raiser / debrief](https://workingbackwards.com/concepts/bar-raiser-hiring/) |
 | | [Blameless post-incident review](https://sre.google/sre-book/postmortem-culture/) | | | [Calibration sessions](# "A calibration session is a meeting where managers (often with HR) compare and adjust performance ratings together to ensure consistent standards and reduce bias across teams.") |
 | | [On-call rotation + runbooks](https://sre.google/sre-book/being-on-call/) | | **Delivery & Execution** | [Release readiness checklist](https://sre.google/sre-book/launch-checklist/) |
-| **Company Planning** | [Quarterly / monthly business review](https://workingbackwards.com/concepts/amazon-operating-cadence/) | | **Customer & Quality** | [Voice-of-customer review](# "A recurring forum where leaders inspect systematically collected customer feedback (VoC data), analyze it, and agree on prioritized actions to better meet articulated customer needs.") |
+| **Company Planning** | [QBR / MBR / WBR](# "Quarterly, Monthly, and Weekly Business Reviews — Amazon's layered operating-cadence forums for inspecting metrics and driving action.") | | **Customer & Quality** | [Voice-of-customer review](# "A recurring forum where leaders inspect systematically collected customer feedback (VoC data), analyze it, and agree on prioritized actions to better meet articulated customer needs.") |
 
 ## Why Mechanisms Matter: The Behavioral Shift
 
