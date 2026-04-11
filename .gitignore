@@ -21,3 +21,6 @@ NAVIGATION_MAP.md
 .env
 .env.local
 .env.*.local
+
+# Code review clearance sentinels (generated, local only)
+.code-review-cleared
