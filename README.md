@@ -1,4 +1,4 @@
-# Engineering Culture Blog Posts
+# Engineering Culture
 *Practical essays on engineering leadership, execution, technical fundamentals, and AI-native ways of working*
 
 ---
@@ -9,7 +9,7 @@ Across telecom, broadcast, fintech, and AI, I've seen many of the same structura
 
 AI is an amplifier. It accelerates everything: good and bad. A team with crisp requirements, clear expectations and accountability for every employee, and unobstructed ownership ships in days what used to take weeks. A team with weak requirements puts themselves at risk of producing buggy code or building the wrong product just as fast. AI hasn't changed the organizational dynamics [Conway's Law](Culture/Understanding_Conways_Law.md) describes, the damage from unclear ownership, or how technical debt compounds. It just makes the consequences arrive sooner. The [AI Engineering](AIEngineering/README.md) section explores what it takes to build teams that use AI effectively: culture change, not just tool adoption.
 
-The [genesis](https://github.com/bordenet/genesis) project is the working reference implementation behind several ideas in this collection. For the architectural rationale, see [Genesis: Background](https://github.com/bordenet/genesis/blob/main/BACKGROUND.md).
+Several of the AI essays draw on [genesis](https://github.com/bordenet/genesis), an archived experiment in guardrails for AI-assisted development ([background](https://github.com/bordenet/genesis/blob/main/BACKGROUND.md)). Its successor is [DocForge AI](https://github.com/bordenet/docforge-ai).
 
 **Acknowledgments**: I've been lucky to learn from great mentors at Amazon and iStreamPlanet, and from teammates across every company I've worked with who challenged my thinking and made me better. I publish these essays to help engineering leaders think through these problems before they show up in production.
 
